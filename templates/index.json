@@ -25,6 +25,65 @@
         "overlay_opacity": 0
       }
     },
+    "logo_list_ziyRGK": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_WCRJAp": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/mens-health-logo-1_1.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_7X9hqg": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Visu_image_vedette_articles_BONNES_DIMENSIONS_34_1.jpg",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_7FTkiX": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/dazn-logo-big__w770_jpg.jpg",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_CBJAMJ": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/equipe-logo_1.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_WCRJAp",
+        "logo_7X9hqg",
+        "logo_7FTkiX",
+        "logo_CBJAMJ"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
@@ -833,6 +892,7 @@
   },
   "order": [
     "image_with_text_overlay_ypzegc",
+    "logo_list_ziyRGK",
     "image-link-blocks",
     "scrolling-text",
     "collection-list",
