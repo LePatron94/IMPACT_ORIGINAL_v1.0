@@ -29,39 +29,43 @@
     "logo_list_ziyRGK": {
       "type": "logo-list",
       "blocks": {
+        "logo_7FTkiX": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/5.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
         "logo_WCRJAp": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/2.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_7X9hqg": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_7FTkiX": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/3.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_CBJAMJ": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/4.png",
             "logo_width": 120,
             "link": ""
           }
         }
       },
       "block_order": [
+        "logo_7FTkiX",
         "logo_WCRJAp",
         "logo_7X9hqg",
-        "logo_7FTkiX",
         "logo_CBJAMJ"
       ],
       "name": "Logo list",
