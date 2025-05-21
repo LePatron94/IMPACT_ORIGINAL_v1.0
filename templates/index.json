@@ -149,6 +149,7 @@
         "item_i9VzGF": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/Дышащая мягкая игрушка Стич FavoriteS 270533472 купить за 721 в .mp4",
             "column_size": "3",
             "title": "“Ma fille qui dort ENFIN !!”",
             "heading_tag": "h4",
@@ -158,21 +159,10 @@
             "link_style": "link"
           }
         },
-        "item_gAfV3B": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "“Plus de Stress à l'idée qu'il doit dormir”",
-            "heading_tag": "h4",
-            "content": "<p>« La fonction respiration apaise clairement mes filles. Je craignais l’électronique, mais tout est bien protégé, sans aucun bruit gênant. Ultra rassurant. »</p><p><strong>Julien Morel, 29 ans – Grenoble (38)</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_qGNNWL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/fs.webp",
             "column_size": "3",
             "title": "“Une véritable innovation pour les parents”",
             "heading_tag": "h4",
@@ -181,12 +171,25 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_gAfV3B": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/stitch3.mp4",
+            "column_size": "3",
+            "title": "“Plus de Stress à l'idée qu'il doit dormir”",
+            "heading_tag": "h4",
+            "content": "<p>« La fonction respiration apaise clairement mes filles. Je craignais l’électronique, mais tout est bien protégé, sans aucun bruit gênant. Ultra rassurant. »</p><p><strong>Julien Morel, 29 ans – Grenoble (38)</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_i9VzGF",
-        "item_gAfV3B",
-        "item_qGNNWL"
+        "item_qGNNWL",
+        "item_gAfV3B"
       ],
       "name": "Multi-column",
       "settings": {
