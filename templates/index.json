@@ -245,6 +245,7 @@
         "image_bfKNra": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/NLDKQSKLQNKDL_ea99d7da-1f5b-4ebf-94b8-753a630202aa_1.png",
             "alignment": "center",
             "max_width": 500
           }
