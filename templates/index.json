@@ -151,7 +151,7 @@
           "settings": {
             "video": "shopify://files/videos/Дышащая мягкая игрушка Стич FavoriteS 270533472 купить за 721 в .mp4",
             "column_size": "3",
-            "title": "“Ma fille qui dort ENFIN !!”",
+            "title": "“Ma fille qui dort ENFIN SANS MOI !”",
             "heading_tag": "h4",
             "content": "<p>« Depuis que Léa dort avec Mumilo, elle s’endort sans pleurer. C’est comme si elle sentait une vraie présence à côté d’elle. Moi, je revis enfin mes nuits. »</p><p><strong>Sarah Benyahia, 32 ans – Lyon (69)</strong></p>",
             "link_url": "",
@@ -196,7 +196,7 @@
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "subheading": "",
         "title": "Vous en parlez",
         "content": "",
