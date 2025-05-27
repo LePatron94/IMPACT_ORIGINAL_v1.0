@@ -242,6 +242,12 @@
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 4 Unités</div>\n</div>"
           }
         },
+        "liquid_jiB8Em": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; justify-content: center; margin: 10px 0;\">\n  <div style=\"display: inline-flex; align-items: center; background-color: #f5f5f5; border-radius: 20px; padding: 4px 10px; font-weight: 600; font-family: Arial, sans-serif; font-size: 13px; color: #000;\">\n    ÉLUE PELUCHE DE L'ANNÉE 2025 🇫🇷\n  </div>\n</div>"
+          }
+        },
         "image_bfKNra": {
           "type": "image",
           "settings": {
@@ -299,6 +305,7 @@
         "badges",
         "price",
         "liquid_iDgETy",
+        "liquid_jiB8Em",
         "image_bfKNra",
         "kaching_bundles_app_block_XQ8dB4",
         "separator",
