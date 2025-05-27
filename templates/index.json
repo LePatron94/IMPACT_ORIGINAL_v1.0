@@ -37,18 +37,18 @@
             "link": ""
           }
         },
-        "logo_WCRJAp": {
+        "logo_7X9hqg": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/2.png",
+            "logo": "shopify://shop_images/LOGO-DISNEY.png",
             "logo_width": 300,
             "link": ""
           }
         },
-        "logo_7X9hqg": {
+        "logo_WCRJAp": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/3.png",
+            "logo": "shopify://shop_images/2.png",
             "logo_width": 300,
             "link": ""
           }
@@ -64,8 +64,8 @@
       },
       "block_order": [
         "logo_7FTkiX",
-        "logo_WCRJAp",
         "logo_7X9hqg",
+        "logo_WCRJAp",
         "logo_CBJAMJ"
       ],
       "name": "Logo list",
