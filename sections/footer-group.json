@@ -14,6 +14,19 @@
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
+        "payment": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-happy",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Satisfait ou 100% remboursé",
+            "content": ""
+          }
+        },
         "free-shipping": {
           "type": "item",
           "settings": {
@@ -30,7 +43,7 @@
         "customer-support": {
           "type": "item",
           "settings": {
-            "icon": "picto-customer-support",
+            "icon": "picto-operator",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "none",
@@ -43,7 +56,7 @@
         "discount": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
+            "icon": "picto-credit-card",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "none",
@@ -52,26 +65,13 @@
             "title": "Paiement 100% sécurisé",
             "content": ""
           }
-        },
-        "payment": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-secure-profile",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Satisfait ou 100% remboursé",
-            "content": ""
-          }
         }
       },
       "block_order": [
+        "payment",
         "free-shipping",
         "customer-support",
-        "discount",
-        "payment"
+        "discount"
       ],
       "settings": {
         "full_width": true,
