@@ -311,6 +311,13 @@
             "title": "GARANTIE DE REMBOURSEMENT - Satisfait ou Remboursé intégralement",
             "content": "<p><strong>Votre satisfaction est notre priorité</strong>. Si vous n’êtes pas totalement convaincue par votre achat, <strong>vous avez 30 jours pour nous le retourner – sans justification nécessaire</strong>. Le remboursement est intégral, le processus est simple, et notre équipe reste à votre écoute à chaque étape.<br/><br/>Contactez nous a l'adresse :<br/><strong>contact@mumilo.fr</strong></p><p><strong>C’est la promesse MUMILO 💙</strong></p>"
           }
+        },
+        "collapsible_text_7YrXBB": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Combien de temps prend la livraison ?",
+            "content": "<p>Nous proposons une expédition rapide, suivie et assurée dans le monde entier de 4 à 7 jours.</p>"
+          }
         }
       },
       "block_order": [
@@ -329,7 +336,8 @@
         "image_ff7jPx",
         "image_9CDkKE",
         "liquid_wb3ypi",
-        "collapsible_text_9C3WQy"
+        "collapsible_text_9C3WQy",
+        "collapsible_text_7YrXBB"
       ],
       "settings": {
         "full_width": false,
@@ -390,7 +398,7 @@
           "type": "item",
           "settings": {
             "title": "Combien de temps prend l'expédition ?",
-            "content": "<p>Nous proposons une expédition rapide, suivie et assurée dans le monde entier de 7 à 14 jours.</p>"
+            "content": "<p>Nous proposons une expédition rapide, suivie et assurée dans le monde entier de 4 à 7 jours.</p>"
           }
         }
       },
