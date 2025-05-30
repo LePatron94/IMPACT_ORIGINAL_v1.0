@@ -38,9 +38,9 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#64d3e9",
+        "background": "#1a1a1a",
         "background_gradient": "",
-        "text_color": "#080808"
+        "text_color": "#ffffff"
       }
     },
     "header": {
@@ -48,7 +48,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/axtelproject.png",
         "logo_max_width": 100,
         "logo_mobile_max_width": 75,
         "menu": "main-menu",
