@@ -168,6 +168,7 @@
         "item_i9VzGF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/dce189eac47ae14c7e35d2aa3b29f58c.jpg",
             "column_size": "3",
             "title": "“Toujours dans mon sac”",
             "heading_tag": "h4",
@@ -180,6 +181,7 @@
         "item_gAfV3B": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Fake_snap_fille.jpg",
             "column_size": "3",
             "title": "“Lisseur ou bijou ? Les deux”",
             "heading_tag": "h4",
@@ -192,6 +194,7 @@
         "item_qGNNWL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/belle_meuf_sa_mere.jpg",
             "column_size": "3",
             "title": "\"Introuvable et irrésistible”",
             "heading_tag": "h4",
