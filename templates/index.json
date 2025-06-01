@@ -352,7 +352,7 @@
         "enable_video_looping": false,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "background": "#080808",
+        "background": "#fffaf9",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
