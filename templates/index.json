@@ -400,6 +400,13 @@
             "content": "<p>Le Lissella Hair PRO est conçu pour être extrêmement simple d'utilisation, permettant à chacun de le manipuler aisément. Un guide d'utilisation sera inclus dans votre colis pour faciliter votre expérience.</p>"
           }
         },
+        "item_6fTDYH": {
+          "type": "item",
+          "settings": {
+            "title": "Que faire si le Lissella Hair PRO ne répond pas a mes attentes ?",
+            "content": "<p>Nous sommes sûrs que vous allez adorer votre nouvel Brusheo Hair PRO!</p><p>Toutefois, si vous n'êtes pas entièrement satisfait(e) et décidez de le renvoyer, nous vous garantirons un remboursement complet !</p>"
+          }
+        },
         "item_AXEjBJ": {
           "type": "item",
           "settings": {
@@ -413,21 +420,14 @@
             "title": "Combien de temps prend l'expédition ?",
             "content": "<p>Le délai de livraison dépend du volume de commandes à traiter et de votre localisation. Pour la France métropolitaine, la livraison prend généralement entre 2 et 5 jours ouvrés. Pour les destinations à l'étranger et hors France métropolitaine, le délai est de 3 à 6 jours ouvrés. Vous recevrez tous les détails de votre livraison par email.</p>"
           }
-        },
-        "item_6fTDYH": {
-          "type": "item",
-          "settings": {
-            "title": "Que faire si le Lissella Hair PRO ne répond pas a mes attentes ?",
-            "content": "<p>Nous sommes sûrs que vous allez adorer votre nouvel Brusheo Hair PRO!</p><p>Toutefois, si vous n'êtes pas entièrement satisfait(e) et décidez de le renvoyer, nous vous garantirons un remboursement complet !</p>"
-          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "item_eNKxzp",
+        "item_6fTDYH",
         "item_AXEjBJ",
-        "item_8aMRmN",
-        "item_6fTDYH"
+        "item_8aMRmN"
       ],
       "settings": {
         "full_width": false,
