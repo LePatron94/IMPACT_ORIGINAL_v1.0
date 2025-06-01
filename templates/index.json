@@ -169,9 +169,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "“20 minutes par jour, et mon corps s’est transformé”",
+            "title": "“5 minutes et mes cheveux se lissent”",
             "heading_tag": "h4",
-            "content": "<p><em>J’ai deux enfants, un job prenant, et aucune envie de passer 1h à la salle. L’AlphaBar m’a redonné le goût de bouger.<br/><br/></em><strong>Sarah Benyahia, 32 ans – Lyon (69)</strong></p>",
+            "content": "<p><em>En 5 minutes seulement j'arrive a lisser mes cheveux bouclés et cassants, ce lisseur portable est très pratique en cas de rdv imprévu et m'a souvent sauvé<br/><br/></em><strong>Sarah Benyahia, 32 ans – Lyon (69)</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -181,9 +181,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "“Des résultats visibles, sans charge lourde”",
+            "title": "“Des résultats visibles, sans contrainte”",
             "heading_tag": "h4",
-            "content": "<p><em>J’étais accro aux haltères, mais je finissais chaque séance avec des douleurs. L’AlphaBar m’a fait comprendre qu’on pouvait travailler intensément sans casser son corps.<br/><br/></em><strong>Maxime Lefèvre, 35 ans – Paris (75)</strong></p>",
+            "content": "<p><em><br/><br/></em><strong>Louise Lefèvre, 35 ans – Paris (75)</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -195,7 +195,7 @@
             "column_size": "3",
             "title": "“Un système qui pousse ton corps à progresser”",
             "heading_tag": "h4",
-            "content": "<p><em>Ce que j’aime avec l’AlphaBar, c’est que la difficulté n’est jamais figée. La résistance augmente naturellement selon ton effort.<br/><br/></em><strong>Julien Morel, 29 ans – Grenoble (38)</strong></p>",
+            "content": "<p><em>Ce que j’aime avec l’AlphaBar, c’est que la difficulté n’est jamais figée. La résistance augmente naturellement selon ton effort.<br/><br/></em><strong>Laura Morel, 29 ans – Grenoble (38)</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
