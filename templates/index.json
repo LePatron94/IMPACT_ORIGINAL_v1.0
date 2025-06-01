@@ -389,15 +389,15 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Qu'est-ce qui distingue MILO STITCH ?",
-            "content": "<p>✅ <strong>Son effet respirant réaliste</strong> :<br/><br/>Il simule une respiration lente et régulière, apaisant naturellement l’enfant en synchronisant son rythme.</p><p>✅ <strong>Sa technologie apaisante intégrée</strong> :<br/><br/>Lumière douce + chaleur réconfortante = un environnement propice au sommeil profond.</p><p>✅ <strong>Sa composition hypoallergénique premium</strong> :<br/><br/>Tissus ultra-doux, sans risques pour les peaux sensibles, même dès la naissance.</p><p>✅ <strong>Un design émotionnel et rassurant</strong> :<br/><br/>Un compagnon qui devient un rituel du coucher, pas juste une peluche.</p>"
+            "title": "Qu'est-ce qui distingue Lissella Hair PRO ?",
+            "content": "<p>Lors de la conception du Lissella Hair PRO, nous avons veillé à ce qu'il convienne à tous les types de cheveux, quelle que soit leur longueur. Ce produit offre une flexibilité optimale pour tous les styles de cheveux.</p>"
           }
         },
         "item_eNKxzp": {
           "type": "item",
           "settings": {
-            "title": "Est-il portable et adapté aux voyages ?",
-            "content": "<p>Absolument. Milo Stitch est léger, compact et facile à transporter : idéale pour maintenir la régularité de vos endormissement à la maison, à l'hotel ou partout ailleurs.</p>"
+            "title": "Comment utiliser le Lissella Hair PRO ?",
+            "content": "<p>Le Lissella Hair PRO est conçu pour être extrêmement simple d'utilisation, permettant à chacun de le manipuler aisément. Un guide d'utilisation sera inclus dans votre colis pour faciliter votre expérience.</p>"
           }
         },
         "item_AXEjBJ": {
@@ -411,7 +411,14 @@
           "type": "item",
           "settings": {
             "title": "Combien de temps prend l'expédition ?",
-            "content": "<p>Nous proposons une expédition rapide, suivie et assurée dans le monde entier de 4 à 7 jours.</p>"
+            "content": "<p>Le délai de livraison dépend du volume de commandes à traiter et de votre localisation. Pour la France métropolitaine, la livraison prend généralement entre 2 et 5 jours ouvrés. Pour les destinations à l'étranger et hors France métropolitaine, le délai est de 3 à 6 jours ouvrés. Vous recevrez tous les détails de votre livraison par email.</p>"
+          }
+        },
+        "item_6fTDYH": {
+          "type": "item",
+          "settings": {
+            "title": "Que faire si le Lissella Hair PRO ne répond pas a mes attentes ?",
+            "content": "<p>Nous sommes sûrs que vous allez adorer votre nouvel Brusheo Hair PRO!</p><p>Toutefois, si vous n'êtes pas entièrement satisfait(e) et décidez de le renvoyer, nous vous garantirons un remboursement complet !</p>"
           }
         }
       },
@@ -419,7 +426,8 @@
         "166442457738b23caf-0",
         "item_eNKxzp",
         "item_AXEjBJ",
-        "item_8aMRmN"
+        "item_8aMRmN",
+        "item_6fTDYH"
       ],
       "settings": {
         "full_width": false,
