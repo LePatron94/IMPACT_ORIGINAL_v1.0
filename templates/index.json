@@ -16,7 +16,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/30_JOURS_POUR_UN_PHYSIQUE_DE_REVE.zip_-_2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -30,7 +29,6 @@
         "logo_7FTkiX": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Visu_image_vedette_articles_BONNES_DIMENSIONS_34_2.jpg",
             "logo_width": 120,
             "link": ""
           }
@@ -38,7 +36,6 @@
         "logo_7X9hqg": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/dazn-logo-big__w770_jpg_1.jpg",
             "logo_width": 300,
             "link": ""
           }
@@ -46,7 +43,6 @@
         "logo_WCRJAp": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/mens-health-logo-1_2.png",
             "logo_width": 300,
             "link": ""
           }
@@ -54,7 +50,6 @@
         "logo_CBJAMJ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/equipe-logo_2.png",
             "logo_width": 120,
             "link": ""
           }
@@ -130,7 +125,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/BBStrucrureOK.png",
+        "image": "shopify://shop_images/6_benefices_2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -144,7 +139,6 @@
         "item_i9VzGF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/M9WWfjz_4.png",
             "column_size": "3",
             "title": "“20 minutes par jour, et mon corps s’est transformé”",
             "heading_tag": "h4",
@@ -157,7 +151,6 @@
         "item_qGNNWL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Maximetemoignage_4.png",
             "column_size": "3",
             "title": "“Des résultats visibles, sans charge lourde”",
             "heading_tag": "h4",
@@ -170,7 +163,6 @@
         "item_gAfV3B": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/RUvNbPM_5.png",
             "column_size": "3",
             "title": "“Un système qui pousse ton corps à progresser”",
             "heading_tag": "h4",
@@ -239,7 +231,6 @@
         "image_bfKNra": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/NLDKQSKLQNKDL_ea99d7da-1f5b-4ebf-94b8-753a630202aa_1.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -248,12 +239,6 @@
           "type": "liquid",
           "settings": {
             "liquid": "<div style=\"display: flex; justify-content: center; margin: 10px 0;\">\n  <div style=\"display: inline-flex; align-items: center; background-color: #f5f5f5; border-radius: 20px; padding: 4px 10px; font-weight: 600; font-family: Arial, sans-serif; font-size: 13px; color: #000;\">\n    PRODUIT MUSCU DE L'ANNÉE 2025 🇫🇷\n  </div>\n</div>"
-          }
-        },
-        "kaching_bundles_app_block_XQ8dB4": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
           }
         },
         "separator": {
@@ -274,7 +259,6 @@
         "image_FdfCPL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-05-26_a_10.52.31.png",
             "alignment": "center",
             "max_width": 260
           }
@@ -323,7 +307,6 @@
         "liquid_iDgETy",
         "image_bfKNra",
         "liquid_jiB8Em",
-        "kaching_bundles_app_block_XQ8dB4",
         "separator",
         "buy-buttons",
         "image_FdfCPL",
