@@ -252,6 +252,7 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
@@ -274,6 +275,12 @@
           "type": "liquid",
           "settings": {
             "liquid": "<div style=\"display: flex; justify-content: center; margin: 10px 0;\">\n  <div style=\"display: inline-flex; align-items: center; background-color: #f5f5f5; border-radius: 20px; padding: 4px 10px; font-weight: 600; font-family: Arial, sans-serif; font-size: 13px; color: #000;\">\n    ELU PRODUIT BEAUTE DE L'ANNÉE 2025 🇫🇷\n  </div>\n</div>"
+          }
+        },
+        "kaching_bundles_app_block_qYwV7f": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
           }
         },
         "buy-buttons": {
@@ -344,6 +351,7 @@
         "liquid_iDgETy",
         "image_bfKNra",
         "liquid_jiB8Em",
+        "kaching_bundles_app_block_qYwV7f",
         "buy-buttons",
         "separator",
         "image_FdfCPL",
