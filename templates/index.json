@@ -292,8 +292,9 @@
         "image_bfKNra": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/LDFHHFSQ.png",
             "alignment": "center",
-            "max_width": 500
+            "max_width": 410
           }
         },
         "liquid_jiB8Em": {
