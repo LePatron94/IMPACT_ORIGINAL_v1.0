@@ -82,6 +82,32 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_hAqeTx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_amz4eQ": {
+          "type": "heading",
+          "settings": {
+            "text": "Résultats avant/après",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_amz4eQ"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "video_4CRnDJ": {
       "type": "video",
       "blocks": {
@@ -492,6 +518,7 @@
   "order": [
     "image_with_text_overlay_ypzegc",
     "logo_list_ziyRGK",
+    "rich_text_hAqeTx",
     "video_4CRnDJ",
     "rich_text_GaYXCf",
     "scrolling-text",
