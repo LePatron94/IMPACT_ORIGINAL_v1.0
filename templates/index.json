@@ -194,7 +194,7 @@
         "item_qGNNWL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/belle_meuf_sa_mere.jpg",
+            "image": "shopify://shop_images/1.png",
             "column_size": "3",
             "title": "\"Pratique et de grande qualité”",
             "heading_tag": "h4",
@@ -207,7 +207,7 @@
         "item_i9VzGF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/dce189eac47ae14c7e35d2aa3b29f58c.jpg",
+            "image": "shopify://shop_images/2.png",
             "column_size": "3",
             "title": "“Toujours dans mon sac”",
             "heading_tag": "h4",
@@ -220,7 +220,7 @@
         "item_gAfV3B": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Fake_snap_fille.jpg",
+            "image": "shopify://shop_images/884021ac61aaa6312e34c2bfebb0118f.jpg",
             "column_size": "3",
             "title": "“Incroyable quand on veut bouger”",
             "heading_tag": "h4",
