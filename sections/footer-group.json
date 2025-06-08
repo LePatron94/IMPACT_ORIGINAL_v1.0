@@ -14,6 +14,19 @@
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
+        "customer-support": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-operator",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Service client 7J/7",
+            "content": ""
+          }
+        },
         "payment": {
           "type": "item",
           "settings": {
@@ -40,19 +53,6 @@
             "content": ""
           }
         },
-        "customer-support": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-operator",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Service client 7J/7",
-            "content": ""
-          }
-        },
         "discount": {
           "type": "item",
           "settings": {
@@ -68,9 +68,9 @@
         }
       },
       "block_order": [
+        "customer-support",
         "payment",
         "free-shipping",
-        "customer-support",
         "discount"
       ],
       "settings": {
