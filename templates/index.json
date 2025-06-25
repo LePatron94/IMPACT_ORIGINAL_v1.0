@@ -361,6 +361,14 @@
             "max_width": 500
           }
         },
+        "image_gAAbgQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/nnnnna.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "collapsible_text_9C3WQy": {
           "type": "collapsible_text",
           "settings": {
@@ -393,6 +401,7 @@
         "image_9CDkKE",
         "liquid_wb3ypi",
         "image_6Gb8rF",
+        "image_gAAbgQ",
         "collapsible_text_9C3WQy",
         "collapsible_text_7YrXBB"
       ],
