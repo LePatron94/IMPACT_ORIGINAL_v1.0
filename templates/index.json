@@ -380,7 +380,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Combien de temps prend la livraison ?",
-            "content": "<p>Nous assurons une livraison rapide pour la France métropolitaine, Belgique et Suisse, la livraison prend généralement entre 2 et 5 jours. </p><p><em>Le délai de livraison dépend du volume de commandes à traiter.</em></p>"
+            "content": "<p>Nous assurons une livraison rapide pour la France métropolitaine, Belgique et Suisse, la livraison prend généralement entre 2 et 5 jours. </p>"
           }
         }
       },
