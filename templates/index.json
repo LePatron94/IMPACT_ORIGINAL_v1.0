@@ -391,36 +391,43 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Qu'est-ce qui distingue Lissella Hair PRO ?",
-            "content": "<p>Lors de la conception du Lissella Hair PRO, nous avons veillé à ce qu'il convienne à tous les types de cheveux, quelle que soit leur longueur. Ce produit offre une flexibilité optimale pour tous les styles de cheveux.</p>"
+            "title": "Qu'est-ce qui distingue l'AlphaBar Pro ?",
+            "content": "<p>L'AlphaBar Pro associe résistance progressive et activation isométrique pour maintenir vos muscles sous tension constante, <br/><br/>ce qui permet une amélioration plus rapide de la force, un engagement musculaire accru et une sensation de pompe incomparable.<br/><br/>Idéale pour s'entraîner à la maison, en déplacement ou pour améliorer votre routine sportive.</p>"
           }
         },
         "item_eNKxzp": {
           "type": "item",
           "settings": {
-            "title": "Comment utiliser le Lissella Hair PRO ?",
-            "content": "<p>Le Lissella Hair PRO est conçu pour être extrêmement simple d'utilisation, permettant à chacun de le manipuler aisément. Un guide d'utilisation sera inclus dans votre colis pour faciliter votre expérience.</p>"
+            "title": "Est-ce bon pour les débutants et les haltérophiles expérimentés ?",
+            "content": "<p>Oui ! Que vous soyez un haltérophile chevronné, un athlète passionné ou que vous débutiez votre parcours de remise en forme, <br/><br/>AlphaBar est conçu pour vous mettre au défi et vous accompagner dans votre progression, quel que soit votre niveau.</p>"
           }
         },
         "item_6fTDYH": {
           "type": "item",
           "settings": {
-            "title": "Que faire si le Lissella Hair PRO ne répond pas a mes attentes ?",
-            "content": "<p>Nous sommes sûrs que vous allez adorer votre nouvel Lissella Hair PRO!</p><p>Toutefois, si vous n'êtes pas entièrement satisfait(e) et décidez de le renvoyer, nous vous garantirons un remboursement complet !</p>"
+            "title": "Peut-il vraiment développer plus de muscles que les exercices traditionnels ?",
+            "content": "<p>C'est possible ! La tension constante et la résistance basée sur l'effort favorisent la croissance musculaire tout en améliorant la force et l'endurance globales, <br/><br/>ce qui en fait une alternative efficace aux méthodes d'entraînement conventionnelles.</p>"
           }
         },
         "item_AXEjBJ": {
+          "type": "item",
+          "settings": {
+            "title": "Est-il portable et adapté aux voyages ?",
+            "content": "<p>Absolument. L'AlphaBar est légère, compacte et facile à transporter : idéale pour maintenir la régularité de vos entraînements à la maison, à la salle de sport ou partout ailleurs.</p>"
+          }
+        },
+        "item_8aMRmN": {
           "type": "item",
           "settings": {
             "title": "Offrez-vous une garantie de remboursement ?",
             "content": "<p>Oui, nous offrons une garantie satisfait ou remboursé de 30 jours. Contactez-nous par e-mail ou laissez-nous un message sur la page « Contactez-nous ».</p>"
           }
         },
-        "item_8aMRmN": {
+        "item_TTkQqE": {
           "type": "item",
           "settings": {
             "title": "Combien de temps prend l'expédition ?",
-            "content": "<p>Le délai de livraison dépend du volume de commandes à traiter et de votre localisation. Pour la France métropolitaine, la livraison prend généralement entre 2 et 5 jours ouvrés. Pour les destinations à l'étranger et hors France métropolitaine, le délai est de 3 à 6 jours ouvrés. Vous recevrez tous les détails de votre livraison par email.</p>"
+            "content": "<p>Nous proposons une expédition rapide, suivie et assurée dans le monde entier de 7 à 14 jours.</p>"
           }
         }
       },
@@ -429,7 +436,8 @@
         "item_eNKxzp",
         "item_6fTDYH",
         "item_AXEjBJ",
-        "item_8aMRmN"
+        "item_8aMRmN",
+        "item_TTkQqE"
       ],
       "settings": {
         "full_width": false,
