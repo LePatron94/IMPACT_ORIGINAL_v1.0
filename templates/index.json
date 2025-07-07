@@ -82,56 +82,6 @@
         "logo_item_border": ""
       }
     },
-    "rich_text_hAqeTx": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_amz4eQ": {
-          "type": "heading",
-          "settings": {
-            "text": "Résultats avant/après",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_amz4eQ"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "video_4CRnDJ": {
-      "type": "video",
-      "blocks": {
-        "play_nAXrmD": {
-          "type": "play",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "play_nAXrmD"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/3dcbc7670e2e454ba5a58436acc205fa.HD-1080p-4.8Mbps-37003010.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "rich_text_GaYXCf": {
       "type": "rich-text",
       "blocks": {
@@ -194,7 +144,7 @@
         "item_i9VzGF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2.png",
+            "image": "shopify://shop_images/imgi_12_RUvNbPM.png",
             "column_size": "3",
             "title": "“Toujours dans mon sac”",
             "heading_tag": "h4",
@@ -207,7 +157,7 @@
         "item_gAfV3B": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1.png",
+            "image": "shopify://shop_images/imgi_11_M9WWfjz.png",
             "column_size": "3",
             "title": "“Incroyable quand on veut bouger”",
             "heading_tag": "h4",
@@ -220,7 +170,7 @@
         "item_qGNNWL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/khvvlvl.png",
+            "image": "shopify://shop_images/imgi_13_Maximetemoignage.png",
             "column_size": "3",
             "title": "\"Pratique et de grande qualité”",
             "heading_tag": "h4",
@@ -292,7 +242,7 @@
         "image_bfKNra": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/LDFHHFSQ.png",
+            "image": "shopify://shop_images/imgi_20_NLDKQSKLQNKDL_ea99d7da-1f5b-4ebf-94b8-753a630202aa.png",
             "alignment": "center",
             "max_width": 410
           }
@@ -356,15 +306,15 @@
         "image_6Gb8rF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-06-08_a_09.45.53.png",
+            "image": "shopify://shop_images/imgi_22_Capture_d_ecran_2025-04-07_a_18.53.09.png",
             "alignment": "center",
-            "max_width": 500
+            "max_width": 360
           }
         },
         "image_gAAbgQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/nnnnna.png",
+            "image": "shopify://shop_images/imgi_43_CADEAU2.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -416,7 +366,7 @@
         "enable_video_looping": false,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "background": "#fffaf9",
+        "background": "#161718",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
@@ -492,7 +442,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "#fffaf9",
+        "background": "#161718",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -527,8 +477,6 @@
   "order": [
     "image_with_text_overlay_ypzegc",
     "logo_list_ziyRGK",
-    "rich_text_hAqeTx",
-    "video_4CRnDJ",
     "rich_text_GaYXCf",
     "scrolling-text",
     "image_with_text_overlay_GwYhDd",
