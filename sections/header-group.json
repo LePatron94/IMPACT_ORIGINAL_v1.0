@@ -38,9 +38,9 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#d19892",
+        "background": "#64d3e9",
         "background_gradient": "",
-        "text_color": "#fffaf9"
+        "text_color": "#080808"
       }
     },
     "header": {
@@ -48,7 +48,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Copie_de_Template_section_benefice.png",
+        "logo": "shopify://shop_images/Axtel_2.png",
         "logo_max_width": 135,
         "logo_mobile_max_width": 105,
         "menu": "main-menu",

@@ -16,7 +16,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/gigqgq.png",
+        "image": "shopify://shop_images/1_662b704e-6b76-45df-bcde-74ae0280c741.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -27,26 +27,26 @@
     "logo_list_ziyRGK": {
       "type": "logo-list",
       "blocks": {
-        "logo_7FTkiX": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Vogue_1.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
         "logo_7X9hqg": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Elle_1.png",
+            "logo": "shopify://shop_images/Visu_image_vedette_articles_BONNES_DIMENSIONS_34_3.jpg",
             "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_7FTkiX": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/mens-health-logo-1_3.png",
+            "logo_width": 120,
             "link": ""
           }
         },
         "logo_WCRJAp": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Logo_Closer__Magazine__svg.png",
+            "logo": "shopify://shop_images/dazn-logo-big__w770_jpg_2.jpg",
             "logo_width": 300,
             "link": ""
           }
@@ -54,15 +54,15 @@
         "logo_CBJAMJ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo.svg",
+            "logo": "shopify://shop_images/equipe-logo_3.png",
             "logo_width": 120,
             "link": ""
           }
         }
       },
       "block_order": [
-        "logo_7FTkiX",
         "logo_7X9hqg",
+        "logo_7FTkiX",
         "logo_WCRJAp",
         "logo_CBJAMJ"
       ],
@@ -180,7 +180,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/LCMXLMl.png",
+        "image": "shopify://shop_images/imgi_10_StructureBBOK12.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
