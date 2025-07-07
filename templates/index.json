@@ -27,10 +27,10 @@
     "logo_list_ziyRGK": {
       "type": "logo-list",
       "blocks": {
-        "logo_7X9hqg": {
+        "logo_WCRJAp": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Visu_image_vedette_articles_BONNES_DIMENSIONS_34_3.jpg",
+            "logo": "shopify://shop_images/dazn-logo-big__w770_jpg_2.jpg",
             "logo_width": 300,
             "link": ""
           }
@@ -43,10 +43,10 @@
             "link": ""
           }
         },
-        "logo_WCRJAp": {
+        "logo_7X9hqg": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/dazn-logo-big__w770_jpg_2.jpg",
+            "logo": "shopify://shop_images/Visu_image_vedette_articles_BONNES_DIMENSIONS_34_3.jpg",
             "logo_width": 300,
             "link": ""
           }
@@ -61,9 +61,9 @@
         }
       },
       "block_order": [
-        "logo_7X9hqg",
-        "logo_7FTkiX",
         "logo_WCRJAp",
+        "logo_7FTkiX",
+        "logo_7X9hqg",
         "logo_CBJAMJ"
       ],
       "settings": {
