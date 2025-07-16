@@ -38,7 +38,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#64d3e9",
+        "background": "#936f3a",
         "background_gradient": "",
         "text_color": "#080808"
       }
@@ -48,7 +48,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Axtel_2.png",
         "logo_max_width": 135,
         "logo_mobile_max_width": 105,
         "menu": "main-menu",
