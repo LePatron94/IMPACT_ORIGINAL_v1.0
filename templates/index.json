@@ -253,17 +253,6 @@
             "liquid": "<div style=\"display: flex; justify-content: center; margin: 10px 0;\">\n  <div style=\"display: inline-flex; align-items: center; background-color: #f5f5f5; border-radius: 20px; padding: 4px 10px; font-weight: 600; font-family: Arial, sans-serif; font-size: 13px; color: #000;\">\n    ÉLU #1 DES ARTICLES MUSCU 2025 🇫🇷\n  </div>\n</div>"
           }
         },
-        "buy-buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "#1c7a8c",
-            "atc_button_text_color": "#ffffff",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
         "separator": {
           "type": "separator",
           "disabled": true,
@@ -311,10 +300,21 @@
             "max_width": 500
           }
         },
-        "liquid_k3RHD4": {
-          "type": "liquid",
+        "kaching_bundles_app_block_V7TmiP": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
-            "liquid": "<div class=\"loved-by-customers\">\n  <span>✅‎ ‎ ‎+100,000 utilisateurs convaincus aux 🇺🇸 – Pourquoi pas toi ?</span>\n</div>\n\n<style>\n  .loved-by-customers {\n    background: #FFD1D1;\n    color: #A71E1E;\n    text-align: center;\n    padding: 6px;\n    margin-top: 20px; /* Adjust as needed */\n    border-radius: 20px; /* Adjust to desired pill shape */\n    width: 300px; /* Adjust width as needed */\n    margin-left: auto;\n    margin-right: auto;\n    font-size: 14px;\n    font-weight: \n  }\n</style>"
+            "product": "{{section.settings.product}}"
+          }
+        },
+        "buy_buttons_76Tegr": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#ff9a00",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
           }
         },
         "collapsible_text_9C3WQy": {
@@ -341,7 +341,6 @@
         "liquid_iDgETy",
         "image_bfKNra",
         "liquid_jiB8Em",
-        "buy-buttons",
         "separator",
         "image_FdfCPL",
         "image_ff7jPx",
@@ -349,7 +348,8 @@
         "liquid_wb3ypi",
         "image_6Gb8rF",
         "image_gAAbgQ",
-        "liquid_k3RHD4",
+        "kaching_bundles_app_block_V7TmiP",
+        "buy_buttons_76Tegr",
         "collapsible_text_9C3WQy",
         "collapsible_text_7YrXBB"
       ],
