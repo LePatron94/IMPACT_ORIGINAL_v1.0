@@ -350,7 +350,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "irongrip-pro",
+        "product": "ultra-sonic-dog-bark-deterrent",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -359,7 +359,7 @@
         "enable_video_looping": false,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "background": "#161718",
+        "background": "#fff1de",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
