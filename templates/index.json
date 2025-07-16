@@ -82,6 +82,46 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_tnkaEn": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_ydLVQf": {
+          "type": "subheading",
+          "settings": {
+            "text": "ZENICHIEN DEBARQUE EN FRANCE"
+          }
+        },
+        "heading_bQ8kd7": {
+          "type": "heading",
+          "settings": {
+            "text": "Déjà 100K Ventes aux US ! 🇺🇸",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_jg9kXW": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_ydLVQf",
+        "heading_bQ8kd7",
+        "richtext_jg9kXW"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_GaYXCf": {
       "type": "rich-text",
       "blocks": {
@@ -468,6 +508,7 @@
   "order": [
     "image_with_text_overlay_ypzegc",
     "logo_list_ziyRGK",
+    "rich_text_tnkaEn",
     "rich_text_GaYXCf",
     "scrolling-text",
     "image_with_text_overlay_GwYhDd",
