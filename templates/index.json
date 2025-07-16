@@ -144,7 +144,7 @@
         "item_i9VzGF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/It_s_perfect_for_your_constant_barker.png",
+            "image": "shopify://shop_images/Avis.png",
             "column_size": "3",
             "title": "“Une véritable innovation”",
             "heading_tag": "h4",
@@ -157,6 +157,7 @@
         "item_gAfV3B": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/3_cd897656-e065-4f76-ac62-30c3b5390151.png",
             "column_size": "3",
             "title": "“Incroyable quand on veut bouger”",
             "heading_tag": "h4",
@@ -169,6 +170,7 @@
         "item_qGNNWL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/LOSEILLE.png",
             "column_size": "3",
             "title": "\"Pratique et de grande qualité”",
             "heading_tag": "h4",
@@ -218,16 +220,16 @@
             "heading_tag": "h3"
           }
         },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
         "liquid_wxmjUB": {
           "type": "liquid",
           "settings": {
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 4 Unités</div>\n</div>"
-          }
-        },
-        "kaching_bundles_app_block_8mQXzY": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
           }
         },
         "liquid_iDgETy": {
@@ -256,7 +258,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#e77211",
+            "atc_button_background": "#1c7a8c",
             "atc_button_text_color": "#ffffff",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -309,6 +311,12 @@
             "max_width": 500
           }
         },
+        "liquid_k3RHD4": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"loved-by-customers\">\n  <span>✅‎ ‎ ‎+100,000 utilisateurs convaincus aux 🇺🇸 – Pourquoi pas toi ?</span>\n</div>\n\n<style>\n  .loved-by-customers {\n    background: #FFD1D1;\n    color: #A71E1E;\n    text-align: center;\n    padding: 6px;\n    margin-top: 20px; /* Adjust as needed */\n    border-radius: 20px; /* Adjust to desired pill shape */\n    width: 300px; /* Adjust width as needed */\n    margin-left: auto;\n    margin-right: auto;\n    font-size: 14px;\n    font-weight: \n  }\n</style>"
+          }
+        },
         "collapsible_text_9C3WQy": {
           "type": "collapsible_text",
           "settings": {
@@ -328,8 +336,8 @@
         "liquid_wgLzYt",
         "liquid_pXy6AW",
         "title",
+        "price",
         "liquid_wxmjUB",
-        "kaching_bundles_app_block_8mQXzY",
         "liquid_iDgETy",
         "image_bfKNra",
         "liquid_jiB8Em",
@@ -341,6 +349,7 @@
         "liquid_wb3ypi",
         "image_6Gb8rF",
         "image_gAAbgQ",
+        "liquid_k3RHD4",
         "collapsible_text_9C3WQy",
         "collapsible_text_7YrXBB"
       ],
