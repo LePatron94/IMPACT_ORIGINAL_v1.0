@@ -144,6 +144,7 @@
         "item_i9VzGF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/It_s_perfect_for_your_constant_barker.png",
             "column_size": "3",
             "title": "“Toujours dans mon sac”",
             "heading_tag": "h4",
