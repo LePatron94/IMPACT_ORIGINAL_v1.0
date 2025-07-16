@@ -272,6 +272,14 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "image_peGFQJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/vsln.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "liquid_xFhhJp": {
           "type": "liquid",
           "settings": {
@@ -322,6 +330,7 @@
         "title",
         "liquid_wxmjUB",
         "kaching_bundles_app_block_V7TmiP",
+        "image_peGFQJ",
         "liquid_xFhhJp",
         "liquid_6yDek7",
         "liquid_rhgUQQ",
