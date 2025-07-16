@@ -220,12 +220,6 @@
             "heading_tag": "h3"
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "liquid_wxmjUB": {
           "type": "liquid",
           "settings": {
@@ -336,7 +330,6 @@
         "liquid_wgLzYt",
         "liquid_pXy6AW",
         "title",
-        "price",
         "liquid_wxmjUB",
         "liquid_iDgETy",
         "image_bfKNra",
