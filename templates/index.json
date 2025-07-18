@@ -283,6 +283,7 @@
         },
         "image_peGFQJ": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/vsln.png",
             "alignment": "center",
