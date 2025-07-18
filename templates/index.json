@@ -112,6 +112,7 @@
         "heading_bQ8kd7",
         "richtext_jg9kXW"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
