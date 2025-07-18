@@ -35,11 +35,11 @@
             "link": ""
           }
         },
-        "logo_CBJAMJ": {
+        "logo_7X9hqg": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/3.png",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/vvs.png",
+            "logo_width": 300,
             "link": ""
           }
         },
@@ -51,20 +51,20 @@
             "link": ""
           }
         },
-        "logo_7X9hqg": {
+        "logo_CBJAMJ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/vvs.png",
-            "logo_width": 300,
+            "logo": "shopify://shop_images/3.png",
+            "logo_width": 120,
             "link": ""
           }
         }
       },
       "block_order": [
         "logo_7FTkiX",
-        "logo_CBJAMJ",
+        "logo_7X9hqg",
         "logo_WCRJAp",
-        "logo_7X9hqg"
+        "logo_CBJAMJ"
       ],
       "settings": {
         "full_width": true,
