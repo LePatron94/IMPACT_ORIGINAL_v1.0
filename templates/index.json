@@ -338,7 +338,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Combien de temps prend la livraison ?",
-            "content": "<p>Nous proposons une expédition rapide, suivie et assurée dans le monde entier de 2 à 5 jours.</p>"
+            "content": "<p>Nous proposons une expédition rapide, suivie et assurée dans le monde entier de 3 à 5 jours.</p>"
           }
         }
       },
@@ -423,7 +423,7 @@
           "type": "item",
           "settings": {
             "title": "Combien de temps prend l'expédition ?",
-            "content": "<p>Nous proposons une expédition rapide, suivie et assurée dans le monde entier de 2 à 5 jours.</p>"
+            "content": "<p>Nous proposons une expédition rapide, suivie et assurée dans le monde entier de 3 à 5 jours.</p>"
           }
         }
       },
