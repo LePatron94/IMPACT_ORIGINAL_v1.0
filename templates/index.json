@@ -340,6 +340,13 @@
             "title": "Combien de temps prend la livraison ?",
             "content": "<p>Nous proposons une expédition rapide, suivie et assurée dans le monde entier de 3 à 5 jours.</p>"
           }
+        },
+        "image_cEFBj6": {
+          "type": "image",
+          "settings": {
+            "alignment": "start",
+            "max_width": 150
+          }
         }
       },
       "block_order": [
@@ -356,7 +363,8 @@
         "liquid_rhgUQQ",
         "buy_buttons_76Tegr",
         "collapsible_text_9C3WQy",
-        "collapsible_text_7YrXBB"
+        "collapsible_text_7YrXBB",
+        "image_cEFBj6"
       ],
       "settings": {
         "full_width": false,
