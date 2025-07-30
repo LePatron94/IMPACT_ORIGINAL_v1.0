@@ -340,12 +340,6 @@
             "payment_button_text_color": ""
           }
         },
-        "liquid_8QQadB": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "{% comment %} Générateur de nombre pseudo-aléatoire basé sur le produit {% endcomment %}\n{% assign current_hour = 'now' | date: '%H' %}\n{% assign product_seed = product.id | default: 1234 %}\n{% assign time_seed = current_hour | times: 7 %}\n{% assign combined_seed = product_seed | plus: time_seed %}\n{% assign viewer_base = combined_seed | modulo: 2 %}\n{% assign final_viewers = viewer_base | plus: 1 %}\n\n<div class=\"urgency-banner\" style=\"\n  background: linear-gradient(135deg, #d94343 0%, #b83333 100%);\n  border-radius: 10px;\n  padding: 14px 18px;\n  margin: 20px 0;\n  position: relative;\n  overflow: hidden;\n  box-shadow: 0 6px 20px rgba(217, 67, 67, 0.25);\n  border: 1px solid rgba(255,255,255,0.1);\n\">\n\n  <div class=\"urgency-content\" style=\"\n    display: flex;\n    align-items: center;\n    gap: 12px;\n    position: relative;\n    z-index: 2;\n  \">\n\n    <div class=\"urgency-icon\" style=\"\n      width: 20px;\n      height: 20px;\n      background: #fff;\n      border-radius: 50%;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n    \">\n      <div style=\"\n        width: 8px;\n        height: 8px;\n        background: #d94343;\n        border-radius: 50%;\n      \"></div>\n    </div>\n\n    <div class=\"urgency-text\" style=\"\n      color: white;\n      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n      display: flex;\n      align-items: center;\n      gap: 6px;\n      flex: 1;\n      line-height: 1;\n    \">\n      <span class=\"viewer-count\" style=\"\n        font-size: 15px;\n        font-weight: 700;\n        text-shadow: 0 1px 2px rgba(0,0,0,0.2);\n        line-height: 1;\n        display: inline-block;\n      \">{{ final_viewers }}</span>\n\n      <span style=\"\n        font-size: 15px;\n        font-weight: 500;\n        opacity: 0.95;\n        text-shadow: 0 1px 2px rgba(0,0,0,0.2);\n        line-height: 1;\n      \">personnes sont en cours de paiement actuellement</span>\n    </div>\n\n    <div class=\"status-dot\" style=\"\n      width: 12px;\n      height: 12px;\n      background: #2ecc71;\n      border-radius: 50%;\n      box-shadow: 0 0 8px rgba(46, 204, 113, 0.6);\n    \"></div>\n  </div>\n</div>\n\n<style>\n.urgency-banner {\n  animation: slideUp 0.6s ease-out;\n}\n.urgency-icon {\n  animation: pulse 2s infinite;\n}\n.viewer-count {\n  animation: bounce 3s infinite;\n}\n.status-dot {\n  animation: blink 1.8s infinite;\n}\n\n@keyframes slideUp {\n  from { opacity: 0; transform: translateY(20px); }\n  to { opacity: 1; transform: translateY(0); }\n}\n@keyframes pulse {\n  0%, 100% { transform: scale(1); }\n  50% { transform: scale(1.1); }\n}\n@keyframes bounce {\n  0%, 100% { transform: translateY(0); }\n  50% { transform: translateY(-2px); }\n}\n@keyframes blink {\n  0%, 100% { opacity: 1; }\n  50% { opacity: 0.4; }\n}\n\n@media (max-width: 768px) {\n  .urgency-banner {\n    padding: 12px 16px !important;\n    margin: 15px 0 !important;\n  }\n  .viewer-count {\n    font-size: 16px !important;\n  }\n  .urgency-text span:last-child {\n    font-size: 14px !important;\n  }\n}\n</style>\n\n<script>\ndocument.addEventListener('DOMContentLoaded', function() {\n  var viewerCount = document.querySelector('.viewer-count');\n  if (viewerCount) {\n    var originalNumber = parseInt(viewerCount.textContent);\n\n    setInterval(function() {\n      var variation = Math.floor(Math.random() * 4) - 1;\n      var newNumber = Math.max(5, Math.min(30, originalNumber + variation));\n      viewerCount.textContent = newNumber;\n    }, 20000);\n  }\n});\n</script>"
-          }
-        },
         "liquid_J3kfkB": {
           "type": "liquid",
           "disabled": true,
@@ -390,7 +384,6 @@
         "liquid_6yDek7",
         "liquid_rhgUQQ",
         "buy_buttons_76Tegr",
-        "liquid_8QQadB",
         "liquid_J3kfkB",
         "collapsible_text_9C3WQy",
         "collapsible_text_7YrXBB",
