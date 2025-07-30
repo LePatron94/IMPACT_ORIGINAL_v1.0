@@ -407,6 +407,39 @@
         "input_text_color": ""
       }
     },
+    "rich_text_8RdDr4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9q7pyB": {
+          "type": "heading",
+          "settings": {
+            "text": "Engagés pour un avenir plus vert ♻️",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_w43aew": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><em>Chaque commande contribue à protéger notre planète. Nous utilisons des matériaux durables et réduisons notre impact à chaque étape.<br/></em><em><strong>Zenichien est contre la déforestation et l'impact écologique des industries. </strong></em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_9q7pyB",
+        "richtext_w43aew"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -505,6 +538,7 @@
     "image_with_text_overlay_GwYhDd",
     "multi_column_AMkhQy",
     "featured-product",
+    "rich_text_8RdDr4",
     "faq",
     "contact_eb9WnF"
   ]
