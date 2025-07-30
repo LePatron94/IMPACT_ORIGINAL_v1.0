@@ -440,6 +440,39 @@
         "text_color": ""
       }
     },
+    "rich_text_EfTCdi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YxHHxp": {
+          "type": "heading",
+          "settings": {
+            "text": "Engagés également envers les refuges pour animaux 🏠",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_eGLAtD": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Pour lesquels nous reversons une partie de notre bénéfice en soutien aux causes animalières.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YxHHxp",
+        "richtext_eGLAtD"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -539,6 +572,7 @@
     "multi_column_AMkhQy",
     "featured-product",
     "rich_text_8RdDr4",
+    "rich_text_EfTCdi",
     "faq",
     "contact_eb9WnF"
   ]
