@@ -422,46 +422,13 @@
         "richtext_w43aew": {
           "type": "richtext",
           "settings": {
-            "content": "<p><em>Chaque commande contribue à protéger notre planète. Nous utilisons des matériaux durables et réduisons notre impact à chaque étape.<br/></em><em><strong>Zenichien est contre la déforestation et l'impact écologique des industries. </strong></em></p>"
+            "content": "<p><em>Nous utilisons des matériaux durables et réduisons notre impact à chaque étape.</em></p>"
           }
         }
       },
       "block_order": [
         "heading_9q7pyB",
         "richtext_w43aew"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_EfTCdi": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_YxHHxp": {
-          "type": "heading",
-          "settings": {
-            "text": "Engagés également envers les refuges pour animaux 🏠",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_eGLAtD": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Pour lesquels nous reversons une partie de notre bénéfice en soutien aux causes animalières.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_YxHHxp",
-        "richtext_eGLAtD"
       ],
       "name": "Rich text",
       "settings": {
@@ -572,7 +539,6 @@
     "multi_column_AMkhQy",
     "featured-product",
     "rich_text_8RdDr4",
-    "rich_text_EfTCdi",
     "faq",
     "contact_eb9WnF"
   ]
