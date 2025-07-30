@@ -16,7 +16,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/vsqsv.png",
+        "image": "shopify://shop_images/TESTB.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -340,12 +340,6 @@
             "payment_button_text_color": ""
           }
         },
-        "liquid_JtePG8": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Favorites Alert</title>\n    <style>\n        .notification-XY123 {\n            display: flex;\n            align-items: center;\n            font-family: Arial, sans-serif;\n            font-size: 16px;\n            color: #333;\n            margin: 2px 0; /* Yukarı ve aşağı 2 px boşluk ekleme */\n        }\n        .icon-ZA456 {\n            margin-right: 5px; /* Metne daha yakın yapmak için azaltıldı */\n        }\n        .icon-ZA456 img {\n            width: 24px; /* İkonun boyutu büyütüldü */\n        }\n        .text-BC789 {\n            font-weight: normal;\n        }\n        .highlight-DE012 {\n            color: #000; /* Daha koyu siyah renk */\n            font-weight: bold;\n            animation: pulse-FG345 1.5s infinite;\n        }\n        @keyframes pulse-FG345 {\n            0%, 100% {\n                transform: scale(1);\n            }\n            50% {\n                transform: scale(1.1);\n            }\n        }\n    </style>\n</head>\n<body>\n    <div class=\"notification-XY123\">\n        <div class=\"icon-ZA456\">\n            <img src=\"https://www.svgrepo.com/show/477386/love-2.svg\" alt=\"Heart Icon\">\n        </div>\n        <span class=\"text-BC789\">Saisissez votre<span class=\"highlight-DE012\"> tranquilité</span> avant qu'il soit en rupure !</span>\n    </div>\n</body>\n</html>"
-          }
-        },
         "liquid_J3kfkB": {
           "type": "liquid",
           "disabled": true,
@@ -390,7 +384,6 @@
         "liquid_6yDek7",
         "liquid_rhgUQQ",
         "buy_buttons_76Tegr",
-        "liquid_JtePG8",
         "liquid_J3kfkB",
         "collapsible_text_9C3WQy",
         "collapsible_text_7YrXBB",
