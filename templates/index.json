@@ -243,6 +243,12 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
+        "liquid_tbErjJ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "liquid_wgLzYt": {
           "type": "liquid",
           "settings": {
@@ -363,6 +369,7 @@
         }
       },
       "block_order": [
+        "liquid_tbErjJ",
         "liquid_wgLzYt",
         "liquid_pXy6AW",
         "title",
