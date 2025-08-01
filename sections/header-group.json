@@ -20,23 +20,15 @@
             "text": "STOCK FAIBLE - PROCHAIN RÉAPPROVISIONNEMENT EN 2026",
             "url": ""
           }
-        },
-        "message_3rNdDW": {
-          "type": "message",
-          "settings": {
-            "text": "SATISFAIT OU REMBOURSÉ",
-            "url": ""
-          }
         }
       },
       "block_order": [
-        "message",
-        "message_3rNdDW"
+        "message"
       ],
       "settings": {
         "enable_sticky": false,
         "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
         "background": "#080808",
         "background_gradient": "",
