@@ -431,6 +431,7 @@
         "richtext_qGxRYK",
         "image_G9Tgie"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
