@@ -35,18 +35,18 @@
             "link": ""
           }
         },
-        "logo_7X9hqg": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
-            "logo_width": 300,
-            "link": ""
-          }
-        },
         "logo_WCRJAp": {
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/1.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_7X9hqg": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
             "logo_width": 300,
             "link": ""
           }
@@ -62,8 +62,8 @@
       },
       "block_order": [
         "logo_7FTkiX",
-        "logo_7X9hqg",
         "logo_WCRJAp",
+        "logo_7X9hqg",
         "logo_CBJAMJ"
       ],
       "settings": {
