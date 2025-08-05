@@ -407,12 +407,22 @@
           "settings": {
             "content": "<p>Le signal émis par le Zenichien PRO est jugé <strong>100% sans danger</strong> par <strong>Dr. Antoine Drevon </strong>(Vétérinaire mixte dominante animaux de compagnie)<br/><br/><em><strong>\"Ce dispositif innovant a été testé sous nos yeux et d'après nos études il ne présente aucun danger pour le chien et ne le contrarie aucunement au vu des résultats auditifs\"</strong></em></p>"
           }
+        },
+        "image_G9Tgie": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Dr-Pierre-Meheust-chirurgie-neurologie-clinique-veterinaire-vetoceane-nantes-qxx712xe2ur51rr7ixxpv8njc2ue32y61mnaprfwdo.jpg",
+            "width_mode": "custom",
+            "max_width": 1000,
+            "mobile_max_width": 600
+          }
         }
       },
       "block_order": [
         "subheading_CkwFMY",
         "heading_CrKDxr",
-        "richtext_qGxRYK"
+        "richtext_qGxRYK",
+        "image_G9Tgie"
       ],
       "name": "Rich text",
       "settings": {
