@@ -288,6 +288,7 @@
         },
         "image_M6BrMy": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/fdsq_d.png",
             "alignment": "center",
@@ -320,7 +321,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#164373",
+            "atc_button_background": "#1b5b9f",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
