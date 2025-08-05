@@ -437,10 +437,20 @@
     "rich_text_8RdDr4": {
       "type": "rich-text",
       "blocks": {
+        "icon_BfMEL9": {
+          "type": "icon",
+          "settings": {
+            "icon": "picto-leaf",
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": ""
+          }
+        },
         "heading_9q7pyB": {
           "type": "heading",
           "settings": {
-            "text": "Engagés pour un avenir plus vert ♻️",
+            "text": "Engagés pour un avenir plus vert",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
@@ -454,6 +464,7 @@
         }
       },
       "block_order": [
+        "icon_BfMEL9",
         "heading_9q7pyB",
         "richtext_w43aew"
       ],
