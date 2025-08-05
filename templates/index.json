@@ -405,7 +405,7 @@
           "settings": {
             "text": "\"Sans contrainte, ni danger\"",
             "heading_tag": "h1",
-            "text_color": "",
+            "text_color": "#000000",
             "gradient": ""
           }
         },
@@ -417,6 +417,7 @@
         },
         "image_G9Tgie": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Dr-Pierre-Meheust-chirurgie-neurologie-clinique-veterinaire-vetoceane-nantes-qxx712xe2ur51rr7ixxpv8njc2ue32y61mnaprfwdo.jpg",
             "width_mode": "custom",
