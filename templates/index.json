@@ -27,26 +27,26 @@
     "logo_list_ziyRGK": {
       "type": "logo-list",
       "blocks": {
-        "logo_7X9hqg": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
-            "logo_width": 300,
-            "link": ""
-          }
-        },
         "logo_7FTkiX": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/d_cbkd.png",
-            "logo_width": 300,
+            "logo": "shopify://shop_images/2.png",
+            "logo_width": 120,
             "link": ""
           }
         },
         "logo_WCRJAp": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-seo_1_2.png",
+            "logo": "shopify://shop_images/4.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_7X9hqg": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
             "logo_width": 300,
             "link": ""
           }
@@ -54,16 +54,16 @@
         "logo_CBJAMJ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/dljnqnds.png",
-            "logo_width": 300,
+            "logo": "shopify://shop_images/3.png",
+            "logo_width": 120,
             "link": ""
           }
         }
       },
       "block_order": [
-        "logo_7X9hqg",
         "logo_7FTkiX",
         "logo_WCRJAp",
+        "logo_7X9hqg",
         "logo_CBJAMJ"
       ],
       "settings": {
@@ -178,6 +178,67 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
+      }
+    },
+    "rich_text_prXEkr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_g8AYdH": {
+          "type": "heading",
+          "settings": {
+            "text": "Une technologie a ondes électromagnétiques innovant qui stoppe les aboiements",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_g8AYdH"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_QgFye3": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_8amzLX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/0430_1_2_83801a25-d335-4c3a-ac0d-e2dc70551903.gif",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 24,
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "background": "#fff1de",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_8amzLX"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
       }
     },
     "multi_column_AMkhQy": {
@@ -600,6 +661,8 @@
     "rich_text_GaYXCf",
     "scrolling-text",
     "image_with_text_overlay_GwYhDd",
+    "rich_text_prXEkr",
+    "media_with_text_QgFye3",
     "multi_column_AMkhQy",
     "featured-product",
     "custom_liquid_HyfXhU",
