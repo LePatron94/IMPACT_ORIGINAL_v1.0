@@ -20,15 +20,23 @@
             "text": "⚠️ STOCK FAIBLE - PROCHAIN RÉAPPROVISIONNEMENT EN OCTOBRE ⚠️",
             "url": ""
           }
+        },
+        "message_GC4YJH": {
+          "type": "message",
+          "settings": {
+            "text": "SATISFAIT OU REMBOURSÉ",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_GC4YJH"
       ],
       "settings": {
         "enable_sticky": false,
         "text_size": "text-xs",
-        "navigation_mode": "arrows",
+        "navigation_mode": "scrolling",
         "scrolling_speed": 10,
         "background": "#080808",
         "background_gradient": "",
