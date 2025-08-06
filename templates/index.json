@@ -213,7 +213,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/0430_1_2_83801a25-d335-4c3a-ac0d-e2dc70551903.gif",
-            "media_width": 50,
+            "media_width": 60,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
