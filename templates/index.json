@@ -328,6 +328,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_YeAPLY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/feaqfafa.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "collapsible_text_9C3WQy": {
           "type": "collapsible_text",
           "settings": {
@@ -363,6 +371,7 @@
         "liquid_hfWtXk",
         "liquid_6yDek7",
         "buy_buttons_76Tegr",
+        "image_YeAPLY",
         "collapsible_text_9C3WQy",
         "collapsible_text_7YrXBB",
         "image_cEFBj6"
