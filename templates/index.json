@@ -459,7 +459,7 @@
         "heading_9q7pyB": {
           "type": "heading",
           "settings": {
-            "text": "Engagés pour un avenir plus vert",
+            "text": "La biodiversité",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
@@ -468,7 +468,7 @@
         "richtext_w43aew": {
           "type": "richtext",
           "settings": {
-            "content": "<p><em>Chez Zénichien, nous utilisons des matériaux durables et réduisons notre impact à chaque étape.</em></p>"
+            "content": "<p><strong>La Nature nous offre tant ! En retour, il est de notre devoir d’en prendre soin.<br/></strong><em>Chez Zénichien, nous utilisons des matériaux durables et réduisons notre impact à chaque étape.</em></p>"
           }
         }
       },
