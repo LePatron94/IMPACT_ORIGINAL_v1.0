@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "STOCK FAIBLE - PROCHAIN RÉAPPROVISIONNEMENT DANS 2 MOIS",
+            "text": "⚠️ STOCK FAIBLE - PROCHAIN RÉAPPROVISIONNEMENT DANS 6 MOIS",
             "url": ""
           }
         }
