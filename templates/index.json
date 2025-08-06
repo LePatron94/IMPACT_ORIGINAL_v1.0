@@ -241,6 +241,19 @@
         "spacing": "small"
       }
     },
+    "custom_liquid_iQzBDy": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_AMkhQy": {
       "type": "multi-column",
       "blocks": {
@@ -378,6 +391,14 @@
             "liquid": ""
           }
         },
+        "image_hCaMca": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/A_LACHER.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "liquid_6yDek7": {
           "type": "liquid",
           "settings": {
@@ -437,6 +458,7 @@
         "image_M6BrMy",
         "image_peGFQJ",
         "liquid_hfWtXk",
+        "image_hCaMca",
         "liquid_6yDek7",
         "buy_buttons_76Tegr",
         "image_YeAPLY",
@@ -663,6 +685,7 @@
     "image_with_text_overlay_GwYhDd",
     "rich_text_prXEkr",
     "media_with_text_QgFye3",
+    "custom_liquid_iQzBDy",
     "multi_column_AMkhQy",
     "featured-product",
     "custom_liquid_HyfXhU",
