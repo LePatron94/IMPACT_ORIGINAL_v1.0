@@ -27,10 +27,18 @@
     "logo_list_ziyRGK": {
       "type": "logo-list",
       "blocks": {
+        "logo_7X9hqg": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
         "logo_7FTkiX": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/lkwnckqd.png",
+            "logo": "shopify://shop_images/d_cbkd.png",
             "logo_width": 300,
             "link": ""
           }
@@ -39,14 +47,6 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/logo-seo_1_2.png",
-            "logo_width": 300,
-            "link": ""
-          }
-        },
-        "logo_7X9hqg": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -61,9 +61,9 @@
         }
       },
       "block_order": [
+        "logo_7X9hqg",
         "logo_7FTkiX",
         "logo_WCRJAp",
-        "logo_7X9hqg",
         "logo_CBJAMJ"
       ],
       "settings": {
