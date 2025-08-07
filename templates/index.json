@@ -185,6 +185,7 @@
       "blocks": {
         "heading_g8AYdH": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Une technologie innovante sans douleur et à ondes électromagnétiques qui stoppe les aboiements intempestifs",
             "heading_tag": "h3",
@@ -211,6 +212,7 @@
       "blocks": {
         "image_8amzLX": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/0430_1_2_83801a25-d335-4c3a-ac0d-e2dc70551903.gif",
             "media_width": 60,
