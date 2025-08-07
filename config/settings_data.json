@@ -69,18 +69,6 @@
         "disabled": false,
         "settings": {}
       },
-      "855628211100114053": {
-        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
-        "disabled": false,
-        "settings": {}
-      },
-      "11102003041163541349": {
-        "type": "shopify://apps/invints-bar-and-upsell/blocks/invints_announcebar/fb69316c-951c-42e2-b6a8-b45616e85204",
-        "disabled": false,
-        "settings": {
-          "custom_css": ""
-        }
-      },
       "12657775114333427046": {
         "type": "shopify://apps/countdown-timer-essential/blocks/app_embed/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
         "disabled": false,
