@@ -396,9 +396,8 @@
         },
         "image_hCaMca": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/A_LACHER.png",
+            "image": "shopify://shop_images/59.zip_-_1.png",
             "alignment": "center",
             "max_width": 500
           }
