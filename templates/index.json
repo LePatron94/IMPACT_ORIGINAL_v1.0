@@ -243,6 +243,7 @@
     },
     "custom_liquid_iQzBDy": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
