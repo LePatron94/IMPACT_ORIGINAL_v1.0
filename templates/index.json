@@ -362,6 +362,14 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "image_aHcUKF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/59.zip_-_1_1.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "liquid_ziD8p8": {
           "type": "liquid",
           "disabled": true,
@@ -453,6 +461,7 @@
         "price_bkEWnD",
         "liquid_wxmjUB",
         "kaching_bundles_app_block_V7TmiP",
+        "image_aHcUKF",
         "liquid_ziD8p8",
         "image_M6BrMy",
         "image_peGFQJ",
