@@ -262,6 +262,7 @@
         "item_i9VzGF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Avis.webp",
             "column_size": "3",
             "title": "\"Les voisins enfin tranquilles”",
             "heading_tag": "h4",
@@ -274,6 +275,7 @@
         "item_gAfV3B": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1_3b540d4b-6cf0-4a8b-a293-ddcf0e4984ca.webp",
             "column_size": "3",
             "title": "“Très utile quand on veut sortir”",
             "heading_tag": "h4",
@@ -286,6 +288,7 @@
         "item_qGNNWL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/LOSEILLE.webp",
             "column_size": "3",
             "title": "Il apaise mon chien et fonctionne",
             "heading_tag": "h4",
@@ -355,6 +358,7 @@
         },
         "kaching_bundles_app_block_V7TmiP": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "disabled": true,
           "settings": {
             "product": "{{section.settings.product}}"
           }
