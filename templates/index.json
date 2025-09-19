@@ -261,6 +261,7 @@
         "item_i9VzGF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/wmremove-transformed_1.jpg",
             "column_size": "3",
             "title": "\"Les voisins enfin tranquilles”",
             "heading_tag": "h4",
@@ -273,6 +274,7 @@
         "item_gAfV3B": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/3nCtboNgy9_mid.jpg",
             "column_size": "3",
             "title": "“Très utile quand on veut sortir”",
             "heading_tag": "h4",
@@ -285,6 +287,7 @@
         "item_qGNNWL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/output-assetsV2_VrFyBfjww77sWbKppPx5_asset.png",
             "column_size": "3",
             "title": "Il apaise mon chien et fonctionne",
             "heading_tag": "h4",
