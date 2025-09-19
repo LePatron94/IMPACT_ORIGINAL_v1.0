@@ -16,8 +16,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/vsqsv_1.png",
-        "mobile_image": "shopify://shop_images/vsqsv_1.png",
+        "image": "shopify://shop_images/qaff.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -31,7 +30,7 @@
         "logo_7FTkiX": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1_1.png",
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1_2.png",
             "logo_width": 120,
             "link": ""
           }
@@ -39,7 +38,7 @@
         "logo_WCRJAp": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/dljnqnds_1.png",
+            "logo": "shopify://shop_images/logo-seo_1_2_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -47,7 +46,7 @@
         "logo_7X9hqg": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-seo_1_2.png",
+            "logo": "shopify://shop_images/MANSCULPT_2_300x300_db19b9e5-0906-4c8a-962c-f99c9877d3dd.png",
             "logo_width": 300,
             "link": ""
           }
@@ -55,7 +54,7 @@
         "logo_CBJAMJ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/d_cbkd.png",
+            "logo": "shopify://shop_images/png-clipart-gq-logo-magazine-others-text-trademark.png",
             "logo_width": 120,
             "link": ""
           }
@@ -172,7 +171,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Copie_de_Template_section_benefice.zip_-_9.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -262,7 +260,6 @@
         "item_i9VzGF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avis.webp",
             "column_size": "3",
             "title": "\"Les voisins enfin tranquilles”",
             "heading_tag": "h4",
@@ -275,7 +272,6 @@
         "item_gAfV3B": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1_3b540d4b-6cf0-4a8b-a293-ddcf0e4984ca.webp",
             "column_size": "3",
             "title": "“Très utile quand on veut sortir”",
             "heading_tag": "h4",
@@ -288,7 +284,6 @@
         "item_qGNNWL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/LOSEILLE.webp",
             "column_size": "3",
             "title": "Il apaise mon chien et fonctionne",
             "heading_tag": "h4",
@@ -365,7 +360,6 @@
         "image_aHcUKF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/59.zip_-_1_1.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -431,7 +425,6 @@
         "image_B73rWX": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/feaqfafa_1.png",
             "alignment": "center",
             "max_width": 500
           }
