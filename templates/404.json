@@ -88,11 +88,38 @@
         "logo_item_background": "",
         "logo_item_border": ""
       }
+    },
+    "rich_text_nbeqhe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ceXPGB": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir l'oreiller CerviCalm ?",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_ceXPGB"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "image_with_text_overlay_TRqRwJ",
-    "logo_list_jPi6gF"
+    "logo_list_jPi6gF",
+    "rich_text_nbeqhe"
   ]
 }
