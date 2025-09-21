@@ -445,6 +445,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_ew9Ngr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-09-21_a_14.15.36.png",
+            "alignment": "center",
+            "max_width": 410
+          }
+        },
         "image_A93HPK": {
           "type": "image",
           "settings": {
@@ -506,6 +514,7 @@
         "image_hCaMca",
         "liquid_6yDek7",
         "buy_buttons_76Tegr",
+        "image_ew9Ngr",
         "image_A93HPK",
         "image_B73rWX",
         "image_YeAPLY",
