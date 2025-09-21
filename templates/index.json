@@ -220,38 +220,54 @@
         "text_color": ""
       }
     },
-    "media_with_text_8kWdjX": {
-      "type": "media-with-text",
+    "rich_text_9CyT9X": {
+      "type": "rich-text",
       "blocks": {
-        "image_YFFNPK": {
-          "type": "image",
+        "heading_N7fXRg": {
+          "type": "heading",
           "settings": {
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
+            "text": "Améliore votre circulation sanguine & votre vitalité pour des résultats durables",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
           }
         }
       },
       "block_order": [
-        "image_YFFNPK"
+        "heading_N7fXRg"
       ],
-      "name": "Media with text",
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_MmqLQt": {
+      "type": "video",
+      "blocks": {
+        "play_gw7YD8": {
+          "type": "play",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "play_gw7YD8"
+      ],
+      "name": "Video",
       "settings": {
         "full_width": false,
-        "spacing": "small"
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/GIF SCULPTOMAN.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "multi_column_AMkhQy": {
@@ -658,7 +674,8 @@
     "image_with_text_overlay_GwYhDd",
     "rich_text_prXEkr",
     "custom_liquid_iQzBDy",
-    "media_with_text_8kWdjX",
+    "rich_text_9CyT9X",
+    "video_MmqLQt",
     "multi_column_AMkhQy",
     "featured-product",
     "custom_liquid_HyfXhU",
