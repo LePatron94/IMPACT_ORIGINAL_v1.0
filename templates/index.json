@@ -383,6 +383,14 @@
             "max_width": 500
           }
         },
+        "image_TYpxk4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Reduction_banner1.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "liquid_ziD8p8": {
           "type": "liquid",
           "disabled": true,
@@ -486,6 +494,7 @@
         "liquid_wxmjUB",
         "kaching_bundles_app_block_V7TmiP",
         "image_aHcUKF",
+        "image_TYpxk4",
         "liquid_ziD8p8",
         "image_M6BrMy",
         "image_peGFQJ",
