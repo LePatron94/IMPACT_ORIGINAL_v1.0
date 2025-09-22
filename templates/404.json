@@ -14,36 +14,6 @@
       "disabled": true,
       "settings": {}
     },
-    "17585586353607eb27": {
-      "type": "apps",
-      "blocks": {
-        "pretty_comparison_tables_table_i6J847": {
-          "type": "shopify://apps/pretty-comparison-tables/blocks/table/4ce14980-e26b-4398-92cd-f582d95d4f05",
-          "settings": {
-            "product": "neckrest",
-            "title_text": "",
-            "title_font_tag": "h2",
-            "section_background_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "pretty_comparison_tables_table_i6J847"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
-    },
     "image_with_text_overlay_TRqRwJ": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -518,6 +488,36 @@
         "button_text_color": ""
       }
     },
+    "17585586353607eb27": {
+      "type": "apps",
+      "blocks": {
+        "pretty_comparison_tables_table_i6J847": {
+          "type": "shopify://apps/pretty-comparison-tables/blocks/table/4ce14980-e26b-4398-92cd-f582d95d4f05",
+          "settings": {
+            "product": "neckrest",
+            "title_text": "",
+            "title_font_tag": "h2",
+            "section_background_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "pretty_comparison_tables_table_i6J847"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "logo_list_grxr7J": {
       "type": "logo-list",
       "blocks": {
@@ -585,7 +585,7 @@
           "settings": {
             "video": "shopify://files/videos/de76dc5b1af74b47862b34a6eb34be03.mp4",
             "column_size": "3",
-            "title": "Éliminez les douleurs cervicales, les troubles de l'ATM et les maux de tête à la maison",
+            "title": "Éliminez les douleurs cervicales et les maux de tête à la maison",
             "heading_tag": "h4",
             "content": "<p>Des années de <span style=\"text-decoration:underline\">travail acharné, une position assise prolongée et une mauvaise posture exercent des tensions néfastes sur la colonne cervicale</span>, détériorant ainsi la courbure saine du cou .</p><p> Cela provoque <strong>un déplacement </strong>des disques cervicaux et une pression sur les nerfs voisins,provoquant des douleurs atroces au cou, aux épaules, au haut du dos et aux bras, et contribuant même aux douleurs de l'articulation temporo-mandibulaire et aux céphalées de tension.</p>",
             "link_url": "",
@@ -681,7 +681,6 @@
   },
   "order": [
     "main",
-    "17585586353607eb27",
     "image_with_text_overlay_TRqRwJ",
     "logo_list_jPi6gF",
     "rich_text_nbeqhe",
@@ -692,6 +691,7 @@
     "featured_product_M9RgUr",
     "tabs_xfXU97",
     "multiple_images_with_text_gqq9z9",
+    "17585586353607eb27",
     "logo_list_grxr7J",
     "multi_column_PzTFqF",
     "custom_liquid_DiPem9",
