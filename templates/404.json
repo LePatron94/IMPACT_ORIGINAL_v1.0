@@ -352,6 +352,53 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_xfXU97": {
+      "type": "tabs",
+      "blocks": {
+        "tab_CEn7pG": {
+          "type": "tab",
+          "settings": {
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Nous traitons et expédions toutes les commandes sous <strong>24 à 48 heures</strong>. La livraison standard prend généralement <strong>3 à 4 jours ouvrables</strong>, selon votre localisation.</p>",
+            "page": ""
+          }
+        },
+        "tab_cHeqaA": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 2",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "tab_mbVWMd": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_CEn7pG",
+        "tab_cHeqaA",
+        "tab_mbVWMd"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "Subheading",
+        "title": "Heading",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -363,6 +410,7 @@
     "rich_text_DGPNR4",
     "video_G6nLw4",
     "multi_column_3zPycU",
-    "featured_product_M9RgUr"
+    "featured_product_M9RgUr",
+    "tabs_xfXU97"
   ]
 }
