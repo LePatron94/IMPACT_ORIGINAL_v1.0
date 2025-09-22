@@ -213,12 +213,40 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_ay4xUc": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AfFpt4NOt_mid.jpg",
+            "column_size": "3",
+            "title": "Hugo L. - Créteil",
+            "heading_tag": "h4",
+            "content": "<p>J'avais mal à la nuque tout les jours au point ou ça me tordait dans ma posture, j'ai essayé d'aller à la salle de sport pour travailler les muscles du tronc et du dos mais ça n'a jamais corrigé mon problème. Du coup avec Cervicalm, les massages m'ont bien remis mes vertèbres en place et les radio montrent clairement une amélioration. Très satisfait.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YRFMja": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/u9w2bbTZ5_mid.jpg",
+            "column_size": "3",
+            "title": "Julien R. - Toulouse",
+            "heading_tag": "h4",
+            "content": "<p>Pour ma part je l'ai pris juste pour des massages de détente et évitez d'aller au spa pour dépenser de grosses sommes tous les mois. Sa mousse à mémoire de forme assure un ajustement doux sur ma nuque et la chaleur est tellement mais tellement apaisante... C'est un de mes meilleurs achats.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_BXHRz3",
         "item_CGtcaH",
-        "item_LNfaFk"
+        "item_LNfaFk",
+        "item_ay4xUc",
+        "item_YRFMja"
       ],
       "name": "Multi-column",
       "settings": {
