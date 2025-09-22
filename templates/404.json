@@ -295,6 +295,14 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "image_XRbwU7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Reduction_bannerfs.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "essential_countdown_timer_app_block_NwBmBc": {
           "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
           "settings": {
@@ -363,6 +371,7 @@
         "price_hVenie",
         "liquid_4XaHrQ",
         "kaching_bundles_app_block_TmhEMF",
+        "image_XRbwU7",
         "essential_countdown_timer_app_block_NwBmBc",
         "separator_zi7n4k",
         "description_qz99NR",
