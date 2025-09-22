@@ -356,6 +356,14 @@
     "tabs_xfXU97": {
       "type": "tabs",
       "blocks": {
+        "tab_9jUxH4": {
+          "type": "tab",
+          "settings": {
+            "title": "Comment la massothérapie combiné a la thermothérapie élimine les douleurs ?",
+            "content": "<p><span style=\"text-decoration:underline\">Cervicalm Plus utilisé seulement 15 minutes par jour</span> améliore progressivement <strong>la circulation sanguine, détend les muscles tendus, restaure la courbure naturelle du cou et élimine les douleurs cervicales</strong> en utilisant la puissance combinée du massage, des étirements et du chauffage.</p><p><br/>Cela aide <strong>à libérer les nerfs coincés et soulage la pression des hernies discales</strong> , vous laissant avec un cou sain et un sourire pour toujours.</p><ul><li><em>92 % des utilisateurs ont constaté une </em><em><strong>réduction des douleurs cervicales</strong></em><em> après une seule séance.<br/></em></li></ul><p><strong>La massothérapie</strong> soulage la douleur en stimulant la circulation sanguine et<span style=\"text-decoration:underline\">en favorisant la libération d’endorphines, les analgésiques naturels du corps.<br/><br/></span><em>La </em><em><strong>thermothérapie</strong></em><em> est une méthode cliniquement prouvée et efficace pour soulager les crampes musculaires et récupérer des blessures.</em><span style=\"text-decoration:underline\"><br/><br/>Cervicalm Plus augmente naturellement la circulation sanguine </span>en dilatant et en élargissant les vaisseaux sanguins dans la région du cou <strong>laissant plus de place au passage du liquide.<br/></strong></p>",
+            "page": ""
+          }
+        },
         "tab_CEn7pG": {
           "type": "tab",
           "settings": {
@@ -390,6 +398,7 @@
         }
       },
       "block_order": [
+        "tab_9jUxH4",
         "tab_CEn7pG",
         "tab_cHeqaA",
         "tab_mbVWMd",
