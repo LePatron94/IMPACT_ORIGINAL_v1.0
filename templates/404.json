@@ -283,6 +283,12 @@
             "show_taxes_notice": false
           }
         },
+        "description_qz99NR": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
         "liquid_4XaHrQ": {
           "type": "liquid",
           "settings": {
@@ -312,12 +318,6 @@
         "separator_zi7n4k": {
           "type": "separator",
           "settings": {}
-        },
-        "description_qz99NR": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
         },
         "liquid_4kDYJf": {
           "type": "liquid",
@@ -369,12 +369,12 @@
         "liquid_48KGgp",
         "title_bGD78d",
         "price_hVenie",
+        "description_qz99NR",
         "liquid_4XaHrQ",
         "kaching_bundles_app_block_TmhEMF",
         "image_XRbwU7",
         "essential_countdown_timer_app_block_NwBmBc",
         "separator_zi7n4k",
-        "description_qz99NR",
         "liquid_4kDYJf",
         "buy_buttons_iHM8AL",
         "liquid_HnFiBQ",
