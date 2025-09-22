@@ -178,6 +178,7 @@
         "item_BXHRz3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/IMG_7016.jpg",
             "column_size": "3",
             "title": "Lucille B. - Orléans",
             "heading_tag": "h4",
@@ -190,6 +191,7 @@
         "item_CGtcaH": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/gempages_540606567129547647-00f23a49-eb84-454a-bd2b-620b13b5def2.jpg",
             "column_size": "3",
             "title": "Jean-Pierre D. - Bordeaux",
             "heading_tag": "h4",
@@ -202,6 +204,7 @@
         "item_LNfaFk": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/IMG_9490.jpg",
             "column_size": "3",
             "title": "William C. - Neuilly-sur-Marne",
             "heading_tag": "h4",
