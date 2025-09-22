@@ -328,6 +328,13 @@
             "title": "Comment l'utiliser ?",
             "content": "<p><strong>Étape 1 :</strong> Activez le mode chauffage et choisissez entre faible, moyen ou élevé.</p><p> </p><p><strong>Étape 2 :</strong> Activez le mode massage et choisissez entre faible, moyen ou élevé.</p><p> </p><p><strong>Étape 3 :</strong> Détendez-vous et dites adieu aux douleurs et aux bosses au cou !</p>"
           }
+        },
+        "collapsible_text_fR6FnR": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Avis de non-responsabilité concernant l'authenticité",
+            "content": "<p>Soyez conscient que des produits contrefaits et de qualité inférieure ressemblant à Cervicalm sont vendus sur divers sites Web, notamment Amazon.</p><p>Ces imitations non seulement manquent de la qualité et de la technologie brevetée du véritable Cervicalm Plus, mais peuvent également être dangereuses à utiliser.</p><p> L'achat auprès de sources non autorisées vous met en danger, car nous ne pouvons garantir la sécurité, l'authenticité ou le service après-vente de ces articles.</p><p></p><p>Pour vous protéger et vous assurer de recevoir le produit authentique Cervicalm, achetez toujours directement sur notre site officiel.</p>"
+          }
         }
       },
       "block_order": [
@@ -340,7 +347,8 @@
         "buy_buttons_iHM8AL",
         "liquid_HnFiBQ",
         "liquid_4kDYJf",
-        "collapsible_text_aDQq7E"
+        "collapsible_text_aDQq7E",
+        "collapsible_text_fR6FnR"
       ],
       "name": "Featured product",
       "settings": {
