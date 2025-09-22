@@ -369,68 +369,6 @@
         "input_text_color": ""
       }
     },
-    "multi_column_PzTFqF": {
-      "type": "multi-column",
-      "blocks": {
-        "item_NCKfMJ": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/de76dc5b1af74b47862b34a6eb34be03.mp4",
-            "column_size": "3",
-            "title": "Éliminez les douleurs cervicales, les troubles de l'ATM et les maux de tête à la maison",
-            "heading_tag": "h4",
-            "content": "<p>Des années de <span style=\"text-decoration:underline\">travail acharné, une position assise prolongée et une mauvaise posture exercent des tensions néfastes sur la colonne cervicale</span>, détériorant ainsi la courbure saine du cou .</p><p> Cela provoque <strong>un déplacement </strong>des disques cervicaux et une pression sur les nerfs voisins,provoquant des douleurs atroces au cou, aux épaules, au haut du dos et aux bras, et contribuant même aux douleurs de l'articulation temporo-mandibulaire et aux céphalées de tension.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_xDzGhU": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/75ba6319ef62402e8cc5b14b3f7e2b36 (1).mp4",
-            "column_size": "3",
-            "title": "Restaurez la courbe naturelle de votre cou pour soulager la douleur",
-            "heading_tag": "h4",
-            "content": "<p>Les activités modernes poussent la <strong>tête plus en avant que la normale</strong> , ce qui provoque un resserrement et une compensation de nos muscles, <strong>laissant notre cou dans cette position non naturelle</strong> tout le temps.<br/> <br/></p><p>Mais ce qui <span style=\"text-decoration:underline\">est encore pire,</span> c'est que lorsque les muscles sont sollicités et contractés, ils <strong>interrompent leur propre apport sanguin</strong> . Ainsi, même si votre corps essaie d'envoyer plus de sang vers votre cou pour renforcer les muscles , il n'y parvient tout simplement pas.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_iRFxfP": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/c46dfeb8087a4ed0bb3b19ca7c699c22.mp4",
-            "column_size": "3",
-            "title": "Autres bienfaits cliniquement prouvés de la massothérapie",
-            "heading_tag": "h4",
-            "content": "<p>La massothérapie soulage la douleur en stimulant la circulation sanguine et <span style=\"text-decoration:underline\">en favorisant la libération d’endorphines, les analgésiques naturels du corps.</span></p><p> </p><p>Il aide également à renforcer les muscles et à améliorer la mobilité en soulageant les tensions et en favorisant la relaxation, <strong>ce qui permet de se déplacer plus librement et de retrouver la souplesse du cou.</strong></p><p> </p><p>Le massage stimule les nerfs par une pression douce et des mouvements rythmés, aidant à la régénération et à la réparation pour lutter contre l'inconfort du cou et des épaules.</p><ul><li><em>87 % des utilisateurs ont pu </em><span style=\"text-decoration:underline\"><em>soulager leurs maux de tête liés à l'ATM et à la tension</em></span><em> après 7 jours d'utilisation régulière (15 à 20 min/jour)</em></li></ul>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_NCKfMJ",
-        "item_xDzGhU",
-        "item_iRFxfP"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "tabs_xfXU97": {
       "type": "tabs",
       "blocks": {
@@ -525,6 +463,68 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
+      }
+    },
+    "multi_column_PzTFqF": {
+      "type": "multi-column",
+      "blocks": {
+        "item_NCKfMJ": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/de76dc5b1af74b47862b34a6eb34be03.mp4",
+            "column_size": "3",
+            "title": "Éliminez les douleurs cervicales, les troubles de l'ATM et les maux de tête à la maison",
+            "heading_tag": "h4",
+            "content": "<p>Des années de <span style=\"text-decoration:underline\">travail acharné, une position assise prolongée et une mauvaise posture exercent des tensions néfastes sur la colonne cervicale</span>, détériorant ainsi la courbure saine du cou .</p><p> Cela provoque <strong>un déplacement </strong>des disques cervicaux et une pression sur les nerfs voisins,provoquant des douleurs atroces au cou, aux épaules, au haut du dos et aux bras, et contribuant même aux douleurs de l'articulation temporo-mandibulaire et aux céphalées de tension.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_xDzGhU": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/75ba6319ef62402e8cc5b14b3f7e2b36 (1).mp4",
+            "column_size": "3",
+            "title": "Restaurez la courbe naturelle de votre cou pour soulager la douleur",
+            "heading_tag": "h4",
+            "content": "<p>Les activités modernes poussent la <strong>tête plus en avant que la normale</strong> , ce qui provoque un resserrement et une compensation de nos muscles, <strong>laissant notre cou dans cette position non naturelle</strong> tout le temps.<br/> <br/></p><p>Mais ce qui <span style=\"text-decoration:underline\">est encore pire,</span> c'est que lorsque les muscles sont sollicités et contractés, ils <strong>interrompent leur propre apport sanguin</strong> . Ainsi, même si votre corps essaie d'envoyer plus de sang vers votre cou pour renforcer les muscles , il n'y parvient tout simplement pas.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_iRFxfP": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/c46dfeb8087a4ed0bb3b19ca7c699c22.mp4",
+            "column_size": "3",
+            "title": "Autres bienfaits cliniquement prouvés de la massothérapie",
+            "heading_tag": "h4",
+            "content": "<p>La massothérapie soulage la douleur en stimulant la circulation sanguine et <span style=\"text-decoration:underline\">en favorisant la libération d’endorphines, les analgésiques naturels du corps.</span></p><p> </p><p>Il aide également à renforcer les muscles et à améliorer la mobilité en soulageant les tensions et en favorisant la relaxation, <strong>ce qui permet de se déplacer plus librement et de retrouver la souplesse du cou.</strong></p><p> </p><p>Le massage stimule les nerfs par une pression douce et des mouvements rythmés, aidant à la régénération et à la réparation pour lutter contre l'inconfort du cou et des épaules.</p><ul><li><em>87 % des utilisateurs ont pu </em><span style=\"text-decoration:underline\"><em>soulager leurs maux de tête liés à l'ATM et à la tension</em></span><em> après 7 jours d'utilisation régulière (15 à 20 min/jour)</em></li></ul>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_NCKfMJ",
+        "item_xDzGhU",
+        "item_iRFxfP"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "custom_liquid_DiPem9": {
@@ -636,11 +636,11 @@
     "video_G6nLw4",
     "multi_column_3zPycU",
     "featured_product_M9RgUr",
-    "multiple_images_with_text_gqq9z9",
-    "multi_column_PzTFqF",
     "tabs_xfXU97",
-    "custom_liquid_DiPem9",
+    "multiple_images_with_text_gqq9z9",
     "logo_list_grxr7J",
+    "multi_column_PzTFqF",
+    "custom_liquid_DiPem9",
     "rich_text_KernEj"
   ]
 }
