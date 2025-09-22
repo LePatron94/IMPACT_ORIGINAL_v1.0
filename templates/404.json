@@ -379,12 +379,21 @@
             "content": "<p><strong>Essayez le Cervical Plus l’esprit tranquille. Nous sommes tellement sur de notre produit que nous vous offrons 365 Jours de garantie. </strong>Si le Cervical Plus ne vous convient pas,<strong>vous avez 365 jours pour nous le retourner et obtenir un remboursement complet. </strong>Aucune prise de tête, juste la garantie d’acheter en toute confiance.</p>",
             "page": ""
           }
+        },
+        "tab_ebDbPU": {
+          "type": "tab",
+          "settings": {
+            "title": "SAV Français - 24/7",
+            "content": "<p>Notre service client est à votre écoute <strong>7J/7</strong>.<br/></p><p>Vous pouvez nous contacter en utilisant l'onglet <strong>\"Contact\"</strong> de notre boutique ou par email à l'adresse <strong>contact@cervicalm.fr.</strong></p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "tab_CEn7pG",
         "tab_cHeqaA",
-        "tab_mbVWMd"
+        "tab_mbVWMd",
+        "tab_ebDbPU"
       ],
       "name": "Tabs",
       "settings": {
