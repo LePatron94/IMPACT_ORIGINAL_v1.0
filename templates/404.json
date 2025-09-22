@@ -301,10 +301,6 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector_BXrQPf": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy_buttons_iHM8AL": {
           "type": "buy_buttons",
           "settings": {
@@ -328,7 +324,6 @@
         "separator_zi7n4k",
         "description_qz99NR",
         "variant_picker_DFeCRM",
-        "quantity_selector_BXrQPf",
         "buy_buttons_iHM8AL",
         "pickup_availability_RgchT7"
       ],
