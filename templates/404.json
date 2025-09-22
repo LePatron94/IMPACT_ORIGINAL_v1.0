@@ -591,6 +591,7 @@
       "blocks": {
         "item_NCKfMJ": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "video": "shopify://files/videos/de76dc5b1af74b47862b34a6eb34be03.mp4",
             "column_size": "3",
@@ -617,6 +618,7 @@
         },
         "item_iRFxfP": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "video": "shopify://files/videos/c46dfeb8087a4ed0bb3b19ca7c699c22.mp4",
             "column_size": "3",
