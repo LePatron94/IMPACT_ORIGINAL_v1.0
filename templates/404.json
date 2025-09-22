@@ -367,8 +367,8 @@
         "tab_cHeqaA": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Paiement 100% sécurisé",
+            "content": "<h4><strong>Moyens de paiement acceptés</strong></h4><ul><li><strong>Cartes bancaires</strong> : Visa, MasterCard, American Express.<br/></li><li><strong>PayPal, Apple Pay & Shop pay</strong> : Pour un paiement rapide et sécurisé.</li></ul><h4><br/><strong>Sécurité et fiabilité</strong><br/></h4><ul><li><strong>Cryptage des données</strong> : Toutes les transactions sont protégées par un cryptage SSL 256 bits pour garantir la sécurité de vos informations.</li><li><br/><strong>Vérification renforcée</strong> : Chaque achat est soumis à des vérifications supplémentaires pour éviter les fraudes.<br/></li></ul><h4><strong>Une question ?</strong><br/></h4><p>Notre service client est disponible 24/7 pour vous répondre.<br/>Contactez-nous à <a href=\"https://ceralia.fr/pages/contact\" target=\"_blank\" title=\"Contact\"><strong>contact@ceralia.fr</strong></a><strong>.</strong></p>",
             "page": ""
           }
         },
