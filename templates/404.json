@@ -466,10 +466,11 @@
         "item_iRFxfP": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/c46dfeb8087a4ed0bb3b19ca7c699c22.mp4",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Autres bienfaits cliniquement prouvés de la massothérapie",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>La massothérapie soulage la douleur en stimulant la circulation sanguine et <span style=\"text-decoration:underline\">en favorisant la libération d’endorphines, les analgésiques naturels du corps.</span></p><p> </p><p>Il aide également à renforcer les muscles et à améliorer la mobilité en soulageant les tensions et en favorisant la relaxation, <strong>ce qui permet de se déplacer plus librement et de retrouver la souplesse du cou.</strong></p><p> </p><p>Le massage stimule les nerfs par une pression douce et des mouvements rythmés, aidant à la régénération et à la réparation pour lutter contre l'inconfort du cou et des épaules.</p><ul><li><em>87 % des utilisateurs ont pu </em><span style=\"text-decoration:underline\"><em>soulager leurs maux de tête liés à l'ATM et à la tension</em></span><em> après 7 jours d'utilisation régulière (15 à 20 min/jour)</em></li></ul>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
