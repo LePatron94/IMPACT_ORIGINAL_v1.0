@@ -527,6 +527,19 @@
         "button_text_color": ""
       }
     },
+    "custom_liquid_DiPem9": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"\n  --c:#E5E7EB; --w:80%; --h:2px; --r:999px; --mt:10px; --mb:1px; --op:.8;\n  margin: var(--mt) auto var(--mb); width:var(--w); height:var(--h);\n  background: linear-gradient(90deg, var(--c), #9CA3AF);\n  border-radius: var(--r); opacity:var(--op);\n\"></div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "logo_list_grxr7J": {
       "type": "logo-list",
       "blocks": {
@@ -626,6 +639,7 @@
     "tabs_xfXU97",
     "multi_column_PzTFqF",
     "multiple_images_with_text_gqq9z9",
+    "custom_liquid_DiPem9",
     "logo_list_grxr7J",
     "rich_text_KernEj"
   ]
