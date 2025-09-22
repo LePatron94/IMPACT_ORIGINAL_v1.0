@@ -495,6 +495,65 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "logo_list_grxr7J": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_jQfTbx": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/gempages_540606567129547647-0dec050c-50d8-4938-89fa-7d6d2b689bb3.svg",
+            "logo_width": 290,
+            "link": ""
+          }
+        },
+        "logo_7U9hN4": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/gempages_540606567129547647-da00c1aa-90d7-4304-9266-8f2e02dc80bb.svg",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_J9AWMd": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/gempages_540606567129547647-29716dd5-4813-4f3e-8b28-c34911166559.svg",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_n4wPMV": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/gempages_540606567129547647-ef4a36b1-9efc-4734-a247-54ea2442292e.svg",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_jQfTbx",
+        "logo_7U9hN4",
+        "logo_J9AWMd",
+        "logo_n4wPMV"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Un remède éprouvé pour de multiples problèmes de santé",
+        "content": "<p>Equipe de Pharmaciens, Après deux ans de recherche et 178 000 $ investis en tests en laboratoire <span style=\"text-decoration:underline\">auprès de chiropraticiens de renom et d'une équipe d'experts médicaux</span>, nous avons développé Cervicalm Plus.</p><p> Il a été prouvé qu'il soulage certains des problèmes de santé les plus courants, notamment : <strong>Mauvaise posture, Raideur de la nuque, maux de tête, stress</strong></p>",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
     }
   },
   "order": [
@@ -508,6 +567,7 @@
     "multi_column_3zPycU",
     "featured_product_M9RgUr",
     "tabs_xfXU97",
-    "multi_column_PzTFqF"
+    "multi_column_PzTFqF",
+    "logo_list_grxr7J"
   ]
 }
