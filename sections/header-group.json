@@ -27,11 +27,27 @@
             "text": "SATISFAIT OU REMBOURSÉ",
             "url": ""
           }
+        },
+        "message_FdBRLp": {
+          "type": "message",
+          "settings": {
+            "text": "Paiement 100% sécurisé",
+            "url": ""
+          }
+        },
+        "message_AXaedM": {
+          "type": "message",
+          "settings": {
+            "text": "Garantie 365 Jours - Retour facile",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_GC4YJH"
+        "message_GC4YJH",
+        "message_FdBRLp",
+        "message_AXaedM"
       ],
       "settings": {
         "enable_sticky": false,
