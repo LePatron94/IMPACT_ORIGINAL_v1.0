@@ -21,13 +21,6 @@
             "url": ""
           }
         },
-        "message_GC4YJH": {
-          "type": "message",
-          "settings": {
-            "text": "SATISFAIT OU REMBOURSÉ",
-            "url": ""
-          }
-        },
         "message_FdBRLp": {
           "type": "message",
           "settings": {
@@ -45,7 +38,6 @@
       },
       "block_order": [
         "message",
-        "message_GC4YJH",
         "message_FdBRLp",
         "message_AXaedM"
       ],
