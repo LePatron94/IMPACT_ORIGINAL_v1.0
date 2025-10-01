@@ -175,27 +175,14 @@
     "multi_column_3zPycU": {
       "type": "multi-column",
       "blocks": {
-        "item_BXHRz3": {
+        "item_ay4xUc": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_7016.jpg",
+            "image": "shopify://shop_images/AfFpt4NOt_mid.jpg",
             "column_size": "3",
-            "title": "Lucille B. - Orléans",
+            "title": "\"Ma vie a changé, je suis soulagé\"",
             "heading_tag": "h4",
-            "content": "<p>Avant, je me réveillais avec de fortes douleurs au cou, aux épaules et aux bras. La douleur était parfois si intense qu'elle me tirait les larmes aux yeux, Depuis que j'utilise ce dispositif cervical, mes douleurs ont complètement disparu et je peux enfin dormir profondément la nuit. Merci infiniment.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_CGtcaH": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/gempages_540606567129547647-00f23a49-eb84-454a-bd2b-620b13b5def2.jpg",
-            "column_size": "3",
-            "title": "Jean-Pierre D. - Bordeaux",
-            "heading_tag": "h4",
-            "content": "<p>C'était une véritable bénédiction, et j'aurais aimé qu'il soit disponible il y a 10 ans ! Je souffre depuis longtemps de problèmes aux cervicales et aux épaules. Cet appareil a changé ma vie. Je dois encore l'utiliser deux fois par jour pour soulager de fortes migraines. J'espère juste ne pas l'user. Merci !</p>",
+            "content": "<p>J'avais<strong> mal à la nuque</strong> tout les jours au point ou ça me <strong>tordait dans ma posture</strong>, Du coup avec Cervicalm, les massages m'ont bien <strong>remis mes vertèbres en place</strong> et les radio montrent clairement une <strong>amélioration</strong>. Très satisfait.<br/><br/><strong>Hugo L. - Créteil</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -206,22 +193,9 @@
           "settings": {
             "image": "shopify://shop_images/IMG_9490.jpg",
             "column_size": "3",
-            "title": "William C. - Neuilly-sur-Marne",
+            "title": "\"Aucun regret, meilleur investissement\"",
             "heading_tag": "h4",
-            "content": "<p>Je ne pensais pas que ça marcherait et je l'ai acheté uniquement grâce à leur garantie satisfait ou remboursé de 365 jours. Je me suis dit que si ça ne marchait pas, je le retournerais, mais comme ça marche très bien, je ne le retournerai pas. Ça détend ma nuque et ça fait disparaître la douleur ou la raideur au bout de 10 minutes environ. Ça vaut vraiment le coup.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_ay4xUc": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/AfFpt4NOt_mid.jpg",
-            "column_size": "3",
-            "title": "Hugo L. - Créteil",
-            "heading_tag": "h4",
-            "content": "<p>J'avais mal à la nuque tout les jours au point ou ça me tordait dans ma posture, j'ai essayé d'aller à la salle de sport pour travailler les muscles du tronc et du dos mais ça n'a jamais corrigé mon problème. Du coup avec Cervicalm, les massages m'ont bien remis mes vertèbres en place et les radio montrent clairement une amélioration. Très satisfait.</p>",
+            "content": "<p>Ça détend ma nuque et ça fait disparaître la douleur ou la raideur au bout de <strong>10 minutes</strong> environ. Ça vaut vraiment le coup. En plus c'est <strong>garantie 1 an</strong> !<br/><br/><strong>William C. - Neuilly-sur-Marne</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -232,9 +206,37 @@
           "settings": {
             "image": "shopify://shop_images/u9w2bbTZ5_mid.jpg",
             "column_size": "3",
-            "title": "Julien R. - Toulouse",
+            "title": "\"Mieux qu'un massage de SPA\"",
             "heading_tag": "h4",
-            "content": "<p>Pour ma part je l'ai pris juste pour des massages de détente et évitez d'aller au spa pour dépenser de grosses sommes tous les mois. Sa mousse à mémoire de forme assure un ajustement doux sur ma nuque et la chaleur est tellement mais tellement apaisante... C'est un de mes meilleurs achats.</p>",
+            "content": "<p>Pour ma part je l'ai pris juste pour des <strong>massages de détente </strong>et évitez d'aller au spa pour dépenser de grosses sommes<strong> tous les mois</strong>. La chaleur est tellement mais <strong>tellement apaisante</strong>... C'est <strong>un de mes meilleurs achats.</strong><br/><br/><strong>Julien R. - Toulouse</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_CGtcaH": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/gempages_540606567129547647-00f23a49-eb84-454a-bd2b-620b13b5def2.jpg",
+            "column_size": "3",
+            "title": "Jean-Pierre D. - Bordeaux",
+            "heading_tag": "h4",
+            "content": "<p>Cet appareil a changé ma vie. Je dois encore l'utiliser deux fois par jour pour soulager de fortes migraines. J'espère juste ne pas l'user. Merci !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_BXHRz3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_7016.jpg",
+            "column_size": "3",
+            "title": "Lucille B. - Orléans",
+            "heading_tag": "h4",
+            "content": "<p>Avant, je me réveillais avec de fortes douleurs au cou, aux épaules et aux bras. Mes douleurs ont complètement disparu et je peux enfin dormir profondément la nuit. Merci infiniment.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -242,11 +244,11 @@
         }
       },
       "block_order": [
-        "item_BXHRz3",
-        "item_CGtcaH",
-        "item_LNfaFk",
         "item_ay4xUc",
-        "item_YRFMja"
+        "item_LNfaFk",
+        "item_YRFMja",
+        "item_CGtcaH",
+        "item_BXHRz3"
       ],
       "name": "Multi-column",
       "settings": {
