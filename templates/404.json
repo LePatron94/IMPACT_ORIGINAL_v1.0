@@ -95,7 +95,7 @@
         "heading_ceXPGB": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir l'oreiller CerviCalm ?",
+            "text": "Pourquoi choisir l'oreiller masseur  CerviCalm ?",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -123,7 +123,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/lhv_mfb.png",
+        "image": "shopify://shop_images/slhlm_g.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
