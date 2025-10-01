@@ -317,12 +317,6 @@
           "type": "separator",
           "settings": {}
         },
-        "liquid_4kDYJf": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Money Back Guarantee</title>\n    <style>\n        body.unique-body-Gua123 {\n            font-family: 'Arial', sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f0f2f5;\n        }\n        .unique-guarantee-info-Zyx987 {\n            display: flex;\n            align-items: center;\n            background-color: #e0f7e4; /* Çok açık yeşil arka plan */\n            padding: 10px 20px;\n            border-radius: 8px;\n            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);\n            font-size: 14px;\n            color: #2e7d32; /* Koyu yeşil metin */\n            margin: 2px;\n        }\n        .unique-guarantee-info-Zyx987 img {\n            margin-right: 8px;\n            filter: invert(38%) sepia(76%) saturate(3053%) hue-rotate(87deg) brightness(91%) contrast(85%);\n        }\n        .unique-guarantee-info-Zyx987 span {\n            font-weight: 500;\n        }\n    </style>\n</head>\n<body class=\"unique-body-Gua123\">\n    <div class=\"unique-guarantee-info-Zyx987\">\n        <img src=\"https://www.svgrepo.com/show/529489/check-read.svg\" alt=\"Check Icon\" width=\"20\" height=\"20\">\n        <span>Garantie Remboursement - 365 JOURS</span>\n    </div>\n</body>\n</html>"
-          }
-        },
         "buy_buttons_iHM8AL": {
           "type": "buy_buttons",
           "settings": {
@@ -372,7 +366,6 @@
         "kaching_bundles_app_block_TmhEMF",
         "image_XRbwU7",
         "separator_zi7n4k",
-        "liquid_4kDYJf",
         "buy_buttons_iHM8AL",
         "liquid_HnFiBQ",
         "image_hEeC8C",
