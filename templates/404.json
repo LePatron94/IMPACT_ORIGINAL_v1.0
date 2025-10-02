@@ -498,36 +498,6 @@
         "button_text_color": ""
       }
     },
-    "17585586353607eb27": {
-      "type": "apps",
-      "blocks": {
-        "pretty_comparison_tables_table_i6J847": {
-          "type": "shopify://apps/pretty-comparison-tables/blocks/table/4ce14980-e26b-4398-92cd-f582d95d4f05",
-          "settings": {
-            "product": "neckrest",
-            "title_text": "",
-            "title_font_tag": "h2",
-            "section_background_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "pretty_comparison_tables_table_i6J847"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
-    },
     "logo_list_grxr7J": {
       "type": "logo-list",
       "blocks": {
@@ -707,7 +677,6 @@
     "featured_product_M9RgUr",
     "tabs_xfXU97",
     "multiple_images_with_text_gqq9z9",
-    "17585586353607eb27",
     "logo_list_grxr7J",
     "multi_column_PzTFqF",
     "custom_liquid_DiPem9",
