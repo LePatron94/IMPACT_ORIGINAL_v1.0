@@ -308,6 +308,7 @@
         },
         "image_XRbwU7": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Reduction_bannerfs.png",
             "alignment": "center",
@@ -323,7 +324,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
+            "atc_button_background": "#123f64",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
