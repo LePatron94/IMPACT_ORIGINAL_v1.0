@@ -22,7 +22,7 @@
         "full_width": true,
         "subheading": "",
         "title": "Avez vous une question ?",
-        "content": "<p><strong>Notre équipe vous répondent tous les jours de la semaine. Temps de réponse moyen : 24h</strong></p>",
+        "content": "<p><strong>Notre équipe vous répondent tous les jours de la semaine. Temps de réponse moyen : 24h<br/><br/>Du Lundi au Vendredi : 9h - 18h <br/>Samedi : 9h - 17h</strong></p>",
         "text_position": "center",
         "contact_form_size": "large",
         "background": "",
