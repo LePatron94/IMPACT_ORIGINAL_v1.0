@@ -309,7 +309,6 @@
         },
         "image_XRbwU7": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Reduction_bannerfs.png",
             "alignment": "center",
