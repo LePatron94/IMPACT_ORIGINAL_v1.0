@@ -89,6 +89,49 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_hGDLqj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QdLAzR": {
+          "type": "heading",
+          "settings": {
+            "text": "Résultats avant/après :",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_QdLAzR"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_Gipyhh": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ameliorer-sa-posture.jpg",
+        "mobile_image": "shopify://shop_images/ameliorer-sa-posture.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "rich_text_nbeqhe": {
       "type": "rich-text",
       "blocks": {
@@ -727,6 +770,8 @@
     "main",
     "image_with_text_overlay_TRqRwJ",
     "logo_list_jPi6gF",
+    "rich_text_hGDLqj",
+    "image_with_text_overlay_Gipyhh",
     "rich_text_nbeqhe",
     "image_with_text_overlay_rceCDf",
     "rich_text_DGPNR4",
