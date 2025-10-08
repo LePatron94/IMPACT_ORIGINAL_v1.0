@@ -309,6 +309,7 @@
         },
         "image_XRbwU7": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/FLASHPROMO.png",
             "alignment": "center",
@@ -324,7 +325,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#122971",
+            "atc_button_background": "#21493c",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
