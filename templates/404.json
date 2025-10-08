@@ -468,6 +468,32 @@
         "heading_gradient": ""
       }
     },
+    "rich_text_ChXiR4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pWD3zD": {
+          "type": "heading",
+          "settings": {
+            "text": "Qu'est ce qui nous rend meilleur ?",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_pWD3zD"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "175991329160df3cbe": {
       "type": "apps",
       "blocks": {
@@ -708,6 +734,7 @@
     "multi_column_3zPycU",
     "featured_product_M9RgUr",
     "tabs_xfXU97",
+    "rich_text_ChXiR4",
     "175991329160df3cbe",
     "multiple_images_with_text_gqq9z9",
     "logo_list_grxr7J",
