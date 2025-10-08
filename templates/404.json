@@ -176,6 +176,19 @@
     "multi_column_3zPycU": {
       "type": "multi-column",
       "blocks": {
+        "item_YRFMja": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/u9w2bbTZ5_mid.jpg",
+            "column_size": "3",
+            "title": "\"Mieux qu'un massage de SPA\"",
+            "heading_tag": "h4",
+            "content": "<p>Pour ma part je l'ai pris juste pour des <strong>massages de détente </strong>et évitez d'aller au spa pour dépenser de grosses sommes<strong> tous les mois</strong>. La chaleur est tellement mais <strong>tellement apaisante</strong>... C'est <strong>un de mes meilleurs achats.</strong><br/><br/><strong>Julien R. - Toulouse</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_ay4xUc": {
           "type": "item",
           "settings": {
@@ -197,19 +210,6 @@
             "title": "\"Aucun regret, meilleur investissement\"",
             "heading_tag": "h4",
             "content": "<p>Ça détend ma nuque et ça fait disparaître la douleur ou la raideur au bout de <strong>10 minutes</strong> environ. Ça vaut vraiment le coup. En plus c'est <strong>garantie 1 an</strong> !<br/><br/><strong>William C. - Neuilly-sur-Marne</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_YRFMja": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/u9w2bbTZ5_mid.jpg",
-            "column_size": "3",
-            "title": "\"Mieux qu'un massage de SPA\"",
-            "heading_tag": "h4",
-            "content": "<p>Pour ma part je l'ai pris juste pour des <strong>massages de détente </strong>et évitez d'aller au spa pour dépenser de grosses sommes<strong> tous les mois</strong>. La chaleur est tellement mais <strong>tellement apaisante</strong>... C'est <strong>un de mes meilleurs achats.</strong><br/><br/><strong>Julien R. - Toulouse</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -245,9 +245,9 @@
         }
       },
       "block_order": [
+        "item_YRFMja",
         "item_ay4xUc",
         "item_LNfaFk",
-        "item_YRFMja",
         "item_CGtcaH",
         "item_BXHRz3"
       ],
