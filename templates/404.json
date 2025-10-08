@@ -138,8 +138,8 @@
         "heading_37xhYU": {
           "type": "heading",
           "settings": {
-            "text": "Une technologie de massage et de chauffage apaisant",
-            "heading_tag": "h1",
+            "text": "Une technologie de massage hydraulique et de chauffage apaisant",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -165,7 +165,7 @@
         "full_width": false,
         "allow_transparent_header": false,
         "autoplay": true,
-        "video_size": "md",
+        "video_size": "sm",
         "video": "shopify://files/videos/c46dfeb8087a4ed0bb3b19ca7c699c22.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
