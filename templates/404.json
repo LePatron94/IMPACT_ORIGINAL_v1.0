@@ -124,6 +124,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/slhlm_g.png",
+        "mobile_image": "shopify://shop_images/BANNER_BENEF.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -138,7 +139,7 @@
           "type": "heading",
           "settings": {
             "text": "Une technologie de massage et de chauffage apaisant",
-            "heading_tag": "h4",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
