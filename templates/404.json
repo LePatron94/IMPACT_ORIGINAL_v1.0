@@ -468,12 +468,11 @@
         "heading_gradient": ""
       }
     },
-    "17599111328c0a4d5c": {
+    "175991329160df3cbe": {
       "type": "apps",
       "blocks": {
-        "pretty_comparison_tables_table_rQzEzX": {
+        "pretty_comparison_tables_table_aMnCkb": {
           "type": "shopify://apps/pretty-comparison-tables/blocks/table/4ce14980-e26b-4398-92cd-f582d95d4f05",
-          "disabled": true,
           "settings": {
             "product": "neckrest",
             "title_text": "",
@@ -483,7 +482,7 @@
         }
       },
       "block_order": [
-        "pretty_comparison_tables_table_rQzEzX"
+        "pretty_comparison_tables_table_aMnCkb"
       ],
       "settings": {
         "full_width": true,
@@ -709,7 +708,7 @@
     "multi_column_3zPycU",
     "featured_product_M9RgUr",
     "tabs_xfXU97",
-    "17599111328c0a4d5c",
+    "175991329160df3cbe",
     "multiple_images_with_text_gqq9z9",
     "logo_list_grxr7J",
     "multi_column_PzTFqF",
