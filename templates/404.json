@@ -76,7 +76,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Ils parlent de nous",
+        "title": "Vu sur :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -95,8 +95,8 @@
         "heading_ceXPGB": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir l'oreiller masseur  CerviCalm Plus ?",
-            "heading_tag": "h3",
+            "text": "Ses bienfaits sur vous ?",
+            "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
           }
@@ -137,7 +137,7 @@
         "heading_37xhYU": {
           "type": "heading",
           "settings": {
-            "text": "Une technologie de « massothérapie » et « thermotherapie »",
+            "text": "Une technologie de massage et de chauffage apaisant",
             "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
