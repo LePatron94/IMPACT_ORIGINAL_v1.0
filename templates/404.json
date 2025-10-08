@@ -476,7 +476,7 @@
           "settings": {
             "product": "neckrest",
             "title_text": "",
-            "title_font_tag": "h2",
+            "title_font_tag": "h1",
             "section_background_color": ""
           }
         }
