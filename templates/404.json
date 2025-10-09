@@ -44,7 +44,7 @@
         "logo_f7eLk3": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Glamour-Logo_svg.png",
+            "logo": "shopify://shop_images/IMG_3704.png",
             "logo_width": 120,
             "link": ""
           }
@@ -52,8 +52,8 @@
         "logo_q48URd": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/IMG_3705.png",
+            "logo_width": 300,
             "link": ""
           }
         },
