@@ -524,6 +524,7 @@
       "blocks": {
         "heading_pWD3zD": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Qu'est ce qui nous rend meilleur ?",
             "heading_tag": "h2",
