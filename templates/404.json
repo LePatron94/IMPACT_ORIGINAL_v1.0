@@ -260,7 +260,6 @@
         },
         "item_CGtcaH": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/gempages_540606567129547647-00f23a49-eb84-454a-bd2b-620b13b5def2.jpg",
             "column_size": "3",
@@ -274,7 +273,6 @@
         },
         "item_BXHRz3": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_7016.jpg",
             "column_size": "3",
