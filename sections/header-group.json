@@ -14,41 +14,33 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message": {
-          "type": "message",
-          "settings": {
-            "text": "PROMO d'AUTOMNE 🍁 : 1 Acheté = 1 OFFERT",
-            "url": ""
-          }
-        },
-        "message_AXaedM": {
-          "type": "message",
-          "settings": {
-            "text": "Garantie a VIE - SATISFAIT OU REMBOURSE",
-            "url": ""
-          }
-        },
         "message_KQRq4K": {
           "type": "message",
           "settings": {
-            "text": "Paiement 100% sécurisé (Paypal, Apple Pay etc.)",
+            "text": "100% secure payment",
+            "url": ""
+          }
+        },
+        "message_tJDBNT": {
+          "type": "message",
+          "settings": {
+            "text": "Money-Back Guarantee",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message",
-        "message_AXaedM",
-        "message_KQRq4K"
+        "message_KQRq4K",
+        "message_tJDBNT"
       ],
       "settings": {
         "enable_sticky": false,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#c6ebde",
+        "background": "#ffdcd9",
         "background_gradient": "",
-        "text_color": "#070e2b"
+        "text_color": "#000000"
       }
     },
     "header": {
@@ -56,7 +48,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": true,
-        "logo": "shopify://shop_images/CERVICALM_LOGO.png",
         "logo_max_width": 135,
         "logo_mobile_max_width": 165,
         "menu": "main-menu",
@@ -71,7 +62,6 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "transparent_logo": "shopify://shop_images/CERVICALM_LOGO.png",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0
