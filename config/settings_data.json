@@ -21,14 +21,14 @@
     "icon_style": "duo",
     "button_style": "rellenar",
     "button_hover_effect": "Desvanecer",
-    "background": "#ffffff",
-    "text_color": "#000000",
+    "background": "#000000",
+    "text_color": "#ffffff",
     "success_color": "#00a341",
     "warning_color": "#ffb74a",
     "error_color": "#f83a3a",
-    "header_background": "#ffffff",
-    "header_text_color": "#000000",
-    "footer_background": "#ffdcd9",
+    "header_background": "#000000",
+    "header_text_color": "#ffffff",
+    "footer_background": "#65d4e9",
     "footer_text_color": "#000000",
     "primary_button_background": "#11296e",
     "primary_button_text_color": "#ffffff",
@@ -66,6 +66,11 @@
       },
       "12657775114333427046": {
         "type": "shopify://apps/essential-countdown-timer/blocks/app_embed/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+        "disabled": false,
+        "settings": {}
+      },
+      "2567389343055140935": {
+        "type": "shopify://apps/microsoft-clarity/blocks/clarity_js/31c3d126-8116-4b4a-8ba1-baeda7c4aeea",
         "disabled": false,
         "settings": {}
       }
