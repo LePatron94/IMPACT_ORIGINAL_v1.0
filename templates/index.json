@@ -171,6 +171,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/ihqdfm.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -184,7 +185,7 @@
         "heading_zQaUaC": {
           "type": "heading",
           "settings": {
-            "text": "3D compression technology that accelerates fat loss and reduces cellulite",
+            "text": "Sentez-vous à nouveau plus fort et confiant, avec la technologie Puraboost",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -212,6 +213,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/b22b2f59f8f5e7513b9a9aa96408dcc9_480x480_a4fa1a52-5210-4437-8003-451dcc7c7e09_480x480_1.gif",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
