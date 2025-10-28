@@ -475,6 +475,13 @@
             "content": "<p><strong>Nous offrons la livraison gratuite sous 3 à 5 jours ouvrés en France, au Canada et aux États-Unis.</strong><br/><br/>(La plupart des commandes arrivent avant ce délai, mais nous préférons vous donner une estimation large au cas où).</p>"
           }
         },
+        "collapsible_text_rnCF98": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Conseils d'entretien",
+            "content": "<p>Lavage en machine à basse température pour préserver le tissu et maintenir une compression efficace.</p>"
+          }
+        },
         "image_cEFBj6": {
           "type": "image",
           "settings": {
@@ -506,6 +513,7 @@
         "collapsible_text_7YrXBB",
         "collapsible_text_fBhzjq",
         "collapsible_text_J9FGb3",
+        "collapsible_text_rnCF98",
         "image_cEFBj6"
       ],
       "settings": {
