@@ -447,20 +447,6 @@
             "max_width": 500
           }
         },
-        "collapsible_text_9C3WQy": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "GARANTIE DE REMBOURSEMENT - Satisfait ou Remboursé",
-            "content": "<p><strong>Votre satisfaction est notre priorité</strong>. Si vous n’êtes pas totalement convaincue par votre achat, <strong>vous avez 30 jours pour nous le retourner – sans justification nécessaire</strong>. Le remboursement est intégral, le processus est simple, et notre équipe reste à votre écoute à chaque étape.<br/><br/>Contactez nous a l'adresse :<br/><strong>contact@zenichien.fr</strong></p><p><strong>C’est la promesse ZENICHIEN 🐾</strong></p>"
-          }
-        },
-        "collapsible_text_7YrXBB": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Combien de temps prend la livraison ?",
-            "content": "<p>Nous proposons une expédition rapide, suivie et assurée dans le monde entier de 3 à 5 jours.</p>"
-          }
-        },
         "collapsible_text_fBhzjq": {
           "type": "collapsible_text",
           "settings": {
@@ -473,6 +459,13 @@
           "settings": {
             "title": "Délais de livraisons",
             "content": "<p><strong>Nous offrons la livraison gratuite sous 3 à 5 jours ouvrés en France, au Canada et aux États-Unis.</strong><br/><br/>(La plupart des commandes arrivent avant ce délai, mais nous préférons vous donner une estimation large au cas où).</p>"
+          }
+        },
+        "collapsible_text_9C3WQy": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Garantie de remboursement durant 30 Jours",
+            "content": "<p><strong>Votre satisfaction est notre priorité</strong>. Si vous n’êtes pas totalement convaincue par votre achat, <strong>vous avez 30 jours pour nous le retourner – sans justification nécessaire</strong>. Le remboursement est intégral, le processus est simple, et notre équipe reste à votre écoute à chaque étape.<br/><br/>Contactez nous a l'adresse :<br/><strong>contact@zenichien.fr</strong></p><p><strong>C’est la promesse ZENICHIEN 🐾</strong></p>"
           }
         },
         "collapsible_text_rnCF98": {
@@ -509,10 +502,9 @@
         "buy_buttons_76Tegr",
         "image_B73rWX",
         "image_YeAPLY",
-        "collapsible_text_9C3WQy",
-        "collapsible_text_7YrXBB",
         "collapsible_text_fBhzjq",
         "collapsible_text_J9FGb3",
+        "collapsible_text_9C3WQy",
         "collapsible_text_rnCF98",
         "image_cEFBj6"
       ],
