@@ -461,6 +461,20 @@
             "content": "<p>Nous proposons une expédition rapide, suivie et assurée dans le monde entier de 3 à 5 jours.</p>"
           }
         },
+        "collapsible_text_fBhzjq": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Description",
+            "content": "<p><strong>Matière :</strong> 80 % nylon, 20 % élasthanne<br/><strong>Couleurs disponibles :</strong> Noir, Blanc, Gris<br/><strong>Type :</strong> Gilet de musculation gainant et énergisant</p><ul><li>Se sentir énergique et confiant</li><li>Favorise la perte de poids</li><li>Réduit la gynécomastie</li></ul>"
+          }
+        },
+        "collapsible_text_J9FGb3": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Conseils d'entretien",
+            "content": "<p>Nous offrons la livraison gratuite sous 3 à 5 jours ouvrés en France, au Canada et aux États-Unis.<br/><br/>(La plupart des commandes arrivent avant ce délai, mais nous préférons vous donner une estimation large au cas où).</p>"
+          }
+        },
         "image_cEFBj6": {
           "type": "image",
           "settings": {
@@ -490,6 +504,8 @@
         "image_YeAPLY",
         "collapsible_text_9C3WQy",
         "collapsible_text_7YrXBB",
+        "collapsible_text_fBhzjq",
+        "collapsible_text_J9FGb3",
         "image_cEFBj6"
       ],
       "settings": {
