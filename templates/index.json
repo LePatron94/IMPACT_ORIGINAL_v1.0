@@ -268,11 +268,11 @@
         "item_i9VzGF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/6fZ9p4TsQVYNkDX.jpg",
+            "image": "shopify://shop_images/fwy2eHq3zR9GMAX.jpg",
             "column_size": "3",
             "title": "\"Souple et fin confortable comme une seconde peau\"",
             "heading_tag": "h4",
-            "content": "<p>Article parfait<br/>Identique à la photo. Taille idéale. De bonne qualité et très confortable.<em><br/><br/></em><strong>David Gilmour, 28 ans – Lyon (69)</strong></p>",
+            "content": "<p>Article parfait, identique à la photo. Taille idéale. De bonne qualité et très confortable.<em><br/><br/></em><strong>David Gilmour, 28 ans – Lyon (69)</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -281,11 +281,11 @@
         "item_gAfV3B": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/kHJgC8YjPRyUueB.jpg",
+            "image": "shopify://shop_images/mknqvdnkmqd.png",
             "column_size": "3",
             "title": "“Très utile quand on veut sortir”",
             "heading_tag": "h4",
-            "content": "<p>Sans manches, il me permet de montrer mes bras pendant que je rame, et la coupe est plutôt flatteuse. Je trouve la qualité correcte, et le tissu est assez respirant, ce qui permet de rester au frais. Je suis ravie de cet achat.</p><p><em><br/></em><strong>Sophie Gauthier, 42 ans – Grenoble (38)</strong></p>",
+            "content": "<p>La coupe est plutôt flatteuse. Je trouve la qualité correcte, et le tissu est assez respirant, ce qui permet de rester au frais. Je suis ravie de cet achat.</p><p><em><br/></em><strong>Sophie Gauthier, 42 ans – Grenoble (38)</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -294,11 +294,11 @@
         "item_qGNNWL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/lFMOdNUPV0Si4Wb.jpg",
+            "image": "shopify://shop_images/6fZ9p4TsQVYNkDX.jpg",
             "column_size": "3",
-            "title": "Il apaise mon chien et fonctionne",
+            "title": "\"Ce débardeur de Kynor est un excellent choix pour vos entraînements.\"",
             "heading_tag": "h4",
-            "content": "<p>Ce débardeur de Kynor est un excellent choix pour vos entraînements. Son tissu léger, respirant et à séchage rapide le rend confortable pour la course à pied ou la salle de sport. Il est extensible sans être trop serré et sa coupe est ajustée sans contraindre les mouvements. <em><br/><br/></em><strong>Claire Martin, 26 ans – Paris (75)</strong></p>",
+            "content": "<p>Son tissu léger, respirant et à séchage rapide le rend confortable pour la course à pied ou la salle de sport. Il est extensible sans être trop serré donc sans contraindre les mouvements. <em><br/><br/></em><strong>Claire Martin, 26 ans – Paris (75)</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
