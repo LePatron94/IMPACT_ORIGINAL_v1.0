@@ -265,14 +265,14 @@
     "multi_column_AMkhQy": {
       "type": "multi-column",
       "blocks": {
-        "item_i9VzGF": {
+        "item_qGNNWL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/fwy2eHq3zR9GMAX.jpg",
+            "image": "shopify://shop_images/6fZ9p4TsQVYNkDX.jpg",
             "column_size": "3",
-            "title": "\"Souple et fin confortable comme une seconde peau\"",
+            "title": "\"Ce débardeur de Kynor est un excellent choix pour vos entraînements.\"",
             "heading_tag": "h4",
-            "content": "<p>Article parfait, identique à la photo. Taille idéale. De bonne qualité et très confortable.<em><br/><br/></em><strong>David Gilmour, 28 ans – Lyon (69)</strong></p>",
+            "content": "<p>Son tissu léger, respirant et à séchage rapide le rend confortable pour la course à pied ou la salle de sport. Il est extensible sans être trop serré donc sans contraindre les mouvements. <em><br/><br/></em><strong>Claire Martin, 26 ans – Paris (75)</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -291,14 +291,14 @@
             "link_style": "link"
           }
         },
-        "item_qGNNWL": {
+        "item_i9VzGF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/6fZ9p4TsQVYNkDX.jpg",
+            "image": "shopify://shop_images/fwy2eHq3zR9GMAX.jpg",
             "column_size": "3",
-            "title": "\"Ce débardeur de Kynor est un excellent choix pour vos entraînements.\"",
+            "title": "\"Souple et fin confortable comme une seconde peau\"",
             "heading_tag": "h4",
-            "content": "<p>Son tissu léger, respirant et à séchage rapide le rend confortable pour la course à pied ou la salle de sport. Il est extensible sans être trop serré donc sans contraindre les mouvements. <em><br/><br/></em><strong>Claire Martin, 26 ans – Paris (75)</strong></p>",
+            "content": "<p>Article parfait, identique à la photo. Taille idéale. De bonne qualité et très confortable.<em><br/><br/></em><strong>David Gilmour, 28 ans – Lyon (69)</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -306,9 +306,9 @@
         }
       },
       "block_order": [
-        "item_i9VzGF",
+        "item_qGNNWL",
         "item_gAfV3B",
-        "item_qGNNWL"
+        "item_i9VzGF"
       ],
       "settings": {
         "full_width": true,
