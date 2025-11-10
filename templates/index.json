@@ -357,29 +357,29 @@
         "button_padding_horizontal": 16,
         "button_radius": 8,
         "button_border_thickness": 0,
-        "button_color": "#FFFFFF",
-        "button_hover_color": "#FFFFFF",
+        "button_color": "#ffffff",
+        "button_hover_color": "#ffffff",
         "button_bg_color": "#000000",
         "button_bg_hover_color": "#000000",
         "button_border_color": "#000000",
         "button_border_hover_color": "#000000",
-        "card_bg_color": "#FFFFFF",
+        "card_bg_color": "#ffffff",
         "card_border_color": "#000000",
-        "card_shadow_color": "#00B67A",
+        "card_shadow_color": "#00b67a",
         "card_heading_color": "#000000",
         "card_text_color": "#000000",
         "card_author_date_text_color": "#000000",
         "arrow_color": "#000000",
         "arrow_hover_color": "#000000",
-        "arrow_bg_color": "#FFFFFF",
-        "arrow_bg_hover_color": "#FFFFFF",
-        "arrow_border_color": "#FFFFFF",
-        "arrow_border_hover_color": "#FFFFFF",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#ffffff",
+        "arrow_border_hover_color": "#ffffff",
         "dots_color": "#000000",
         "heading_color": "#ffffff",
         "rating_text_color": "#ffffff",
-        "stars_bg_color": "#00B67A",
-        "stars_color": "#FFFFFF",
+        "stars_bg_color": "#00b67a",
+        "stars_color": "#ffffff",
         "text_color": "#ffffff",
         "background_color": "#000000",
         "background_gradient": "",
@@ -478,6 +478,14 @@
             "heading_tag": "h3"
           }
         },
+        "image_peGFQJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_PROMO_KYNOR.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "liquid_pXy6AW": {
           "type": "liquid",
           "settings": {
@@ -490,6 +498,13 @@
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 4 Unités</div>\n</div>"
           }
         },
+        "image_e7RPeA": {
+          "type": "image",
+          "settings": {
+            "alignment": "start",
+            "max_width": 150
+          }
+        },
         "liquid_inMHhX": {
           "type": "liquid",
           "settings": {
@@ -500,13 +515,6 @@
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
             "product": "{{section.settings.product}}"
-          }
-        },
-        "image_aHcUKF": {
-          "type": "image",
-          "settings": {
-            "alignment": "center",
-            "max_width": 500
           }
         },
         "liquid_ziD8p8": {
@@ -524,9 +532,8 @@
             "max_width": 500
           }
         },
-        "image_peGFQJ": {
+        "image_hCaMca": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "alignment": "center",
             "max_width": 500
@@ -536,13 +543,6 @@
           "type": "liquid",
           "settings": {
             "liquid": ""
-          }
-        },
-        "image_hCaMca": {
-          "type": "image",
-          "settings": {
-            "alignment": "center",
-            "max_width": 500
           }
         },
         "liquid_6yDek7": {
@@ -633,16 +633,16 @@
         "liquid_tbErjJ",
         "liquid_wgLzYt",
         "title",
+        "image_peGFQJ",
         "liquid_pXy6AW",
         "liquid_wxmjUB",
+        "image_e7RPeA",
         "liquid_inMHhX",
         "kaching_bundles_app_block_V7TmiP",
-        "image_aHcUKF",
         "liquid_ziD8p8",
         "image_M6BrMy",
-        "image_peGFQJ",
-        "liquid_hfWtXk",
         "image_hCaMca",
+        "liquid_hfWtXk",
         "liquid_6yDek7",
         "liquid_7wQpnX",
         "separator_Bd4pkp",
