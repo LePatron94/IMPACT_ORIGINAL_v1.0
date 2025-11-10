@@ -27,11 +27,19 @@
             "text": "STOCKS TRES FAIBLES",
             "url": ""
           }
+        },
+        "message_YbgcgA": {
+          "type": "message",
+          "settings": {
+            "text": "ANNIVERSAIRE - KYNOR FÊTE SES 1 AN !",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message_KQRq4K",
-        "message_tJDBNT"
+        "message_tJDBNT",
+        "message_YbgcgA"
       ],
       "settings": {
         "enable_sticky": false,
