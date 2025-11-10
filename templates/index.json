@@ -402,7 +402,7 @@
         "item_qGNNWL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3_d8ce683f-b4c8-4c9a-9dd2-f2395f1297a5.png",
+            "image": "shopify://shop_images/6fZ9p4TsQVYNkDX.jpg",
             "column_size": "3",
             "title": "\"Ce débardeur de Kynor est un excellent choix pour vos entraînements.\"",
             "heading_tag": "h4",
@@ -437,12 +437,25 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_ytekjm": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_qGNNWL",
         "item_gAfV3B",
-        "item_i9VzGF"
+        "item_i9VzGF",
+        "item_ytekjm"
       ],
       "settings": {
         "full_width": true,
@@ -455,6 +468,124 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "rich_text_aaQdgA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qgW6rW": {
+          "type": "heading",
+          "settings": {
+            "text": "Plus de 1000 Hommes l'ont choisi, pourquoi pas toi ?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_qgW6rW"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_link_blocks_6R96bD": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_iaeBpq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/kHJgC8YjPRyUueB.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_pb7dtb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_U4JaJ8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_73cd4d41-6aa3-42bf-a138-6adbfdbda6fc.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_VfcPxe": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2_dcbbe19c-0be1-44e9-8f1d-d0a57b4bfd80.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_gkrgHW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/6fZ9p4TsQVYNkDX.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_iaeBpq",
+        "item_pb7dtb",
+        "item_U4JaJ8",
+        "item_VfcPxe",
+        "item_gkrgHW"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "featured-product": {
@@ -726,84 +857,6 @@
         "text_color": ""
       }
     },
-    "image_link_blocks_Gw7Ccb": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "item_e8znp6": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/1.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_WMAb3t": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/4_73cd4d41-6aa3-42bf-a138-6adbfdbda6fc.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_EEDW6z": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2_dcbbe19c-0be1-44e9-8f1d-d0a57b4bfd80.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_VpJ6YA": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/6fZ9p4TsQVYNkDX.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "item_e8znp6",
-        "item_WMAb3t",
-        "item_EEDW6z",
-        "item_VpJ6YA"
-      ],
-      "name": "Image link blocks",
-      "settings": {
-        "full_width": false,
-        "block_size": "medium",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -906,10 +959,11 @@
     "custom_liquid_iQzBDy",
     "testimonial_pro_Qqrcjr",
     "multi_column_AMkhQy",
+    "rich_text_aaQdgA",
+    "image_link_blocks_6R96bD",
     "featured-product",
     "custom_liquid_HyfXhU",
     "rich_text_3QaB4P",
-    "image_link_blocks_Gw7Ccb",
     "faq",
     "contact_eb9WnF"
   ]
