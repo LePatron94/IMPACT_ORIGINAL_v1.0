@@ -496,98 +496,6 @@
         "text_color": ""
       }
     },
-    "image_link_blocks_6R96bD": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "item_iaeBpq": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/kHJgC8YjPRyUueB.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_pb7dtb": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/1.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_U4JaJ8": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/4_73cd4d41-6aa3-42bf-a138-6adbfdbda6fc.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_VfcPxe": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2_dcbbe19c-0be1-44e9-8f1d-d0a57b4bfd80.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_gkrgHW": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/6fZ9p4TsQVYNkDX.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "item_iaeBpq",
-        "item_pb7dtb",
-        "item_U4JaJ8",
-        "item_VfcPxe",
-        "item_gkrgHW"
-      ],
-      "name": "Image link blocks",
-      "settings": {
-        "full_width": false,
-        "block_size": "medium",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -813,6 +721,98 @@
         "text_color": ""
       }
     },
+    "image_link_blocks_6R96bD": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_iaeBpq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/kHJgC8YjPRyUueB.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_pb7dtb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_U4JaJ8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_73cd4d41-6aa3-42bf-a138-6adbfdbda6fc.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_VfcPxe": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2_dcbbe19c-0be1-44e9-8f1d-d0a57b4bfd80.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_gkrgHW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/6fZ9p4TsQVYNkDX.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_iaeBpq",
+        "item_pb7dtb",
+        "item_U4JaJ8",
+        "item_VfcPxe",
+        "item_gkrgHW"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "rich_text_3QaB4P": {
       "type": "rich-text",
       "blocks": {
@@ -959,10 +959,10 @@
     "custom_liquid_iQzBDy",
     "testimonial_pro_Qqrcjr",
     "multi_column_AMkhQy",
-    "rich_text_aaQdgA",
-    "image_link_blocks_6R96bD",
     "featured-product",
     "custom_liquid_HyfXhU",
+    "rich_text_aaQdgA",
+    "image_link_blocks_6R96bD",
     "rich_text_3QaB4P",
     "faq",
     "contact_eb9WnF"
