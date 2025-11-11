@@ -923,8 +923,8 @@
             "product_handle": "alpha-suit-pro",
             "aggregated": false,
             "data-limit": 20,
-            "maxwidth": 1080,
-            "is_sample": true
+            "maxwidth": 720,
+            "is_sample": false
           }
         }
       },
