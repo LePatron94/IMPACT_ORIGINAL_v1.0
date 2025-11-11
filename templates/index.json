@@ -437,25 +437,12 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_ytekjm": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
         "item_qGNNWL",
         "item_gAfV3B",
-        "item_i9VzGF",
-        "item_ytekjm"
+        "item_i9VzGF"
       ],
       "settings": {
         "full_width": true,
