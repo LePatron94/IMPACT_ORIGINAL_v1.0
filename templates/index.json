@@ -935,7 +935,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "background": "#f7f7f7",
+        "background": "#000000",
         "background_gradient": "",
         "text_color": "#ffffff",
         "enable_review_integration": true,
