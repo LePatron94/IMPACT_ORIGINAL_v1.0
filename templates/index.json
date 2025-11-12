@@ -16,7 +16,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/30_JOURS_POUR_UN_PHYSIQUE_DE_REVE.zip_-_4.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -213,7 +212,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/3.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -255,7 +253,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/b22b2f59f8f5e7513b9a9aa96408dcc9_480x480_a4fa1a52-5210-4437-8003-451dcc7c7e09_480x480_1.gif",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -444,7 +441,6 @@
         "item_qGNNWL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/6fZ9p4TsQVYNkDX.jpg",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -457,7 +453,6 @@
         "item_gAfV3B": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/mknqvdnkmqd.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -470,7 +465,6 @@
         "item_i9VzGF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/fwy2eHq3zR9GMAX.jpg",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -689,7 +683,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "alpha-suit-pro",
+        "product": "",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -743,98 +737,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "image_link_blocks_6R96bD": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "item_iaeBpq": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/kHJgC8YjPRyUueB.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_pb7dtb": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/1.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_U4JaJ8": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/4_73cd4d41-6aa3-42bf-a138-6adbfdbda6fc.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_VfcPxe": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2_dcbbe19c-0be1-44e9-8f1d-d0a57b4bfd80.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_gkrgHW": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/6fZ9p4TsQVYNkDX.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "item_iaeBpq",
-        "item_pb7dtb",
-        "item_U4JaJ8",
-        "item_VfcPxe",
-        "item_gkrgHW"
-      ],
-      "name": "Image link blocks",
-      "settings": {
-        "full_width": false,
-        "block_size": "medium",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
       }
     },
     "rich_text_3QaB4P": {
@@ -988,7 +890,6 @@
     "featured-product",
     "custom_liquid_HyfXhU",
     "rich_text_aaQdgA",
-    "image_link_blocks_6R96bD",
     "rich_text_3QaB4P",
     "faq",
     "contact_eb9WnF"
