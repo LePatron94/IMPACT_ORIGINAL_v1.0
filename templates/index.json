@@ -565,13 +565,6 @@
             "title": "Description",
             "content": "<p><strong>Matière :</strong> 80 % nylon, 20 % élasthanne<br/><strong>Couleurs disponibles :</strong> Noir, Blanc, Gris<br/><strong>Type :</strong> Gilet de musculation gainant et énergisant</p><ul><li>Se sentir énergique et confiant</li><li>Favorise la perte de poids</li><li>Réduit la gynécomastie</li></ul>"
           }
-        },
-        "collapsible_text_rnCF98": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Conseils d'entretien",
-            "content": "<p>Lavage en machine à basse température pour préserver le tissu et maintenir une compression efficace.</p>"
-          }
         }
       },
       "block_order": [
@@ -594,8 +587,7 @@
         "buy_buttons_76Tegr",
         "collapsible_text_9C3WQy",
         "collapsible_text_J9FGb3",
-        "collapsible_text_fBhzjq",
-        "collapsible_text_rnCF98"
+        "collapsible_text_fBhzjq"
       ],
       "settings": {
         "full_width": false,
