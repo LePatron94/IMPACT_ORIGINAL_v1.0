@@ -642,7 +642,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Délais de livraisons",
-            "content": "<p><strong>Nous offrons la livraison gratuite sous 3 à 5 jours ouvrés en France, au Canada et aux États-Unis.</strong><br/><br/>(La plupart des commandes arrivent avant ce délai, mais nous préférons vous donner une estimation large au cas où).</p>"
+            "content": "<p><strong>Nous offrons la livraison gratuite sous 3 à 5 jours ouvrés en France Métropolitaine et Belgique.</strong></p>"
           }
         },
         "collapsible_text_fBhzjq": {
