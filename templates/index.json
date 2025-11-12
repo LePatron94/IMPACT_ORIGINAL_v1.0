@@ -573,19 +573,20 @@
             "payment_button_text_color": ""
           }
         },
+        "image_YeAPLY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/llnknkl.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "image_B73rWX": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2025-11-12_a_01.17.34.png",
             "alignment": "center",
             "max_width": 290
-          }
-        },
-        "image_YeAPLY": {
-          "type": "image",
-          "settings": {
-            "alignment": "start",
-            "max_width": 500
           }
         },
         "collapsible_text_fBhzjq": {
@@ -635,8 +636,8 @@
         "liquid_7wQpnX",
         "separator_Bd4pkp",
         "buy_buttons_76Tegr",
-        "image_B73rWX",
         "image_YeAPLY",
+        "image_B73rWX",
         "collapsible_text_fBhzjq",
         "collapsible_text_J9FGb3",
         "collapsible_text_9C3WQy",
