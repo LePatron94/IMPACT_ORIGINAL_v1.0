@@ -576,8 +576,9 @@
         "image_B73rWX": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-11-12_a_01.17.34.png",
             "alignment": "center",
-            "max_width": 500
+            "max_width": 290
           }
         },
         "image_YeAPLY": {
@@ -585,14 +586,6 @@
           "settings": {
             "alignment": "start",
             "max_width": 500
-          }
-        },
-        "image_cEFBj6": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-11-11_a_00.21.17.png",
-            "alignment": "center",
-            "max_width": 320
           }
         },
         "collapsible_text_fBhzjq": {
@@ -644,7 +637,6 @@
         "buy_buttons_76Tegr",
         "image_B73rWX",
         "image_YeAPLY",
-        "image_cEFBj6",
         "collapsible_text_fBhzjq",
         "collapsible_text_J9FGb3",
         "collapsible_text_9C3WQy",
