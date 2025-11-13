@@ -500,6 +500,14 @@
             "heading_tag": "h3"
           }
         },
+        "image_c6VGqb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-11-12_a_21.44.01_copie.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "image_peGFQJ": {
           "type": "image",
           "disabled": true,
@@ -624,6 +632,7 @@
         "liquid_tbErjJ",
         "liquid_wgLzYt",
         "title",
+        "image_c6VGqb",
         "image_peGFQJ",
         "liquid_pXy6AW",
         "liquid_wxmjUB",
