@@ -50,6 +50,10 @@
         "separator_gT6kwf": {
           "type": "separator",
           "settings": {}
+        },
+        "trustify_reviews_app_stars_block_a3VKXy": {
+          "type": "shopify://apps/trustify-reviews/blocks/app-stars-block/60d505af-e468-47cf-a184-a06ccd6703ac",
+          "settings": {}
         }
       },
       "block_order": [
@@ -58,7 +62,8 @@
         "price",
         "buy_buttons",
         "image_deUHt9",
-        "separator_gT6kwf"
+        "separator_gT6kwf",
+        "trustify_reviews_app_stars_block_a3VKXy"
       ],
       "settings": {
         "full_width": true,
