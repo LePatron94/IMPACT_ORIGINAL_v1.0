@@ -683,6 +683,7 @@
         },
         "trustify_reviews_app_create_block_kk8mCc": {
           "type": "shopify://apps/trustify-reviews/blocks/app-create-block/60d505af-e468-47cf-a184-a06ccd6703ac",
+          "disabled": true,
           "settings": {}
         }
       },
