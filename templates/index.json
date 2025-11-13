@@ -410,6 +410,7 @@
         "item_qGNNWL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/sleep-pod2.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -422,6 +423,7 @@
         "item_gAfV3B": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/sleep-pod1.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -431,13 +433,27 @@
             "link_style": "link"
           }
         },
-        "item_i9VzGF": {
+        "item_DQAHnN": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/hooded-sleep-3.png",
             "column_size": "3",
-            "title": "",
+            "title": "Column title",
             "heading_tag": "h4",
-            "content": "<p>Article parfait, identique à la photo. Taille idéale. De bonne qualité et très confortable.<em><br/><br/></em><strong>David Gilmour, 28 ans – Lyon (69)</strong></p>",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Ctdwnr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/hooded-sleep2.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -447,7 +463,8 @@
       "block_order": [
         "item_qGNNWL",
         "item_gAfV3B",
-        "item_i9VzGF"
+        "item_DQAHnN",
+        "item_Ctdwnr"
       ],
       "settings": {
         "full_width": true,
