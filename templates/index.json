@@ -24,6 +24,56 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_UiY4nV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JbXazr": {
+          "type": "heading",
+          "settings": {
+            "text": "Fini le stress qui gâche ta nuit...",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_JbXazr"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_kAyyE8": {
+      "type": "video",
+      "blocks": {
+        "play_jGVC46": {
+          "type": "play",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "play_jGVC46"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/65d16b26dc4249e88fb91f5787b158db.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "logo_list_ziyRGK": {
       "type": "logo-list",
       "blocks": {
@@ -768,6 +818,8 @@
   },
   "order": [
     "image_with_text_overlay_ypzegc",
+    "rich_text_UiY4nV",
+    "video_kAyyE8",
     "logo_list_ziyRGK",
     "rich_text_tnkaEn",
     "rich_text_GaYXCf",
