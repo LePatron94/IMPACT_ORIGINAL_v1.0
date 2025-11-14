@@ -412,9 +412,9 @@
           "settings": {
             "image": "shopify://shop_images/sleep-pod2.png",
             "column_size": "3",
-            "title": "",
+            "title": "Clémence Bertin - Dijon",
             "heading_tag": "h4",
-            "content": "<p>Son tissu léger, respirant et à séchage rapide <strong>le rend confortable tous les jours</strong>. Il est extensible sans être trop serré donc sans contraindre les mouvements. <em><br/><br/></em><strong>Jean-Pierre Kasongo, 26 ans – Paris (75)</strong></p>",
+            "content": "<p>Son tissu léger, respirant et à séchage rapide <strong>le rend confortable tous les jours</strong>. Il est extensible sans être trop serré donc sans contraindre les mouvements. <em><br/></em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -425,9 +425,9 @@
           "settings": {
             "image": "shopify://shop_images/sleep-pod1.png",
             "column_size": "3",
-            "title": "",
+            "title": "Lucille Martin - Strasbourg",
             "heading_tag": "h4",
-            "content": "<p>La coupe est plutôt flatteuse. Je trouve la qualité correcte, et le tissu est assez respirant. Je suis ravie de cet achat.</p><p><em><br/></em><strong>Clément Beauchamp, 42 ans – Grenoble (38)</strong></p>",
+            "content": "<p>J'écris rarement des avis, mais ce produit est de loin l'un des meilleurs que j'aie achetés. Mon fils est autiste et j'hésitais à l'utiliser. Après la première nuit, <strong>il ne peut plus s'en passer. </strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -438,9 +438,9 @@
           "settings": {
             "image": "shopify://shop_images/hooded-sleep-3.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Charlotte Grenier - Arpajon",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>C'est mon meilleur achat ! Je l'utilise depuis un mois environ et, comme je suis frileuse,<strong> il m'a gardée bien au chaud</strong> toute la nuit.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -451,9 +451,9 @@
           "settings": {
             "image": "shopify://shop_images/hooded-sleep2.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Cédric Pereira - Auxerre",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Souffrant d'un trouble anxieux, j'ai voulu essayer ce genre de couverture <strong>pour me sentir plus en sécurité et enveloppé. Et ça marche du tonnerre </strong>! Je ne m'attendais pas à un tel <strong>réconfort</strong>.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
