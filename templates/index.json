@@ -783,22 +783,22 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Comment fonctionne l'Alpha Suit Pro de chez Kynor ?",
-            "content": "<p>Le débardeur Alpha Suit PRO est confectionné dans un tissu technique enrichi en minéraux naturels qui <strong>dynamisent l'énergie, la confiance en soi et la force</strong>. Activés par la chaleur corporelle, ces minéraux <strong>stimulent le métabolisme, optimisant ainsi la combustion des calories</strong>. Il <strong>favorise la perte de poids tout en améliorant la vitalité et la posture</strong>. Une utilisation régulière permet d'obtenir une silhouette plus fine et plus tonique, et un bien-être général accru.</p>"
+            "title": "Quelle Couette Câline est faite pour moi ?",
+            "content": "<p>Choisis simplement ta taille habituelle. La Couette Câline est extensible et s’adapte naturellement à ton corps pour t’offrir un confort optimal. Si tu es entre deux tailles, prends la taille au-dessus pour un peu plus d’aisance.</p>"
           }
         },
         "item_eNKxzp": {
           "type": "item",
           "settings": {
-            "title": "Et si la taille ne convient pas une fois reçu ? ",
-            "content": "<p>Pas de problème. Si la taille ne vous convient pas, contactez-nous à l'<strong>adresse support@kynor.com </strong>et nous vous aiderons à procéder à un échange.</p>"
+            "title": "Est-ce que je vais avoir trop chaud avec La Couette Câline ?",
+            "content": "<p>Non. La Couette Câline est fabriquée avec un tissu respirant qui évacue très bien la chaleur. Tu restes bien au chaud sans jamais étouffer, ce qui te permet de dormir confortablement toute l’année.</p>"
           }
         },
         "item_6fTDYH": {
           "type": "item",
           "settings": {
-            "title": "Puis-je le porter toute la journée ?",
-            "content": "<p>Oui, <strong>absolument </strong>! <br/>Nous vous recommandons de le porter <strong>sous vos vêtements </strong>au quotidien ou <strong>pendant une activité physique</strong>, afin d'optimiser vos résultats.</p>"
+            "title": "Comment La Couette Câline s’ajuste-t-elle ?",
+            "content": "<p>La Couette Câline fonctionne comme un “cocon” extensible : elle enveloppe ton corps en douceur et exerce une légère pression relaxante. Elle suit tes mouvements sans jamais te bloquer.</p>"
           }
         },
         "item_8aMRmN": {
@@ -814,6 +814,20 @@
             "title": "Combien de temps prend l'expédition ?",
             "content": "<p>Nous proposons une expédition rapide, suivie et assurée dans le monde entier de 3 à 5 jours.</p>"
           }
+        },
+        "item_n4WBHx": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je utiliser un oreiller avec La Couette Câline ?",
+            "content": "<p>Oui, bien sûr. La Couette Câline est conçue pour être utilisée avec ton oreiller habituel afin que tu puisses garder ta position de sommeil préférée.</p>"
+          }
+        },
+        "item_UqL6h9": {
+          "type": "item",
+          "settings": {
+            "title": "La Couette Câline est-elle lavable ?",
+            "content": "<p>Oui. La Couette Câline passe en machine sans problème. Il suffit de la laver à froid et de la laisser sécher à l’air libre pour préserver sa douceur et son élasticité.</p>"
+          }
         }
       },
       "block_order": [
@@ -821,7 +835,9 @@
         "item_eNKxzp",
         "item_6fTDYH",
         "item_8aMRmN",
-        "item_TTkQqE"
+        "item_TTkQqE",
+        "item_n4WBHx",
+        "item_UqL6h9"
       ],
       "settings": {
         "full_width": false,
