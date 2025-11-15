@@ -270,6 +270,19 @@
         "text_color": ""
       }
     },
+    "custom_liquid_dxiqLP": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "testimonial_pro_Qqrcjr": {
       "type": "testimonial-pro",
       "name": "SS - Testimonial #8",
@@ -814,6 +827,7 @@
     "image_with_text_overlay_GwYhDd",
     "rich_text_prXEkr",
     "custom_liquid_iQzBDy",
+    "custom_liquid_dxiqLP",
     "testimonial_pro_Qqrcjr",
     "multi_column_AMkhQy",
     "featured-product",
