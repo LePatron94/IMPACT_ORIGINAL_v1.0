@@ -28,10 +28,10 @@
             "url": ""
           }
         },
-        "message_YbgcgA": {
+        "message_YCWJmB": {
           "type": "message",
           "settings": {
-            "text": "ANNIVERSAIRE - KYNOR FÊTE SES 1 AN !",
+            "text": "OFFRE BLACK FRIDAY !",
             "url": ""
           }
         }
@@ -39,7 +39,7 @@
       "block_order": [
         "message_KQRq4K",
         "message_tJDBNT",
-        "message_YbgcgA"
+        "message_YCWJmB"
       ],
       "settings": {
         "enable_sticky": false,
