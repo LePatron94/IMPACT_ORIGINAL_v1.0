@@ -603,18 +603,18 @@
             "content": "<p><strong>La couette câline :</strong></p><p><strong><br/></strong>• Utilise la thérapie par pression profonde, scientifiquement prouvée <br/>• Technologie HugStretch™ ultra douce<br/> • Lavable en machine et facile à transporter<br/>• Tous les bienfaits d'une couverture lestée, sans les inconvénients<br/>• Respirant et léger</p>"
           }
         },
-        "collapsible_text_9C3WQy": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Détails de garantie de remboursement 30 Jours",
-            "content": "<p><strong>Votre satisfaction est notre priorité</strong>. Si vous n’êtes pas totalement convaincu par votre achat, <strong>vous avez 30 jours pour nous le retourner – SANS JUSTIFICATION</strong>.</p><p> Le remboursement est intégral, le processus est simple, et notre équipe reste à votre écoute à chaque étape.<br/><br/>Pour toute demande, Contactez-nous a l'adresse :<br/><strong>support@la-couette-caline.fr</strong></p>"
-          }
-        },
         "collapsible_text_J9FGb3": {
           "type": "collapsible_text",
           "settings": {
             "title": "Délais de livraisons",
             "content": "<p><strong>Nous offrons la livraison gratuite sous 3 à 5 jours ouvrés en France Métropolitaine et Belgique.</strong></p>"
+          }
+        },
+        "collapsible_text_9C3WQy": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Détails de garantie de remboursement 30 Jours",
+            "content": "<p><strong>Votre satisfaction est notre priorité</strong>. Si vous n’êtes pas totalement convaincu par votre achat, <strong>vous avez 30 jours pour nous le retourner – SANS JUSTIFICATION</strong>.</p><p> Le remboursement est intégral, le processus est simple, et notre équipe reste à votre écoute à chaque étape.<br/><br/>Pour toute demande, Contactez-nous a l'adresse :<br/><strong>support@la-couette-caline.fr</strong></p>"
           }
         }
       },
@@ -637,8 +637,8 @@
         "image_NpAhFF",
         "liquid_nK6xRh",
         "collapsible_text_fBhzjq",
-        "collapsible_text_9C3WQy",
-        "collapsible_text_J9FGb3"
+        "collapsible_text_J9FGb3",
+        "collapsible_text_9C3WQy"
       ],
       "settings": {
         "full_width": false,
