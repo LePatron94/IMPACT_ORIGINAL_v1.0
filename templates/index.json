@@ -567,6 +567,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_rB4Jye": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/lhdq.png",
+            "alignment": "center",
+            "max_width": 490
+          }
+        },
         "liquid_nK6xRh": {
           "type": "liquid",
           "disabled": true,
@@ -610,6 +618,7 @@
         "liquid_7wQpnX",
         "separator_Bd4pkp",
         "buy_buttons_76Tegr",
+        "image_rB4Jye",
         "liquid_nK6xRh",
         "collapsible_text_9C3WQy",
         "collapsible_text_J9FGb3",
