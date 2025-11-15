@@ -30,7 +30,7 @@
         "heading_JbXazr": {
           "type": "heading",
           "settings": {
-            "text": "La couette la plus confortable que vous trouverez",
+            "text": "La couette confortable à avoir absolument pour l'hiver !",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -72,56 +72,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "1763244607b26be914": {
-      "type": "apps",
-      "blocks": {
-        "spark_shoppable_video_8iaGzN": {
-          "type": "shopify://apps/spark/blocks/shoppable-video/3eb8b961-42bd-4d42-a091-9b8e4c877d96",
-          "settings": {
-            "show_videos_dynamically": false,
-            "auto_play_video": "always",
-            "feed_title": "Validé par plein de clients et clientes",
-            "title_alignment": "center",
-            "item_alignment": false,
-            "show_play_button": false,
-            "show_views": false,
-            "show_arrow_buttons": false,
-            "product_card_status": "hidden",
-            "show_video_title": false,
-            "border_radius": 16,
-            "padding_top": 20,
-            "padding_bottom": 20,
-            "player_type": "full_screen_player",
-            "show_views_on_player": false,
-            "player_border_radius": 16,
-            "product_card_border_radius": 12,
-            "product_card_image_border_radius": 8,
-            "show_compare_at_price": true,
-            "product_card_btn_actn": "product_details",
-            "product_card_btn_text": "Shop",
-            "product_card_btn_background_color": "#000000",
-            "product_card_btn_text_color": "#FFFFFF",
-            "product_card_btn_border_radius": 24
-          }
-        }
-      },
-      "block_order": [
-        "spark_shoppable_video_8iaGzN"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
       }
     },
     "logo_list_ziyRGK": {
@@ -182,6 +132,96 @@
         "logo_item_border": ""
       }
     },
+    "image_with_text_overlay_GwYhDd": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Copie_de_Template_section_benefice.zip_-_6_benefices.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_GaYXCf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HWdgQc": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir La couette câline ?",
+            "heading_tag": "h2",
+            "text_color": "#000000",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_HWdgQc"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "1763244607b26be914": {
+      "type": "apps",
+      "blocks": {
+        "spark_shoppable_video_8iaGzN": {
+          "type": "shopify://apps/spark/blocks/shoppable-video/3eb8b961-42bd-4d42-a091-9b8e4c877d96",
+          "settings": {
+            "show_videos_dynamically": false,
+            "auto_play_video": "always",
+            "feed_title": "Validé par plein de clients et clientes",
+            "title_alignment": "center",
+            "item_alignment": false,
+            "show_play_button": false,
+            "show_views": false,
+            "show_arrow_buttons": false,
+            "product_card_status": "hidden",
+            "show_video_title": false,
+            "border_radius": 16,
+            "padding_top": 20,
+            "padding_bottom": 20,
+            "player_type": "full_screen_player",
+            "show_views_on_player": false,
+            "player_border_radius": 16,
+            "product_card_border_radius": 12,
+            "product_card_image_border_radius": 8,
+            "show_compare_at_price": true,
+            "product_card_btn_actn": "product_details",
+            "product_card_btn_text": "Shop",
+            "product_card_btn_background_color": "#000000",
+            "product_card_btn_text_color": "#FFFFFF",
+            "product_card_btn_border_radius": 24
+          }
+        }
+      },
+      "block_order": [
+        "spark_shoppable_video_8iaGzN"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "rich_text_tnkaEn": {
       "type": "rich-text",
       "blocks": {
@@ -223,31 +263,6 @@
         "text_color": ""
       }
     },
-    "rich_text_GaYXCf": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_HWdgQc": {
-          "type": "heading",
-          "settings": {
-            "text": "Pourquoi choisir La couette câline ?",
-            "heading_tag": "h2",
-            "text_color": "#000000",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_HWdgQc"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "medium",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#ffffff"
-      }
-    },
     "scrolling-text": {
       "type": "scrolling-text",
       "disabled": true,
@@ -262,21 +277,6 @@
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
-      }
-    },
-    "image_with_text_overlay_GwYhDd": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Copie_de_Template_section_benefice.zip_-_6_benefices.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "rich_text_prXEkr": {
@@ -870,12 +870,12 @@
     "image_with_text_overlay_ypzegc",
     "rich_text_UiY4nV",
     "video_kAyyE8",
-    "1763244607b26be914",
     "logo_list_ziyRGK",
-    "rich_text_tnkaEn",
-    "rich_text_GaYXCf",
-    "scrolling-text",
     "image_with_text_overlay_GwYhDd",
+    "rich_text_GaYXCf",
+    "1763244607b26be914",
+    "rich_text_tnkaEn",
+    "scrolling-text",
     "rich_text_prXEkr",
     "custom_liquid_iQzBDy",
     "custom_liquid_dxiqLP",
