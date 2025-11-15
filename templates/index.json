@@ -596,11 +596,18 @@
             "liquid": "<style>\n.bundle-container {\n  display: flex;\n  gap: 10px;\n  justify-content: center;\n  align-items: center;\n  flex-wrap: nowrap;\n}\n\n.bundle-option {\n  position: relative;\n  border: 2px solid #ddd;\n  border-radius: 10px;\n  padding: 15px;\n  text-align: center;\n  flex: 1;\n  cursor: pointer;\n  transition: all 0.3s ease-in-out;\n  background: #fff;\n  padding-top: 25px;\n  font-size: 13px;\n  max-width: 160px;\n  margin-bottom: -15px;\n}\n\n.bundle-option.selected {\n  border-color: #C77C68;\n  background: #FFF5ED;\n  transform: translateY(-2px);\n}\n\n.bundle-option .price-container {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 4px;\n}\n\n.bundle-option .old-price {\n  text-decoration: line-through;\n  color: #888;\n  font-size: 13px;\n}\n\n.bundle-option .price {\n  font-weight: bold;\n  font-size: 13px;\n}\n\n.bundle-option .discount {\n  position: absolute;\n  top: -12px;\n  left: 50%;\n  transform: translateX(-50%);\n  background: #e5a823;\n  color: black;\n  font-size: 12px;\n  padding: 3px 10px;\n  border-radius: 15px;\n  font-weight: bold;\n  white-space: nowrap;\n}\n\n.bundle-button {\n  background-color: #4E0858;\n  color: white;\n  padding: 16px;\n  border: none;\n  cursor: pointer;\n  font-size: 13px;\n  width: 100%;\n  margin-top: 15px;\n  border-radius: 30px;\n  font-weight: bold;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n}\n\n.bundle-button .old-price-btn {\n  font-size: 13px;\n  text-decoration: line-through;\n  color: white;\n  font-weight: normal;\n}\n\n.bundle-button:hover {\n  background-color: #a66858;\n}\n\n.countdown-container {\n  margin-top: 10px !important;\n  margin-bottom: 10px !important;\n  padding: 0 !important;\n  position: relative;\n  bottom: -11px;\n  display: block;\n  text-align: center;\n  font-size: 13px;\n  font-weight: bold;\n}\n\n#countdown-timer {\n  font-weight: normal;\n}\n\n#countdown-timer span {\n  color: #4d0856;\n  font-weight: normal;\n  margin: 0 !important;\n  padding: 0 !important;\n}\n</style>\n\n<div class=\"bundle-container\">\n  <div class=\"bundle-option\" data-variant-id=\"{{ product.variants[0].id }}\" data-quantity=\"1\" data-price=\"39,95€\" data-old-price=\"49,95€\" onclick=\"selectBundle(this)\">\n    <p>1 Couette / 1 Personne</p>\n    <div class=\"price-container\">\n      <span class=\"old-price\">49,95€</span>\n      <span class=\"price\">39,95€</span>\n    </div>\n  </div>\n\n  <div class=\"bundle-option selected\" data-variant-id=\"{{ product.variants[0].id }}\" data-quantity=\"3\" data-price=\"69,95€\" data-old-price=\"149,95€\" onclick=\"selectBundle(this)\">\n    <span class=\"discount\">1 Sérum Offert</span>\n    <p>2 Couettes / Offrez !</p>\n    <div class=\"price-container\">\n      <span class=\"old-price\">149,95€</span>\n      <span class=\"price\">69,95€</span>\n    </div>\n  </div>\n</div>\n\n<div class=\"countdown-container\">\n  L'offre se termine dans :\n  <span id=\"countdown-timer\">\n    <span id=\"hours\">00</span> <span>h</span> :\n    <span id=\"minutes\">00</span> <span>m</span> :\n    <span id=\"seconds\">00</span> <span>s</span>\n  </span>\n</div>\n\n<form method=\"post\" action=\"/cart/add\" id=\"bundle-form\">\n  <input type=\"hidden\" name=\"id\" id=\"selected-variant-id\" value=\"{{ product.variants[0].id }}\">\n  <input type=\"hidden\" name=\"quantity\" id=\"selected-quantity\" value=\"3\">\n  <button type=\"submit\" class=\"bundle-button\">\n    <span>Acheter maintenant  | </span>\n    <span class=\"old-price-btn\" id=\"selected-old-price\">149,95€</span>\n    <span id=\"selected-price\">69,95€</span>\n  </button>\n</form>\n\n<script>\ndocument.addEventListener('DOMContentLoaded', function() {\n  // Timer countdown\n  function getEndOfDay() {\n    const now = new Date();\n    const endOfDay = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 23, 59, 59);\n    return endOfDay.getTime();\n  }\n\n  var endDate = getEndOfDay();\n\n  function updateTimer() {\n    const now = new Date().getTime();\n    const timeRemaining = endDate - now;\n\n    if (timeRemaining > 0) {\n      const hours = Math.floor((timeRemaining % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));\n      const minutes = Math.floor((timeRemaining % (1000 * 60 * 60)) / (1000 * 60));\n      const seconds = Math.floor((timeRemaining % (1000 * 60)) / 1000);\n\n      document.getElementById(\"hours\").textContent = hours.toString().padStart(2, '0');\n      document.getElementById(\"minutes\").textContent = minutes.toString().padStart(2, '0');\n      document.getElementById(\"seconds\").textContent = seconds.toString().padStart(2, '0');\n    } else {\n      endDate = getEndOfDay();\n    }\n  }\n\n  setInterval(updateTimer, 1000);\n  updateTimer();\n\n  // Redirection vers checkout\n  document.getElementById('bundle-form').addEventListener('submit', function(e) {\n    e.preventDefault();\n    \n    const variantId = document.getElementById('selected-variant-id').value;\n    const quantity = document.getElementById('selected-quantity').value;\n    \n    fetch('/cart/add.js', {\n      method: 'POST',\n      headers: {\n        'Content-Type': 'application/json',\n      },\n      body: JSON.stringify({\n        items: [{\n          id: variantId,\n          quantity: parseInt(quantity)\n        }]\n      })\n    })\n    .then(response => response.json())\n    .then(data => {\n      window.location.href = '/checkout';\n    })\n    .catch(error => {\n      console.error('Erreur:', error);\n      alert('Une erreur est survenue. Veuillez réessayer.');\n    });\n  });\n});\n\nfunction selectBundle(selected) {\n  document.querySelectorAll('.bundle-option').forEach(option => {\n    option.classList.remove('selected');\n  });\n  selected.classList.add('selected');\n\n  document.getElementById('selected-variant-id').value = selected.getAttribute('data-variant-id');\n  document.getElementById('selected-quantity').value = selected.getAttribute('data-quantity');\n\n  let newPrice = selected.getAttribute('data-price');\n  let oldPrice = selected.getAttribute('data-old-price');\n\n  document.getElementById('selected-price').textContent = newPrice;\n  document.getElementById('selected-old-price').textContent = oldPrice;\n}\n</script>"
           }
         },
+        "collapsible_text_fBhzjq": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Description",
+            "content": "<p><strong>La couette câline :</strong></p><p><strong><br/></strong>• Utilise la thérapie par pression profonde, scientifiquement prouvée <br/>• Technologie HugStretch™ ultra douce<br/> • Lavable en machine et facile à transporter<br/>• Tous les bienfaits d'une couverture lestée, sans les inconvénients<br/>• Respirant et léger</p>"
+          }
+        },
         "collapsible_text_9C3WQy": {
           "type": "collapsible_text",
           "settings": {
             "title": "Détails de garantie de remboursement 30 Jours",
-            "content": "<p><strong>Votre satisfaction est notre priorité</strong>. Si vous n’êtes pas totalement convaincu par votre achat, <strong>vous avez 30 jours pour nous le retourner – SANS JUSTIFICATION</strong>.</p><p> Le remboursement est intégral, le processus est simple, et notre équipe reste à votre écoute à chaque étape.<br/><br/>Pour toute demande, Contactez-nous a l'adresse :<br/><strong>contact@kynor.fr</strong></p>"
+            "content": "<p><strong>Votre satisfaction est notre priorité</strong>. Si vous n’êtes pas totalement convaincu par votre achat, <strong>vous avez 30 jours pour nous le retourner – SANS JUSTIFICATION</strong>.</p><p> Le remboursement est intégral, le processus est simple, et notre équipe reste à votre écoute à chaque étape.<br/><br/>Pour toute demande, Contactez-nous a l'adresse :<br/><strong>support@la-couette-caline.fr</strong></p>"
           }
         },
         "collapsible_text_J9FGb3": {
@@ -608,13 +615,6 @@
           "settings": {
             "title": "Délais de livraisons",
             "content": "<p><strong>Nous offrons la livraison gratuite sous 3 à 5 jours ouvrés en France Métropolitaine et Belgique.</strong></p>"
-          }
-        },
-        "collapsible_text_fBhzjq": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Description",
-            "content": "<p><strong>Matière :</strong> 80 % nylon, 20 % élasthanne<br/><strong>Couleurs disponibles :</strong> Noir, Blanc, Gris<br/><strong>Type :</strong> Gilet de musculation gainant et énergisant</p><ul><li>Se sentir énergique et confiant</li><li>Favorise la perte de poids</li><li>Réduit la gynécomastie</li></ul>"
           }
         }
       },
@@ -636,9 +636,9 @@
         "image_rB4Jye",
         "image_NpAhFF",
         "liquid_nK6xRh",
+        "collapsible_text_fBhzjq",
         "collapsible_text_9C3WQy",
-        "collapsible_text_J9FGb3",
-        "collapsible_text_fBhzjq"
+        "collapsible_text_J9FGb3"
       ],
       "settings": {
         "full_width": false,
