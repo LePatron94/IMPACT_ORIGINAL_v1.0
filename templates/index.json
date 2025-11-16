@@ -40,6 +40,7 @@
       "block_order": [
         "heading_JbXazr"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -61,6 +62,7 @@
       "block_order": [
         "play_jGVC46"
       ],
+      "disabled": true,
       "name": "Video",
       "settings": {
         "full_width": true,
