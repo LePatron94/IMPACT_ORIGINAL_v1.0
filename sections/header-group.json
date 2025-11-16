@@ -21,13 +21,6 @@
             "url": ""
           }
         },
-        "message_tJDBNT": {
-          "type": "message",
-          "settings": {
-            "text": "STOCKS TRES FAIBLES",
-            "url": ""
-          }
-        },
         "message_YCWJmB": {
           "type": "message",
           "settings": {
@@ -38,7 +31,6 @@
       },
       "block_order": [
         "message_KQRq4K",
-        "message_tJDBNT",
         "message_YCWJmB"
       ],
       "settings": {
