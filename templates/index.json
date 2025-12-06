@@ -87,10 +87,10 @@
             "link": ""
           }
         },
-        "logo_WCRJAp": {
+        "logo_CBJAMJ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo.svg",
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -103,10 +103,10 @@
             "link": ""
           }
         },
-        "logo_CBJAMJ": {
+        "logo_WCRJAp": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo.svg",
             "logo_width": 300,
             "link": ""
           }
@@ -114,9 +114,9 @@
       },
       "block_order": [
         "logo_7FTkiX",
-        "logo_WCRJAp",
+        "logo_CBJAMJ",
         "logo_7X9hqg",
-        "logo_CBJAMJ"
+        "logo_WCRJAp"
       ],
       "settings": {
         "full_width": true,
