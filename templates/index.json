@@ -559,6 +559,14 @@
             "liquid": ""
           }
         },
+        "image_Py3dbr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/lnvqdlnjqvdjn.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "separator_Bd4pkp": {
           "type": "separator",
           "settings": {}
@@ -631,6 +639,7 @@
         "image_hCaMca",
         "liquid_hfWtXk",
         "liquid_7wQpnX",
+        "image_Py3dbr",
         "separator_Bd4pkp",
         "buy_buttons_76Tegr",
         "image_DTkahG",
