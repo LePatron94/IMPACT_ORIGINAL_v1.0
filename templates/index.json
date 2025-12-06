@@ -777,6 +777,68 @@
         "text_color": ""
       }
     },
+    "multi_column_p3YcXP": {
+      "type": "multi-column",
+      "blocks": {
+        "item_pwyFUr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/a-calm-mind-image_40470a00-1123-4112-b74b-c109de32be9f_1.png",
+            "column_size": "3",
+            "title": "Réduit le stress",
+            "heading_tag": "h4",
+            "content": "<p>La sensation d'être câliné réduit le stress et la surstimulation en diminuant le cortisol, ce qui procure une sensation de calme et de détente.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yjHNxt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/natura-deep-sleep_5e80d46e-5514-4d89-9a4e-05efe6e8e90a.png",
+            "column_size": "3",
+            "title": "Activation du sommeil profond",
+            "heading_tag": "h4",
+            "content": "<p>La pression ferme et apaisante de la thérapie par le toucher profond active le système nerveux parasympathique du corps, induisant un état d'esprit plus calme la nuit.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_MkUGPW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/contentes-feeling_0d5ea9f4-5765-436b-a47c-10d180728a9e.png",
+            "column_size": "3",
+            "title": "Augmentation de la sérotonine",
+            "heading_tag": "h4",
+            "content": "<p>Nos capsules vous enveloppent délicatement, favorisant la production de sérotonine pour une sensation de bien-être et de sérénité – idéal pour les personnes anxieuses en quête de réconfort.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_pwyFUr",
+        "item_yjHNxt",
+        "item_MkUGPW"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Les avantages de La Couverture de sommeil câline",
+        "content": "",
+        "background": "#efe9ff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -900,6 +962,7 @@
     "1763244607b26be914",
     "custom_liquid_HyfXhU",
     "rich_text_3QaB4P",
+    "multi_column_p3YcXP",
     "faq",
     "contact_eb9WnF"
   ]
