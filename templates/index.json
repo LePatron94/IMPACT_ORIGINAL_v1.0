@@ -561,6 +561,12 @@
             "liquid": ""
           }
         },
+        "liquid_krLTtQ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"text-align: center; margin: 10px 0;\">\n  <span style=\"\n    display: inline-block;\n    background-color: #0c8bee; /* rose pastel */\n    color: white;\n    padding: 6px 14px;\n    border-radius: 999px;\n    font-weight: 600;\n    font-size: 12px;\n    font-family: 'Poppins', Poppins, Arial, sans-serif;\n    letter-spacing: 0.5px;\n  \">\n     ❄️\n Offre CYBER WEEK : JUSQU'À ÉPUISEMENT DES STOCKS\n  </span>\n</div>"
+          }
+        },
         "image_Py3dbr": {
           "type": "image",
           "settings": {
@@ -626,12 +632,6 @@
             "title": "Détails de garantie de remboursement 30 Jours",
             "content": "<p>Dans le cas où vous n’êtes pas totalement convaincu par votre achat, <strong>vous avez 30 jours pour nous le retourner.</strong></p><p> Le remboursement est intégral, le processus est simple, et notre équipe reste à votre écoute à chaque étape.<br/><br/>Pour toute demande, Contactez-nous a l'adresse :<br/><strong>support@la-couette-caline.fr</strong></p>"
           }
-        },
-        "liquid_gQbHGC": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"text-align: center; margin: 10px 0;\">\n  <span style=\"\n    display: inline-block;\n    background-color: #0c8bee; /* rose pastel */\n    color: white;\n    padding: 6px 14px;\n    border-radius: 999px;\n    font-weight: 600;\n    font-size: 12px;\n    font-family: 'Poppins', Poppins, Arial, sans-serif;\n    letter-spacing: 0.5px;\n  \">\n     ❄️\n Offre CYBER WEEK : JUSQU'À ÉPUISEMENT DES STOCKS\n  </span>\n</div>"
-          }
         }
       },
       "block_order": [
@@ -647,6 +647,7 @@
         "image_hCaMca",
         "liquid_hfWtXk",
         "liquid_7wQpnX",
+        "liquid_krLTtQ",
         "image_Py3dbr",
         "separator_Bd4pkp",
         "buy_buttons_76Tegr",
@@ -655,8 +656,7 @@
         "image_NpAhFF",
         "collapsible_text_fBhzjq",
         "collapsible_text_J9FGb3",
-        "collapsible_text_9C3WQy",
-        "liquid_gQbHGC"
+        "collapsible_text_9C3WQy"
       ],
       "settings": {
         "full_width": false,
