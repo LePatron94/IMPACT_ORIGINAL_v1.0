@@ -569,6 +569,7 @@
         },
         "image_Py3dbr": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/lnvqdlnjqvdjn.png",
             "alignment": "center",
