@@ -483,6 +483,12 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
+        "liquid_K9gqEz": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"text-align: center; margin: 10px 0;\">\n  <span style=\"\n    display: inline-block;\n    background-color: #0c8bee; /* rose pastel */\n    color: white;\n    padding: 6px 14px;\n    border-radius: 999px;\n    font-weight: 600;\n    font-size: 12px;\n    font-family: 'Poppins', Poppins, Arial, sans-serif;\n    letter-spacing: 0.5px;\n  \">\n     ❄️\n Offre CYBER WEEK : JUSQU'À ÉPUISEMENT DES STOCKS\n  </span>\n</div>"
+          }
+        },
         "liquid_tbErjJ": {
           "type": "liquid",
           "settings": {
@@ -561,12 +567,6 @@
             "liquid": ""
           }
         },
-        "liquid_krLTtQ": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"text-align: center; margin: 10px 0;\">\n  <span style=\"\n    display: inline-block;\n    background-color: #0c8bee; /* rose pastel */\n    color: white;\n    padding: 6px 14px;\n    border-radius: 999px;\n    font-weight: 600;\n    font-size: 12px;\n    font-family: 'Poppins', Poppins, Arial, sans-serif;\n    letter-spacing: 0.5px;\n  \">\n     ❄️\n Offre CYBER WEEK : JUSQU'À ÉPUISEMENT DES STOCKS\n  </span>\n</div>"
-          }
-        },
         "image_Py3dbr": {
           "type": "image",
           "disabled": true,
@@ -636,6 +636,7 @@
         }
       },
       "block_order": [
+        "liquid_K9gqEz",
         "liquid_tbErjJ",
         "liquid_wgLzYt",
         "title",
@@ -648,7 +649,6 @@
         "image_hCaMca",
         "liquid_hfWtXk",
         "liquid_7wQpnX",
-        "liquid_krLTtQ",
         "image_Py3dbr",
         "separator_Bd4pkp",
         "buy_buttons_76Tegr",
