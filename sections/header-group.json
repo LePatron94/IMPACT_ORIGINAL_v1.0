@@ -48,7 +48,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": true,
-        "logo": "shopify://shop_images/LOGO_COUETTE_CALINE_OK.png",
         "logo_max_width": 90,
         "logo_mobile_max_width": 130,
         "menu": "main-menu",
