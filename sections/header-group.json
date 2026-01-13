@@ -21,17 +21,17 @@
             "url": ""
           }
         },
-        "message_YCWJmB": {
+        "message_9Mmckp": {
           "type": "message",
           "settings": {
-            "text": "OFFRE BLACK FRIDAY !",
+            "text": "FIN DES SOLDES CE MERCREDI, VITE !",
             "url": ""
           }
         }
       },
       "block_order": [
         "message_KQRq4K",
-        "message_YCWJmB"
+        "message_9Mmckp"
       ],
       "settings": {
         "enable_sticky": false,
