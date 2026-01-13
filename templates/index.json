@@ -16,7 +16,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/lnddqnlqdlncnlkq.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -166,7 +165,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/KHBDBDOBQD.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -425,7 +423,6 @@
         "item_qGNNWL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/sleep-pod2.png",
             "column_size": "3",
             "title": "Hélène B. - 34 ans",
             "heading_tag": "h5",
@@ -438,7 +435,6 @@
         "item_gAfV3B": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/sleep-pod1.png",
             "column_size": "3",
             "title": "Juliette S. - 42 ans",
             "heading_tag": "h5",
@@ -451,7 +447,6 @@
         "item_DQAHnN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/hooded-sleep-3.png",
             "column_size": "3",
             "title": "Simone T. - 48 ans",
             "heading_tag": "h5",
@@ -545,7 +540,8 @@
         "kaching_bundles_app_block_V7TmiP": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
-            "product": "{{section.settings.product}}"
+            "product": "{{section.settings.product}}",
+            "manual_deal_block_id": ""
           }
         },
         "image_hCaMca": {
@@ -661,7 +657,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "sleep-pod-move-adult",
+        "product": "",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -675,68 +671,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "multi_column_p3YcXP": {
-      "type": "multi-column",
-      "blocks": {
-        "item_pwyFUr": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/a-calm-mind-image_40470a00-1123-4112-b74b-c109de32be9f_1.png",
-            "column_size": "3",
-            "title": "Réduit le stress",
-            "heading_tag": "h4",
-            "content": "<p>La sensation d'être câliné réduit le stress et la surstimulation en diminuant le cortisol, ce qui procure une sensation de calme et de détente.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_yjHNxt": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/natura-deep-sleep_5e80d46e-5514-4d89-9a4e-05efe6e8e90a.png",
-            "column_size": "3",
-            "title": "Activation du sommeil profond",
-            "heading_tag": "h4",
-            "content": "<p>La pression ferme et apaisante de la thérapie par le toucher profond active le système nerveux parasympathique du corps, induisant un état d'esprit plus calme la nuit.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_MkUGPW": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/contentes-feeling_0d5ea9f4-5765-436b-a47c-10d180728a9e.png",
-            "column_size": "3",
-            "title": "Augmentation de la sérotonine",
-            "heading_tag": "h4",
-            "content": "<p>Nos capsules vous enveloppent délicatement, favorisant la production de sérotonine pour une sensation de bien-être et de sérénité – idéal pour les personnes anxieuses en quête de réconfort.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_pwyFUr",
-        "item_yjHNxt",
-        "item_MkUGPW"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "Les avantages de La Couverture de sommeil câline",
-        "content": "",
-        "background": "#efe9ff",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "1763244607b26be914": {
@@ -969,7 +903,6 @@
     "testimonial_pro_Qqrcjr",
     "multi_column_AMkhQy",
     "featured-product",
-    "multi_column_p3YcXP",
     "1763244607b26be914",
     "custom_liquid_HyfXhU",
     "rich_text_3QaB4P",
