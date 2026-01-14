@@ -427,8 +427,8 @@
           "settings": {
             "image": "shopify://shop_images/madspy-image-1768391909391.webp",
             "column_size": "3",
-            "title": "Hélène B. - 34 ans",
-            "heading_tag": "h5",
+            "title": "Lucien B. - 34 ans",
+            "heading_tag": "h4",
             "content": "<p>Chemise confortable et respirante. Convient à toutes les morphologies. Sav de qualité et réactif. Je recommande</p>",
             "link_url": "",
             "link_text": "",
@@ -440,7 +440,7 @@
           "settings": {
             "image": "shopify://shop_images/tsApxRhapB_1.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Francis M.",
             "heading_tag": "h4",
             "content": "<p>Délai de livraison respecter. Vêtements conforme à la description. Agréable, léger , bonne qualité , belle coupe.</p>",
             "link_url": "",
@@ -453,7 +453,7 @@
           "settings": {
             "image": "shopify://shop_images/madspy-image-1768391903209.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Patrice D.",
             "heading_tag": "h4",
             "content": "<p>1ère commande passée sur le site et reçue assez rapidement. La qualité des chemises correspond à mes attentes et aux descriptifs.</p>",
             "link_url": "",
@@ -466,8 +466,8 @@
           "settings": {
             "image": "shopify://shop_images/madspy-image-1768391905440.webp",
             "column_size": "3",
-            "title": "Juliette S. - 42 ans",
-            "heading_tag": "h5",
+            "title": "Hervé S. - 42 ans",
+            "heading_tag": "h4",
             "content": "<p>Bonjour J’ai commandé 3 chemises car je n’étais pas sur de la taille . 40, 41 et 42, Deja j’ai reçu 2 en 42 trop grande et 1 en 40 qui est ma taille normalement. Elle va bien maisil manque presque 10 cm de manche.</p>",
             "link_url": "",
             "link_text": "",
@@ -479,8 +479,8 @@
           "settings": {
             "image": "shopify://shop_images/madspy-image-1768391910407.webp",
             "column_size": "3",
-            "title": "Simone T. - 48 ans",
-            "heading_tag": "h5",
+            "title": "Sammy M. - 48 ans",
+            "heading_tag": "h4",
             "content": "<p>La chemise est agréable à porter et pratique au quotidien. On lave ,on sèche et on range 😉 La qualité semble au rendez vous aussi, a voir dans le temps.</p>",
             "link_url": "",
             "link_text": "",
