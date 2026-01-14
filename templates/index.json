@@ -647,7 +647,14 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Description",
-            "content": "<p><strong>La couette câline :</strong></p><p><strong><br/></strong>• Utilise la thérapie par pression profonde, scientifiquement prouvée <br/>• Technologie HugStretch™ ultra douce<br/> • Lavable en machine et facile à transporter<br/>• Tous les bienfaits d'une couverture lestée, sans les inconvénients<br/>• Respirant et léger</p>"
+            "content": "<p>Notre chemise est conçue à partir d’un <strong>mélange textile innovant</strong> composé de polyester, fibre de bambou et élasthanne.</p><p>Ce mélange assure un <strong>confort optimal</strong>, une <strong>respirabilité maximale</strong>, et une <strong>élasticité inégalée</strong> pendant des années.</p>"
+          }
+        },
+        "collapsible_text_pJYPBx": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Instructions d'utilisation",
+            "content": "<p><strong>Lavage</strong> : En machine, jusqu'à 30°C.</p><p><strong>Couleurs</strong> : Laver avec des vêtements de couleurs similaires.</p><p><strong>Séchage</strong> : À l'air libre sur un étendoir ou au sèche-linge.</p>"
           }
         },
         "collapsible_text_J9FGb3": {
@@ -686,6 +693,7 @@
         "image_rB4Jye",
         "image_NpAhFF",
         "collapsible_text_fBhzjq",
+        "collapsible_text_pJYPBx",
         "collapsible_text_J9FGb3",
         "collapsible_text_9C3WQy"
       ],
