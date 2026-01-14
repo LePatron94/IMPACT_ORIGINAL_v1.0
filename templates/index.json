@@ -536,6 +536,20 @@
             "heading_tag": "h2"
           }
         },
+        "image_qjiRck": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-01-14_a_17.08.12.png",
+            "alignment": "start",
+            "max_width": 390
+          }
+        },
+        "liquid_f4PUeC": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "liquid_4EM9dh": {
           "type": "liquid",
           "settings": {
@@ -678,6 +692,8 @@
         "liquid_tbErjJ",
         "liquid_wgLzYt",
         "title",
+        "image_qjiRck",
+        "liquid_f4PUeC",
         "liquid_4EM9dh",
         "image_c6VGqb",
         "image_e7RPeA",
