@@ -621,6 +621,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_NpAhFF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-01-14_a_17.02.15.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "image_DTkahG": {
           "type": "image",
           "settings": {
@@ -634,13 +642,6 @@
             "image": "shopify://shop_images/lhdq.png",
             "alignment": "center",
             "max_width": 490
-          }
-        },
-        "image_NpAhFF": {
-          "type": "image",
-          "settings": {
-            "alignment": "start",
-            "max_width": 150
           }
         },
         "collapsible_text_fBhzjq": {
@@ -689,9 +690,9 @@
         "image_Py3dbr",
         "separator_Bd4pkp",
         "buy_buttons_76Tegr",
+        "image_NpAhFF",
         "image_DTkahG",
         "image_rB4Jye",
-        "image_NpAhFF",
         "collapsible_text_fBhzjq",
         "collapsible_text_pJYPBx",
         "collapsible_text_J9FGb3",
