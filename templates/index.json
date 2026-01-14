@@ -425,6 +425,7 @@
         "item_qGNNWL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/madspy-image-1768391909391.webp",
             "column_size": "3",
             "title": "Hélène B. - 34 ans",
             "heading_tag": "h5",
@@ -437,6 +438,7 @@
         "item_gAfV3B": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/madspy-image-1768391905440.webp",
             "column_size": "3",
             "title": "Juliette S. - 42 ans",
             "heading_tag": "h5",
@@ -449,10 +451,37 @@
         "item_DQAHnN": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/madspy-image-1768391910407.webp",
             "column_size": "3",
             "title": "Simone T. - 48 ans",
             "heading_tag": "h5",
             "content": "<p>Je suis très frileuse et je me réveillais souvent en grelottant… mais depuis que j’ai La Couette Câline, mes nuits ont complètement changé. <strong>Plus de réveils nocturne</strong>, je ne peut plus m'en passer.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_q6rH3x": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/madspy-image-1768391903209.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_f3Lk84": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/tsApxRhapB_1.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -462,7 +491,9 @@
       "block_order": [
         "item_qGNNWL",
         "item_gAfV3B",
-        "item_DQAHnN"
+        "item_DQAHnN",
+        "item_q6rH3x",
+        "item_f3Lk84"
       ],
       "settings": {
         "full_width": true,
