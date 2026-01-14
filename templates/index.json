@@ -435,6 +435,32 @@
             "link_style": "link"
           }
         },
+        "item_f3Lk84": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/tsApxRhapB_1.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_q6rH3x": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/madspy-image-1768391903209.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_gAfV3B": {
           "type": "item",
           "settings": {
@@ -460,40 +486,14 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_q6rH3x": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/madspy-image-1768391903209.webp",
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_f3Lk84": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/tsApxRhapB_1.webp",
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
         "item_qGNNWL",
-        "item_gAfV3B",
-        "item_DQAHnN",
+        "item_f3Lk84",
         "item_q6rH3x",
-        "item_f3Lk84"
+        "item_gAfV3B",
+        "item_DQAHnN"
       ],
       "settings": {
         "full_width": true,
