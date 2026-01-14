@@ -652,6 +652,7 @@
         },
         "image_rB4Jye": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/lhdq.png",
             "alignment": "center",
