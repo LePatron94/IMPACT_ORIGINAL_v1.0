@@ -373,6 +373,13 @@
             "payment_button_text_color": ""
           }
         },
+        "image_nD7UnA": {
+          "type": "image",
+          "settings": {
+            "alignment": "start",
+            "max_width": 150
+          }
+        },
         "buy_box_trust_badges_qPGz6Q": {
           "type": "shopify://apps/buy-box/blocks/trust-badges/17b7c6ef-0c82-4743-acf4-050c34e5b233",
           "settings": {
@@ -497,6 +504,7 @@
         "image_hCaMca",
         "separator_Bd4pkp",
         "buy_buttons_76Tegr",
+        "image_nD7UnA",
         "buy_box_trust_badges_qPGz6Q",
         "collapsible_text_fBhzjq",
         "collapsible_text_J9FGb3",
