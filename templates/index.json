@@ -245,9 +245,9 @@
           "type": "shopify://apps/buy-box/blocks/star-rating/17b7c6ef-0c82-4743-acf4-050c34e5b233",
           "settings": {
             "rating": 4.7,
-            "text": "200+ avis",
+            "text": "<strong>4.8 Excellent</strong> - Plus de 3500 avis positifs",
             "link": "",
-            "star_color": "#00b67a",
+            "star_color": "#000000",
             "star_background_color": "#eaeaea",
             "text_color": "#000000",
             "star_size": 16,
@@ -260,7 +260,7 @@
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h3"
           }
         },
         "liquid_pXy6AW": {
@@ -352,8 +352,8 @@
             "a3": "Luis Garcia",
             "c3": "<p>La qualité du produit est remarquable.</p>",
             "bgc": "#fafafa",
-            "bc": "#DADCE0",
-            "sc": "#00B67A",
+            "bc": "#dadce0",
+            "sc": "#00b67a",
             "tc": "#202124",
             "is": 64,
             "ns": 15,
@@ -385,12 +385,12 @@
             "m": "Économisez jusqu’à 70 % !",
             "n": "BLACKFRIDAY",
             "o": "Copié !",
-            "d": "#FFFFFF",
+            "d": "#ffffff",
             "e": "#000000",
-            "f": "#FFFFFF",
+            "f": "#ffffff",
             "h": "#000000",
-            "g": "#FFFFFF",
-            "i": "#FFFFFF",
+            "g": "#ffffff",
+            "i": "#ffffff",
             "j": 12,
             "k": 0,
             "l": 0,
@@ -407,8 +407,8 @@
             "ct": "00:00",
             "sd": "",
             "ed": "",
-            "tc": "#BC2323",
-            "cc": "#BC2323",
+            "tc": "#bc2323",
+            "cc": "#bc2323",
             "s": 15,
             "margin_top": 0,
             "margin_bottom": 0
@@ -423,7 +423,7 @@
             "sellingPoint_4_text": "",
             "sellingPoint_5_text": "",
             "icon": "checkmark",
-            "icon_color": "#037E05",
+            "icon_color": "#037e05",
             "text_color": "#212121",
             "icon_size": 16,
             "text_size": 12,
@@ -480,7 +480,7 @@
             "ax": "d",
             "ap": 50,
             "txt": "Vous économisez %SA%",
-            "tc": "#FFFFFF",
+            "tc": "#ffffff",
             "bg": "#008000",
             "bc": "#008000",
             "is": 13,
