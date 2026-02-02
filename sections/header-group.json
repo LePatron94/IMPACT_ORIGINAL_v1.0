@@ -17,26 +17,18 @@
         "message_KQRq4K": {
           "type": "message",
           "settings": {
-            "text": "PAIEMENT 100% SECURISE",
-            "url": ""
-          }
-        },
-        "message_9Mmckp": {
-          "type": "message",
-          "settings": {
-            "text": "FIN DES SOLDES CE MERCREDI, VITE !",
+            "text": "WELCOME10 - 10% de réduction pour le premier achat",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message_KQRq4K",
-        "message_9Mmckp"
+        "message_KQRq4K"
       ],
       "settings": {
         "enable_sticky": false,
-        "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "text_size": "text-base",
+        "navigation_mode": "arrows",
         "scrolling_speed": 14,
         "background": "#000000",
         "background_gradient": "",
