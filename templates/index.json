@@ -238,64 +238,6 @@
       "name": "SS - Testimonial #8",
       "settings": {}
     },
-    "multi_column_AMkhQy": {
-      "type": "multi-column",
-      "blocks": {
-        "item_qGNNWL": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p>Son tissu léger, respirant et à séchage rapide <strong>le rend confortable tous les jours</strong>. Il est extensible sans être trop serré donc sans contraindre les mouvements. <em><br/><br/></em><strong>Jean-Pierre Kasongo, 26 ans – Paris (75)</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_gAfV3B": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p>La coupe est plutôt flatteuse. Je trouve la qualité correcte, et le tissu est assez respirant. Je suis ravie de cet achat.</p><p><em><br/></em><strong>Clément Beauchamp, 42 ans – Grenoble (38)</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_i9VzGF": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p>Article parfait, identique à la photo. Taille idéale. De bonne qualité et très confortable.<em><br/><br/></em><strong>David Gilmour, 28 ans – Lyon (69)</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_qGNNWL",
-        "item_gAfV3B",
-        "item_i9VzGF"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -635,7 +577,6 @@
     "rich_text_prXEkr",
     "custom_liquid_iQzBDy",
     "testimonial_pro_Qqrcjr",
-    "multi_column_AMkhQy",
     "featured-product",
     "custom_liquid_HyfXhU",
     "rich_text_3QaB4P",
