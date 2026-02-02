@@ -287,10 +287,13 @@
           "settings": {
             "style": "classic",
             "use_stock_images": true,
+            "ci1": "shopify://shop_images/307309373_10159932922392980_7013320482962577741_n.jpg",
             "a1": "Lisa Brown",
             "c1": "<p>Ce produit est incroyable !</p>",
+            "ci2": "shopify://shop_images/495053799_1156298303176464_5370252151395275633_n.jpg",
             "a2": "Marc Johnson",
             "c2": "<p>Qualité au top et expédition rapide !</p>",
+            "ci3": "shopify://shop_images/501314967_10162622019109754_1807483360339156466_n.jpg",
             "a3": "Luis Garcia",
             "c3": "<p>La qualité du produit est remarquable.</p>",
             "bgc": "#fafafa",
