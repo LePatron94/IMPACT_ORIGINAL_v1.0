@@ -16,61 +16,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/STATIC_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "rich_text_UiY4nV": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_JbXazr": {
-          "type": "heading",
-          "settings": {
-            "text": "La couette confortable à absolument avoir pour cet hiver !",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_JbXazr"
-      ],
-      "disabled": true,
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "video_kAyyE8": {
-      "type": "video",
-      "blocks": {
-        "play_jGVC46": {
-          "type": "play",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "play_jGVC46"
-      ],
-      "disabled": true,
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/65d16b26dc4249e88fb91f5787b158db.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
@@ -82,23 +29,7 @@
         "logo_7FTkiX": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Men_s_Health_logo_black.png",
-            "logo_width": 300,
-            "link": ""
-          }
-        },
-        "logo_CBJAMJ": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
-            "logo_width": 300,
-            "link": ""
-          }
-        },
-        "logo_7X9hqg": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/png-clipart-gq-logo-magazine-others-text-trademark_1.png",
+            "logo": "shopify://shop_images/Glamour-Logo_svg.png",
             "logo_width": 300,
             "link": ""
           }
@@ -106,7 +37,21 @@
         "logo_WCRJAp": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Forbes_logo_black.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_7X9hqg": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_CBJAMJ": {
+          "type": "logo",
+          "settings": {
             "logo_width": 300,
             "link": ""
           }
@@ -114,14 +59,14 @@
       },
       "block_order": [
         "logo_7FTkiX",
-        "logo_CBJAMJ",
+        "logo_WCRJAp",
         "logo_7X9hqg",
-        "logo_WCRJAp"
+        "logo_CBJAMJ"
       ],
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Cité par :",
+        "title": "Vu sur :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -132,46 +77,6 @@
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
-      }
-    },
-    "rich_text_GaYXCf": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_HWdgQc": {
-          "type": "heading",
-          "settings": {
-            "text": "Pourquoi SOVRANO ?",
-            "heading_tag": "h2",
-            "text_color": "#000000",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_HWdgQc"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "medium",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#ffffff"
-      }
-    },
-    "image_with_text_overlay_GwYhDd": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/jl_lmj_ml.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "rich_text_tnkaEn": {
@@ -215,6 +120,31 @@
         "text_color": ""
       }
     },
+    "rich_text_GaYXCf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HWdgQc": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir La couette Frenchie ?",
+            "heading_tag": "h2",
+            "text_color": "#000000",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_HWdgQc"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
     "scrolling-text": {
       "type": "scrolling-text",
       "disabled": true,
@@ -229,6 +159,20 @@
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
+      }
+    },
+    "image_with_text_overlay_GwYhDd": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "rich_text_prXEkr": {
@@ -272,152 +216,10 @@
         "text_color": ""
       }
     },
-    "custom_liquid_dxiqLP": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "testimonial_pro_Qqrcjr": {
       "type": "testimonial-pro",
       "name": "SS - Testimonial #8",
-      "settings": {
-        "heading": "Nos clients en parlent !",
-        "heading_custom": false,
-        "heading_font": "bricolage_grotesque_n4",
-        "heading_size": 40,
-        "heading_size_mobile": 24,
-        "heading_height": 130,
-        "heading_align": "center",
-        "rating_text": "Excellent",
-        "rating_text_custom": false,
-        "rating_text_font": "bricolage_grotesque_n4",
-        "rating_text_size": 24,
-        "rating_text_size_mobile": 20,
-        "rating_text_height": 130,
-        "rating_text_mt": 16,
-        "rating": 4.8,
-        "rating_hide": false,
-        "rating_text_hide": false,
-        "rating_align": "center",
-        "stars_count": 5,
-        "stars_size": 28,
-        "stars_size_mobile": 24,
-        "stars_align": "center",
-        "text": "<p>basé sur <strong>+7 000</strong> avis !</p>",
-        "text_custom": false,
-        "text_font": "bricolage_grotesque_n4",
-        "text_size": 20,
-        "text_size_mobile": 16,
-        "text_height": 130,
-        "text_align": "center",
-        "text_mt": 16,
-        "slider_width": 80,
-        "slider_view": 3,
-        "slider_view_mobile": 1.2,
-        "slider_gap": 20,
-        "slider_gap_mobile": 20,
-        "slider_mt": 36,
-        "card_padding_vertical": 32,
-        "card_padding_vertical_mobile": 24,
-        "card_padding_horizontal": 40,
-        "card_padding_horizontal_mobile": 24,
-        "card_radius": 16,
-        "card_border_thickness": 0,
-        "card_shadow": true,
-        "card_heading_custom": false,
-        "card_heading_font": "josefin_sans_n4",
-        "card_heading_size": 24,
-        "card_heading_size_mobile": 20,
-        "card_heading_height": 130,
-        "card_heading_align": "center",
-        "card_heading_mt": 16,
-        "card_text_custom": false,
-        "card_text_font": "josefin_sans_n4",
-        "card_text_size": 14,
-        "card_text_size_mobile": 14,
-        "card_text_height": 150,
-        "card_text_align": "center",
-        "card_text_mt": 16,
-        "card_text_more": "",
-        "card_text_less": "",
-        "card_count_words": 20,
-        "card_author_date_text_custom": false,
-        "card_author_date_text_font": "josefin_sans_n4",
-        "card_author_date_text_size": 16,
-        "card_author_date_text_size_mobile": 16,
-        "card_author_date_text_height": 130,
-        "card_author_date_text_align": "center",
-        "card_author_date_text_mt": 16,
-        "arrow_size": 50,
-        "arrow_size_mobile": 50,
-        "arrow_icon_size": 28,
-        "arrow_icon_size_mobile": 28,
-        "arrow_border_thickness": 0,
-        "arrow_show_desktop": true,
-        "arrow_show_mobile": false,
-        "dots_size": 12,
-        "dots_size_mobile": 12,
-        "dots_show_desktop": false,
-        "dots_show_mobile": false,
-        "button": "",
-        "button_url": "",
-        "button_custom": false,
-        "button_font": "josefin_sans_n4",
-        "button_size": 16,
-        "button_size_mobile": 14,
-        "button_height": 100,
-        "button_align": "center",
-        "button_mt": 16,
-        "button_padding_vertical": 20,
-        "button_padding_horizontal": 16,
-        "button_radius": 8,
-        "button_border_thickness": 0,
-        "button_color": "#ffffff",
-        "button_hover_color": "#ffffff",
-        "button_bg_color": "#000000",
-        "button_bg_hover_color": "#000000",
-        "button_border_color": "#000000",
-        "button_border_hover_color": "#000000",
-        "card_bg_color": "#ffffff",
-        "card_border_color": "#000000",
-        "card_shadow_color": "#00b67a",
-        "card_heading_color": "#000000",
-        "card_text_color": "#000000",
-        "card_author_date_text_color": "#000000",
-        "arrow_color": "#000000",
-        "arrow_hover_color": "#000000",
-        "arrow_bg_color": "#ffffff",
-        "arrow_bg_hover_color": "#ffffff",
-        "arrow_border_color": "#ffffff",
-        "arrow_border_hover_color": "#ffffff",
-        "dots_color": "#000000",
-        "heading_color": "#1a1a1a",
-        "rating_text_color": "#1a1a1a",
-        "stars_bg_color": "#00b67a",
-        "stars_color": "#ffffff",
-        "text_color": "#1a1a1a",
-        "background_color": "#ffffff",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_horizontal": 5,
-        "padding_horizontal_mobile": 1.5,
-        "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0,
-        "lazy": true
-      }
+      "settings": {}
     },
     "multi_column_AMkhQy": {
       "type": "multi-column",
@@ -425,37 +227,10 @@
         "item_qGNNWL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/madspy-image-1768391909391.webp",
             "column_size": "3",
-            "title": "Lucien B. - 34 ans",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Chemise confortable et respirante. Convient à toutes les morphologies. Sav de qualité et réactif. Je recommande</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_f3Lk84": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/tsApxRhapB_1.webp",
-            "column_size": "3",
-            "title": "Francis M.",
-            "heading_tag": "h4",
-            "content": "<p>Délai de livraison respecter. Vêtements conforme à la description. Agréable, léger , bonne qualité , belle coupe.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_q6rH3x": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/madspy-image-1768391903209.webp",
-            "column_size": "3",
-            "title": "Patrice D.",
-            "heading_tag": "h4",
-            "content": "<p>1ère commande passée sur le site et reçue assez rapidement. La qualité des chemises correspond à mes attentes et aux descriptifs.</p>",
+            "content": "<p>Son tissu léger, respirant et à séchage rapide <strong>le rend confortable tous les jours</strong>. Il est extensible sans être trop serré donc sans contraindre les mouvements. <em><br/><br/></em><strong>Jean-Pierre Kasongo, 26 ans – Paris (75)</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -464,24 +239,22 @@
         "item_gAfV3B": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/madspy-image-1768391905440.webp",
             "column_size": "3",
-            "title": "Hervé S. - 42 ans",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Bonjour J’ai commandé 3 chemises car je n’étais pas sur de la taille . 40, 41 et 42, Deja j’ai reçu 2 en 42 trop grande et 1 en 40 qui est ma taille normalement. Elle va bien maisil manque presque 10 cm de manche.</p>",
+            "content": "<p>La coupe est plutôt flatteuse. Je trouve la qualité correcte, et le tissu est assez respirant. Je suis ravie de cet achat.</p><p><em><br/></em><strong>Clément Beauchamp, 42 ans – Grenoble (38)</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_DQAHnN": {
+        "item_i9VzGF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/madspy-image-1768391910407.webp",
             "column_size": "3",
-            "title": "Sammy M. - 48 ans",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>La chemise est agréable à porter et pratique au quotidien. On lave ,on sèche et on range 😉 La qualité semble au rendez vous aussi, a voir dans le temps.</p>",
+            "content": "<p>Article parfait, identique à la photo. Taille idéale. De bonne qualité et très confortable.<em><br/><br/></em><strong>David Gilmour, 28 ans – Lyon (69)</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -490,10 +263,8 @@
       },
       "block_order": [
         "item_qGNNWL",
-        "item_f3Lk84",
-        "item_q6rH3x",
         "item_gAfV3B",
-        "item_DQAHnN"
+        "item_i9VzGF"
       ],
       "settings": {
         "full_width": true,
@@ -511,17 +282,10 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
-        "liquid_K9gqEz": {
-          "type": "liquid",
-          "disabled": true,
-          "settings": {
-            "liquid": "<div style=\"text-align: center; margin: 10px 0;\">\n  <span style=\"\n    display: inline-block;\n    background-color: #0c8bee; /* rose pastel */\n    color: white;\n    padding: 6px 14px;\n    border-radius: 999px;\n    font-weight: 600;\n    font-size: 12px;\n    font-family: 'Poppins', Poppins, Arial, sans-serif;\n    letter-spacing: 0.5px;\n  \">\n     ❄️\n Offre CYBER WEEK : JUSQU'À ÉPUISEMENT DES STOCKS\n  </span>\n</div>"
-          }
-        },
         "liquid_tbErjJ": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #681130;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.8 par Plus de 7,000 Gentlemens !\n  </span>\n</div>\n\n</body>\n</html>"
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Trustpilot Rating</title>\n    <style>\n        .container-trustpilot {\n            background-color: #e9f8fe;\n            border: 1px dashed #006400; /* Koyu yeşil border */\n            padding: 5px 5px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            border-radius: 10px;\n        }\n        .container-trustpilot img {\n            margin: 0 10px;\n        }\n        .container-trustpilot .stars {\n            max-width: 80px; /* Increased size for the star image */\n        }\n        .container-trustpilot .logo {\n            max-width: 70px;\n        }\n        .container-trustpilot span {\n            margin: 0 5px;\n        }\n        .excellent {\n            color: #000;\n            font-size: 12px;\n        }\n        .rating-text {\n            color: #000;\n            font-size: 10px;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"container-trustpilot\">\n        <span class=\"excellent\"><b>\"EXCELLENT\"</b></span>\n        <img class=\"stars\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/4.5-stars-trustpilot_2157d8d9-101e-46a2-a3fe-ac80f2fecf10.png?v=1688082792\" alt=\"4.4/5 Rating\">\n        <span class=\"rating-text\">noté 4.8/5 sur</span>\n        <img class=\"logo\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/Trustpilot_Logo__2022_.svg_2.png?v=1687091440\" alt=\"Trustpilot Logo\">\n    </div>\n</body>\n</html>"
           }
         },
         "liquid_wgLzYt": {
@@ -533,36 +297,28 @@
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h3"
           }
         },
-        "image_qjiRck": {
+        "image_peGFQJ": {
           "type": "image",
+          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2026-01-14_a_17.08.12.png",
-            "alignment": "start",
-            "max_width": 390
+            "alignment": "center",
+            "max_width": 500
           }
         },
-        "liquid_f4PUeC": {
+        "liquid_pXy6AW": {
           "type": "liquid",
           "settings": {
             "liquid": ""
           }
         },
-        "liquid_4EM9dh": {
+        "liquid_wxmjUB": {
           "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 650 ; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 3 Unités.</div>\n</div>"
-          }
-        },
-        "image_c6VGqb": {
-          "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-11-12_a_21.44.01_copie.png",
-            "alignment": "center",
-            "max_width": 500
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">RUPTURE DE STOCK IMMINENTE !</div>\n</div>"
           }
         },
         "image_e7RPeA": {
@@ -578,18 +334,27 @@
             "liquid": ""
           }
         },
-        "liquid_nK6xRh": {
-          "type": "liquid",
-          "disabled": true,
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Instagram Badge</title>\n<style>\n  body.unique-body-A1B2C3 {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    margin: 0;\n    background-color: #fff;\n  }\n\n  .unique-instagram-badge-D4E5F6 {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    background: linear-gradient(45deg, #fdc830, #f37335, #e1306c, #405de6);\n    border-radius: 7px;\n    color: #fff;\n    font-size: 14px;\n    font-weight: bold;\n    padding: 5px 20px;\n    text-decoration: none;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);\n    border: 3px solid transparent;\n    background-clip: padding-box;\n    position: relative;\n    height: 35px;\n    width: 100%;\n    max-width: 300px;\n    text-align: center;\n  }\n\n  .unique-instagram-badge-D4E5F6::before {\n    content: '';\n    position: absolute;\n    top: -3px;\n    left: -3px;\n    right: -3px;\n    bottom: -3px;\n    border-radius: 7px;\n    background: linear-gradient(45deg, #fdc830, #f37335, #e1306c, #405de6);\n    background-size: 200% 200%;\n    animation: unique-gradient-animation-G7H8I9 3s linear infinite;\n    z-index: -1;\n  }\n\n  @keyframes unique-gradient-animation-G7H8I9 {\n    0% {\n      background-position: 0% 50%;\n    }\n    50% {\n      background-position: 100% 50%;\n    }\n    100% {\n      background-position: 0% 50%;\n    }\n  }\n\n  .unique-instagram-text-J1K2L3 {\n    z-index: 1;\n    white-space: nowrap;\n    display: flex;\n    align-items: center;\n  }\n</style>\n</head>\n<body class=\"unique-body-A1B2C3\">\n\n<div class=\"unique-instagram-badge-D4E5F6\">\n  <div class=\"unique-instagram-text-J1K2L3\">\n      Plus de 3 Millions de Vues sur Instagram\n  </div>\n</div>\n\n</body>\n</html>"
-          }
-        },
         "kaching_bundles_app_block_V7TmiP": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "disabled": true,
           "settings": {
             "product": "{{section.settings.product}}",
             "manual_deal_block_id": ""
+          }
+        },
+        "liquid_ziD8p8": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Timer d'Urgence Shopify</title>\n    <link href=\"https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700;900&display=swap\" rel=\"stylesheet\">\n</head>\n<body>\n\n<div style=\"\n  text-align: center;\n  margin: 15px auto;\n  padding: 10px;\n  max-width: 320px;\n  font-family: 'Roboto Condensed', Arial, sans-serif;\n\">\n\n  <!-- Titre -->\n  <div style=\"\n    font-size: 16px;\n    font-weight: 700;\n    color: #000000;\n    margin-bottom: 10px;\n    text-transform: uppercase;\n  \">\n    Dernière chance avant la fin de l'offre…\n  </div>\n\n  <!-- Container du timer -->\n  <div style=\"\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    gap: 8px;\n    margin-bottom: 10px;\n  \">\n    <!-- Jours -->\n    <div style=\"text-align: center;\">\n      <div id=\"days\" style=\"\n        font-size: 32px;\n        font-weight: 900;\n        color: #2D3436;\n        line-height: 1;\n        min-width: 45px;\n      \">00</div>\n      <div class=\"timer-label\" style=\"\n        font-size: 11px;\n        color: #636e72;\n        font-weight: 700;\n        text-transform: uppercase;\n        margin-top: 3px;\n      \">Jours</div>\n    </div>\n    \n    <!-- Séparateur -->\n    <div style=\"font-size: 32px; font-weight: 900; color: #2D3436;\">:</div>\n    \n    <!-- Heures -->\n    <div style=\"text-align: center;\">\n      <div id=\"hours\" style=\"\n        font-size: 32px;\n        font-weight: 900;\n        color: #2D3436;\n        line-height: 1;\n        min-width: 45px;\n      \">00</div>\n      <div class=\"timer-label\" style=\"\n        font-size: 11px;\n        color: #636e72;\n        font-weight: 700;\n        text-transform: uppercase;\n        margin-top: 3px;\n      \">Heures</div>\n    </div>\n    \n    <!-- Séparateur -->\n    <div style=\"font-size: 32px; font-weight: 900; color: #2D3436;\">:</div>\n    \n    <!-- Minutes -->\n    <div style=\"text-align: center;\">\n      <div id=\"minutes\" style=\"\n        font-size: 32px;\n        font-weight: 900;\n        color: #2D3436;\n        line-height: 1;\n        min-width: 45px;\n      \">27</div>\n      <div class=\"timer-label\" style=\"\n        font-size: 11px;\n        color: #636e72;\n        font-weight: 700;\n        text-transform: uppercase;\n        margin-top: 3px;\n      \">Minutes</div>\n    </div>\n    \n    <!-- Séparateur -->\n    <div style=\"font-size: 32px; font-weight: 900; color: #2D3436;\">:</div>\n    \n    <!-- Secondes -->\n    <div style=\"text-align: center;\">\n      <div id=\"seconds\" style=\"\n        font-size: 32px;\n        font-weight: 900;\n        color: #e17055;\n        line-height: 1;\n        min-width: 45px;\n      \">13</div>\n      <div class=\"timer-label\" style=\"\n        font-size: 11px;\n        color: #636e72;\n        font-weight: 700;\n        text-transform: uppercase;\n        margin-top: 3px;\n      \">Secondes</div>\n    </div>\n  </div>\n</div>\n\n<script>\n// Configuration du timer - 27min13s pour créer l'urgence maximale\nconst INITIAL_DURATION = (27 * 60) + 13; // 27min13s\nlet secondsLeft = INITIAL_DURATION;\n\nfunction resetTimerIfNeeded() {\n  if (secondsLeft <= 30) {\n    const randomMinutes = Math.floor(Math.random() * 8) + 23;\n    const randomSeconds = Math.floor(Math.random() * 60);\n    secondsLeft = (randomMinutes * 60) + randomSeconds;\n  }\n}\n\nfunction updateTimer() {\n  resetTimerIfNeeded();\n  \n  const days = Math.floor(secondsLeft / (24 * 3600));\n  const hours = Math.floor((secondsLeft % (24 * 3600)) / 3600);\n  const minutes = Math.floor((secondsLeft % 3600) / 60);\n  const seconds = secondsLeft % 60;\n  \n  document.getElementById('days').textContent = days.toString().padStart(2, '0');\n  document.getElementById('hours').textContent = hours.toString().padStart(2, '0');\n  document.getElementById('minutes').textContent = minutes.toString().padStart(2, '0');\n  document.getElementById('seconds').textContent = seconds.toString().padStart(2, '0');\n\n  const allNumbers = document.querySelectorAll('#days, #hours, #minutes, #seconds');\n  \n  if (secondsLeft <= 900) {\n    allNumbers.forEach(el => {\n      el.style.color = '#FF6B6B';\n      el.style.animation = 'pulse 2s infinite';\n    });\n  }\n  if (secondsLeft <= 600) {\n    allNumbers.forEach(el => {\n      el.style.color = '#e74c3c';\n      el.style.animation = 'pulse 1.2s infinite';\n    });\n  }\n  if (secondsLeft <= 300) {\n    allNumbers.forEach(el => {\n      el.style.color = '#c0392b';\n      el.style.animation = 'pulse 0.8s infinite';\n    });\n  }\n  \n  secondsLeft--;\n}\n\n// Animation CSS\nconst style = document.createElement('style');\nstyle.textContent = `\n  @keyframes pulse {\n    0% { transform: scale(1); opacity: 1; }\n    50% { transform: scale(1.08); opacity: 0.8; }\n    100% { transform: scale(1); opacity: 1; }\n  }\n\n  @media (max-width: 480px) {\n    #days, #hours, #minutes, #seconds {\n      font-size: 28px !important;\n      min-width: 40px !important;\n    }\n    .timer-label {\n      font-size: 10px !important;\n    }\n  }\n`;\ndocument.head.appendChild(style);\n\nconst timerInterval = setInterval(updateTimer, 1000);\nupdateTimer();\n\ndocument.addEventListener('visibilitychange', function() {\n  if (!document.hidden) {\n    const randomMinutes = Math.floor(Math.random() * 8) + 23;\n    const randomSeconds = Math.floor(Math.random() * 60);\n    secondsLeft = (randomMinutes * 60) + randomSeconds;\n  }\n});\n</script>\n\n</body>\n</html>"
+          }
+        },
+        "image_M6BrMy": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
           }
         },
         "image_hCaMca": {
@@ -605,19 +370,17 @@
             "liquid": ""
           }
         },
+        "liquid_6yDek7": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<style>\n.shipping-info-banner {\n  background-color: #F5EEDD;\n  padding: 10px 10px;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  font-family: Arial, sans-serif;\n  border-radius: 5px;\n  gap: 10px;\n}\n.truck-icon {\n  margin-right: 10px;\n}\n.shipping-text {\n  color: #333;\n  font-size: 14px;\n  margin: 0;\n}\n</style>\n\n<script>\ndocument.addEventListener('DOMContentLoaded', function() {\n  fetch('https://ipapi.co/json/')\n    .then(response => response.json())\n    .then(data => {\n      const userCountry = data.country_code;\n      let shippingInfo = '';\n\n      if (userCountry === \"GB\") {\n        shippingInfo = \"Livraisons entre 2 et 5 jours\";\n      } else if (userCountry === \"US\") {\n        shippingInfo = \"Livraisons entre 2 et 5 jours\";\n      } else if (userCountry === \"AU\") {\n        shippingInfo = \"Livraisons entre 2 et 5 jours\";\n      } else if ([\"AT\", \"BE\", \"BG\",\"HR\",\"CY\",\"CZ\",\"DK\",\"EE\",\"FI\",\"FR\",\"DE\",\"GR\",\"HU\",\"IE\",\"IT\",\"LV\",\"LT\",\"LU\",\"MT\",\"NL\",\"PL\",\"PT\",\"RO\",\"SK\",\"SI\",\"ES\",\"SE\"].includes(userCountry)) {\n        shippingInfo = \"Livraisons entre 2 et 5 jours\";\n      } else {\n        shippingInfo = \"Expected delivery in 5-7 business days\";\n      }\n\n      document.getElementById('shipping-info').innerHTML = `\n        <div class=\"shipping-info-banner\">\n<svg width=\"25\" height=\"25\" viewBox=\"0 0 25 25\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15.125 7.25H20.375C21.3032 7.25 22.1934 7.61875 22.8498 8.27518C23.5063 8.93143 23.875 9.82179 23.875 10.75V17.75H15.125\" fill=\"black\" fill-opacity=\"0.34902\"/>\n<path d=\"M1.125 17.75H15.125V5.5C15.125 5.03589 14.9407 4.59071 14.6125 4.2625C14.2843 3.93429 13.8391 3.75 13.375 3.75H2.875C2.41089 3.75 1.96571 3.93446 1.6375 4.2625C1.30929 4.59071 1.125 5.03589 1.125 5.5V17.75Z\" fill=\"black\" fill-opacity=\"0.34902\"/>\n<path d=\"M6.375 21.25C4.68357 21.25 3.3125 19.8789 3.3125 18.1875C3.3125 16.4961 4.68357 15.125 6.375 15.125C8.06643 15.125 9.4375 16.4961 9.4375 18.1875C9.4375 19.8789 8.06643 21.25 6.375 21.25Z\" fill=\"white\"/>\n<path d=\"M15.125 7.25H20.375C21.3032 7.25 22.1934 7.61875 22.8498 8.27518C23.5063 8.93143 23.875 9.82179 23.875 10.75V17.75H21.25\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M2.875 17.75H1.125V5.5C1.125 5.03589 1.30946 4.59071 1.6375 4.2625C1.96571 3.93429 2.41089 3.75 2.875 3.75H13.375C13.8391 3.75 14.2843 3.93446 14.6125 4.2625C14.9407 4.59071 15.125 5.03589 15.125 5.5V17.75\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.25 17.75H9.875\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M6.375 21.25C4.68357 21.25 3.3125 19.8789 3.3125 18.1875C3.3125 16.4961 4.68357 15.125 6.375 15.125C8.06643 15.125 9.4375 16.4961 9.4375 18.1875C9.4375 19.8789 8.06643 21.25 6.375 21.25Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M18.1875 21.25C16.4961 21.25 15.125 19.8789 15.125 18.1875C15.125 16.4961 16.4961 15.125 18.1875 15.125C19.8789 15.125 21.25 16.4961 21.25 18.1875C21.25 19.8789 19.8789 21.25 18.1875 21.25Z\" fill=\"white\"/>\n<path d=\"M18.1875 21.25C16.4961 21.25 15.125 19.8789 15.125 18.1875C15.125 16.4961 16.4961 15.125 18.1875 15.125C19.8789 15.125 21.25 16.4961 21.25 18.1875C21.25 19.8789 19.8789 21.25 18.1875 21.25Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n\n\n          <p class=\"shipping-text\">${shippingInfo}</p>\n        </div>\n      `;\n    })\n    .catch(error => {\n      console.error('Error fetching geolocation data:', error);\n      document.getElementById('shipping-info').innerHTML = `\n        <div class=\"shipping-info-banner\">\n<svg width=\"25\" height=\"25\" viewBox=\"0 0 25 25\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15.125 7.25H20.375C21.3032 7.25 22.1934 7.61875 22.8498 8.27518C23.5063 8.93143 23.875 9.82179 23.875 10.75V17.75H15.125\" fill=\"black\" fill-opacity=\"0.34902\"/>\n<path d=\"M1.125 17.75H15.125V5.5C15.125 5.03589 14.9407 4.59071 14.6125 4.2625C14.2843 3.93429 13.8391 3.75 13.375 3.75H2.875C2.41089 3.75 1.96571 3.93446 1.6375 4.2625C1.30929 4.59071 1.125 5.03589 1.125 5.5V17.75Z\" fill=\"black\" fill-opacity=\"0.34902\"/>\n<path d=\"M6.375 21.25C4.68357 21.25 3.3125 19.8789 3.3125 18.1875C3.3125 16.4961 4.68357 15.125 6.375 15.125C8.06643 15.125 9.4375 16.4961 9.4375 18.1875C9.4375 19.8789 8.06643 21.25 6.375 21.25Z\" fill=\"white\"/>\n<path d=\"M15.125 7.25H20.375C21.3032 7.25 22.1934 7.61875 22.8498 8.27518C23.5063 8.93143 23.875 9.82179 23.875 10.75V17.75H21.25\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M2.875 17.75H1.125V5.5C1.125 5.03589 1.30946 4.59071 1.6375 4.2625C1.96571 3.93429 2.41089 3.75 2.875 3.75H13.375C13.8391 3.75 14.2843 3.93446 14.6125 4.2625C14.9407 4.59071 15.125 5.03589 15.125 5.5V17.75\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.25 17.75H9.875\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M6.375 21.25C4.68357 21.25 3.3125 19.8789 3.3125 18.1875C3.3125 16.4961 4.68357 15.125 6.375 15.125C8.06643 15.125 9.4375 16.4961 9.4375 18.1875C9.4375 19.8789 8.06643 21.25 6.375 21.25Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M18.1875 21.25C16.4961 21.25 15.125 19.8789 15.125 18.1875C15.125 16.4961 16.4961 15.125 18.1875 15.125C19.8789 15.125 21.25 16.4961 21.25 18.1875C21.25 19.8789 19.8789 21.25 18.1875 21.25Z\" fill=\"white\"/>\n<path d=\"M18.1875 21.25C16.4961 21.25 15.125 19.8789 15.125 18.1875C15.125 16.4961 16.4961 15.125 18.1875 15.125C19.8789 15.125 21.25 16.4961 21.25 18.1875C21.25 19.8789 19.8789 21.25 18.1875 21.25Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n\n          <p class=\"shipping-text\">Livraison entre 2 et 5 Jours</p>\n        </div>\n      `;\n    });\n});\n</script>\n\n<div id=\"shipping-info\">\n  <!-- The shipping info will be dynamically updated here -->\n  <div class=\"shipping-info-banner\">\n<svg width=\"25\" height=\"25\" viewBox=\"0 0 25 25\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15.125 7.25H20.375C21.3032 7.25 22.1934 7.61875 22.8498 8.27518C23.5063 8.93143 23.875 9.82179 23.875 10.75V17.75H15.125\" fill=\"black\" fill-opacity=\"0.34902\"/>\n<path d=\"M1.125 17.75H15.125V5.5C15.125 5.03589 14.9407 4.59071 14.6125 4.2625C14.2843 3.93429 13.8391 3.75 13.375 3.75H2.875C2.41089 3.75 1.96571 3.93446 1.6375 4.2625C1.30929 4.59071 1.125 5.03589 1.125 5.5V17.75Z\" fill=\"black\" fill-opacity=\"0.34902\"/>\n<path d=\"M6.375 21.25C4.68357 21.25 3.3125 19.8789 3.3125 18.1875C3.3125 16.4961 4.68357 15.125 6.375 15.125C8.06643 15.125 9.4375 16.4961 9.4375 18.1875C9.4375 19.8789 8.06643 21.25 6.375 21.25Z\" fill=\"white\"/>\n<path d=\"M15.125 7.25H20.375C21.3032 7.25 22.1934 7.61875 22.8498 8.27518C23.5063 8.93143 23.875 9.82179 23.875 10.75V17.75H21.25\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M2.875 17.75H1.125V5.5C1.125 5.03589 1.30946 4.59071 1.6375 4.2625C1.96571 3.93429 2.41089 3.75 2.875 3.75H13.375C13.8391 3.75 14.2843 3.93446 14.6125 4.2625C14.9407 4.59071 15.125 5.03589 15.125 5.5V17.75\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.25 17.75H9.875\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M6.375 21.25C4.68357 21.25 3.3125 19.8789 3.3125 18.1875C3.3125 16.4961 4.68357 15.125 6.375 15.125C8.06643 15.125 9.4375 16.4961 9.4375 18.1875C9.4375 19.8789 8.06643 21.25 6.375 21.25Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M18.1875 21.25C16.4961 21.25 15.125 19.8789 15.125 18.1875C15.125 16.4961 16.4961 15.125 18.1875 15.125C19.8789 15.125 21.25 16.4961 21.25 18.1875C21.25 19.8789 19.8789 21.25 18.1875 21.25Z\" fill=\"white\"/>\n<path d=\"M18.1875 21.25C16.4961 21.25 15.125 19.8789 15.125 18.1875C15.125 16.4961 16.4961 15.125 18.1875 15.125C19.8789 15.125 21.25 16.4961 21.25 18.1875C21.25 19.8789 19.8789 21.25 18.1875 21.25Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n\n\n    <p class=\"shipping-text\"></p>\n  </div>\n</div>\n\n\n\n\n<div class=\"product-features-wrapper\">\n  <div class=\"product-features\">\n    <div class=\"feature-block\">\n<svg width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"margin-bottom: 10px;\">\n<path d=\"M11.5546 20.9085C11.1977 21.0463 10.8023 21.0463 10.4454 20.9085C7.6644 19.8404 5.27274 17.9539 3.58634 15.4982C1.89994 13.0424 0.998126 10.1328 1 7.15373V2.53882C1 2.1307 1.16213 1.73929 1.45071 1.45071C1.7393 1.16213 2.1307 1 2.53882 1H19.4627C19.8706 1.00041 20.2616 1.16272 20.5498 1.45126C20.8381 1.7398 21 2.13097 21 2.53882V7.15373C21.002 10.133 20.1 13.0428 18.4133 15.4987C16.7266 17.9545 14.336 19.8409 11.5546 20.9085Z\" fill=\"black\" fill-opacity=\"0.34902\"/>\n<path d=\"M11.5546 20.9085C11.1977 21.0463 10.8023 21.0463 10.4454 20.9085C7.6644 19.8404 5.27274 17.9539 3.58634 15.4982C1.89994 13.0424 0.998126 10.1328 1 7.15373V2.53882C1 2.1307 1.16213 1.73929 1.45071 1.45071C1.7393 1.16213 2.1307 1 2.53882 1H19.4627C19.8706 1.00041 20.2616 1.16272 20.5498 1.45126C20.8381 1.7398 21 2.13097 21 2.53882V7.15373C21.002 10.133 20.1 13.0428 18.4133 15.4987C16.7266 17.9545 14.336 19.8409 11.5546 20.9085Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M15.6589 6.35181L9.45402 13.3323L6.35156 11.0055\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n\n\n\n      <p class=\"feature-text\" style=\"text-align:center!important\">Garantie a vie</p>\n    </div>\n    \n    <div class=\"feature-block\">\n<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"margin-bottom: 10px;\">\n<g clip-path=\"url(#clip0_98_9)\">\n<path d=\"M4.11578 15.8473L0.714355 16.7573L3.86293 11.303L7.76007 14.5158L5.02864 19.2473L4.11578 15.8458V15.8473Z\" fill=\"white\"/>\n<path d=\"M15.8831 15.8473L19.2859 16.7587L16.1374 11.3044L12.2402 14.5173L14.9717 19.2487L15.8831 15.8473Z\" fill=\"white\"/>\n<path d=\"M16.1574 11.3386L19.286 16.7586L15.8831 15.8472L14.9717 19.2486L12.2603 14.5501\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M17.076 7.83146C17.076 9.7092 16.3301 11.51 15.0023 12.8378C13.6746 14.1655 11.8737 14.9115 9.99602 14.9115C8.11828 14.9115 6.31746 14.1655 4.9897 12.8378C3.66194 11.51 2.91602 9.7092 2.91602 7.83146C2.91602 5.95373 3.66194 4.15291 4.9897 2.82515C6.31746 1.49739 8.11828 0.751465 9.99602 0.751465C11.8737 0.751465 13.6746 1.49739 15.0023 2.82515C16.3301 4.15291 17.076 5.95373 17.076 7.83146Z\" fill=\"black\" fill-opacity=\"0.34902\"/>\n<path d=\"M17.076 7.83146C17.076 9.7092 16.3301 11.51 15.0023 12.8378C13.6746 14.1655 11.8737 14.9115 9.99602 14.9115C8.11828 14.9115 6.31746 14.1655 4.9897 12.8378C3.66194 11.51 2.91602 9.7092 2.91602 7.83146C2.91602 5.95373 3.66194 4.15291 4.9897 2.82515C6.31746 1.49739 8.11828 0.751465 9.99602 0.751465C11.8737 0.751465 13.6746 1.49739 15.0023 2.82515C16.3301 4.15291 17.076 5.95373 17.076 7.83146Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M10.2859 3.98718L11.2616 5.95004C11.2833 5.99956 11.3177 6.04244 11.3614 6.07431C11.4051 6.10619 11.4564 6.12591 11.5102 6.13147L13.6773 6.46004C13.7393 6.46797 13.7978 6.49343 13.8459 6.53343C13.8939 6.57342 13.9296 6.6263 13.9486 6.68585C13.9677 6.7454 13.9693 6.80915 13.9534 6.86961C13.9375 6.93007 13.9047 6.98473 13.8588 7.02719L12.2573 8.54576C12.2333 8.59134 12.2208 8.64209 12.2208 8.69361C12.2208 8.74514 12.2333 8.79589 12.2573 8.84147L12.5645 10.9958C12.5778 11.0582 12.5727 11.1231 12.5497 11.1827C12.5267 11.2423 12.4868 11.2938 12.435 11.3311C12.3832 11.3684 12.3216 11.3897 12.2578 11.3926C12.1941 11.3955 12.1308 11.3797 12.0759 11.3472L10.1473 10.3272C10.0975 10.3047 10.0434 10.2931 9.98875 10.2931C9.93408 10.2931 9.88003 10.3047 9.83018 10.3272L7.90161 11.3472C7.84672 11.3788 7.78385 11.3939 7.72058 11.3906C7.65732 11.3873 7.59635 11.3658 7.54502 11.3287C7.4937 11.2915 7.4542 11.2403 7.43129 11.1813C7.40838 11.1222 7.40304 11.0578 7.4159 10.9958L7.77876 8.84147C7.79449 8.79131 7.7975 8.73802 7.78753 8.6864C7.77755 8.63478 7.7549 8.58645 7.72161 8.54576L6.12161 7.01576C6.07865 6.97279 6.04845 6.91876 6.03435 6.85966C6.02026 6.80055 6.02283 6.7387 6.04178 6.68097C6.06072 6.62325 6.0953 6.5719 6.14168 6.53265C6.18805 6.49339 6.2444 6.46777 6.30447 6.45861L8.47161 6.1429C8.52539 6.13734 8.57672 6.11761 8.62039 6.08574C8.66406 6.05387 8.69849 6.01099 8.72018 5.96147L9.6959 4.00004C9.72187 3.94433 9.76295 3.89702 9.81447 3.86349C9.86599 3.82996 9.92588 3.81155 9.98733 3.81036C10.0488 3.80917 10.1094 3.82525 10.1621 3.85676C10.2149 3.88827 10.2578 3.93395 10.2859 3.98861V3.98718Z\" fill=\"white\"/>\n<path d=\"M10.2859 3.98718L11.2616 5.95004C11.2833 5.99956 11.3177 6.04244 11.3614 6.07431C11.4051 6.10619 11.4564 6.12591 11.5102 6.13147L13.6773 6.46004C13.7393 6.46797 13.7978 6.49343 13.8459 6.53343C13.8939 6.57342 13.9296 6.6263 13.9486 6.68585C13.9677 6.7454 13.9693 6.80915 13.9534 6.86961C13.9375 6.93007 13.9047 6.98473 13.8588 7.02719L12.2573 8.54576C12.2333 8.59134 12.2208 8.64209 12.2208 8.69361C12.2208 8.74514 12.2333 8.79589 12.2573 8.84147L12.5645 10.9958C12.5778 11.0582 12.5727 11.1231 12.5497 11.1827C12.5267 11.2423 12.4868 11.2938 12.435 11.3311C12.3832 11.3684 12.3216 11.3897 12.2578 11.3926C12.1941 11.3955 12.1308 11.3797 12.0759 11.3472L10.1473 10.3272C10.0975 10.3047 10.0434 10.2931 9.98875 10.2931C9.93408 10.2931 9.88003 10.3047 9.83018 10.3272L7.90161 11.3472C7.84672 11.3788 7.78385 11.3939 7.72058 11.3906C7.65732 11.3873 7.59635 11.3658 7.54502 11.3287C7.4937 11.2915 7.4542 11.2403 7.43129 11.1813C7.40838 11.1222 7.40304 11.0578 7.4159 10.9958L7.77876 8.84147C7.79449 8.79131 7.7975 8.73802 7.78753 8.6864C7.77755 8.63478 7.7549 8.58645 7.72161 8.54576L6.12161 7.01576C6.07865 6.97279 6.04845 6.91876 6.03435 6.85966C6.02026 6.80055 6.02283 6.7387 6.04178 6.68097C6.06072 6.62325 6.0953 6.5719 6.14168 6.53265C6.18805 6.49339 6.2444 6.46777 6.30447 6.45861L8.47161 6.1429C8.52539 6.13734 8.57672 6.11761 8.62039 6.08574C8.66406 6.05387 8.69849 6.01099 8.72018 5.96147L9.6959 4.00004C9.72187 3.94433 9.76295 3.89702 9.81447 3.86349C9.86599 3.82996 9.92588 3.81155 9.98733 3.81036C10.0488 3.80917 10.1094 3.82525 10.1621 3.85676C10.2149 3.88827 10.2578 3.93395 10.2859 3.98861V3.98718Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M3.84578 11.3342L0.714355 16.7571L4.11578 15.8457L5.02864 19.2485L7.74293 14.5457\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_98_9\">\n<rect width=\"20\" height=\"20\" fill=\"white\"/>\n</clipPath>\n</defs>\n</svg>\n\n\n\n      <p class=\"feature-text\" style=\"text-align:center!important\">Haute qualité<br>de matériaux</p>\n    </div>\n    \n    <div class=\"feature-block\">\n<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"margin-bottom: 10px;\">\n<g clip-path=\"url(#clip0_98_2)\">\n<path d=\"M10.5141 19.1901C10.1831 19.3178 9.81644 19.3178 9.48548 19.1901C6.90491 18.1987 4.68571 16.448 3.12094 14.1691C1.55616 11.8902 0.719416 9.19021 0.721194 6.42578V2.1415C0.721573 1.76287 0.87225 1.39987 1.14012 1.13227C1.40799 0.864669 1.77113 0.714355 2.14977 0.714355H17.8541C18.2329 0.714355 18.5963 0.864865 18.8642 1.13277C19.1321 1.40068 19.2826 1.76405 19.2826 2.14293V6.42578C19.2842 9.19054 18.447 11.8907 16.8817 14.1697C15.3164 16.4487 13.0952 18.1992 10.5141 19.1901Z\" fill=\"black\" fill-opacity=\"0.34902\"/>\n<path d=\"M4.36965 6.49997L5.54965 6.09711C5.64694 6.0575 5.75588 6.0576 5.8531 6.0974C5.95032 6.13719 6.02806 6.21351 6.06965 6.30997L6.93108 7.64426L11.6539 5.28283C12.0212 5.07233 12.4296 4.94362 12.8512 4.9055C13.2727 4.86738 13.6976 4.92074 14.0966 5.06195C14.4957 5.20315 14.8595 5.42886 15.1633 5.72365C15.4671 6.01843 15.7037 6.37534 15.8568 6.76997C15.8881 6.8708 15.8992 6.97683 15.8894 7.08195C15.8797 7.18708 15.8492 7.28924 15.7998 7.38257C15.7504 7.47589 15.6831 7.55853 15.6017 7.62575C15.5203 7.69297 15.4264 7.74344 15.3254 7.77426L12.5568 8.58569L12.2497 8.67997L11.1868 11.7914C11.1684 11.8605 11.1328 11.9239 11.0834 11.9756C11.0339 12.0273 10.9722 12.0657 10.9039 12.0871L9.19822 12.7143C9.12601 12.7382 9.0488 12.7429 8.97422 12.7278C8.89965 12.7128 8.83029 12.6785 8.77301 12.6284C8.71573 12.5784 8.67251 12.5142 8.64762 12.4423C8.62272 12.3705 8.61702 12.2933 8.63108 12.2185L9.39822 9.69711L9.19822 9.75569L6.18679 10.7357C5.98955 10.8034 5.77356 10.7905 5.58577 10.6998C5.39799 10.6091 5.25358 10.448 5.18394 10.2514L4.12108 6.9814C4.09409 6.88421 4.10468 6.78042 4.15074 6.69069C4.1968 6.60095 4.27495 6.53184 4.36965 6.49711V6.49997Z\" fill=\"white\"/>\n<path d=\"M10.5141 19.1901C10.1831 19.3178 9.81644 19.3178 9.48548 19.1901C6.90491 18.1987 4.68571 16.448 3.12094 14.1691C1.55616 11.8902 0.719416 9.19021 0.721194 6.42578V2.1415C0.721573 1.76287 0.87225 1.39987 1.14012 1.13227C1.40799 0.864669 1.77113 0.714355 2.14977 0.714355H17.8541C18.2329 0.714355 18.5963 0.864865 18.8642 1.13277C19.1321 1.40068 19.2826 1.76405 19.2826 2.14293V6.42578C19.2842 9.19054 18.447 11.8907 16.8817 14.1697C15.3164 16.4487 13.0952 18.1992 10.5141 19.1901Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M4.36965 6.49997L5.54965 6.09711C5.64694 6.0575 5.75588 6.0576 5.8531 6.0974C5.95032 6.13719 6.02806 6.21351 6.06965 6.30997L6.93108 7.64426L11.6539 5.28283C12.0212 5.07233 12.4296 4.94362 12.8512 4.9055C13.2727 4.86738 13.6976 4.92074 14.0966 5.06195C14.4957 5.20315 14.8595 5.42886 15.1633 5.72365C15.4671 6.01843 15.7037 6.37534 15.8568 6.76997C15.8881 6.8708 15.8992 6.97683 15.8894 7.08195C15.8797 7.18708 15.8492 7.28924 15.7998 7.38257C15.7504 7.47589 15.6831 7.55853 15.6017 7.62575C15.5203 7.69297 15.4264 7.74344 15.3254 7.77426L12.5568 8.58569L12.2497 8.67997L11.1868 11.7914C11.1684 11.8605 11.1328 11.9239 11.0834 11.9756C11.0339 12.0273 10.9722 12.0657 10.9039 12.0871L9.19822 12.7143C9.12601 12.7382 9.0488 12.7429 8.97422 12.7278C8.89965 12.7128 8.83029 12.6785 8.77301 12.6284C8.71573 12.5784 8.67251 12.5142 8.64762 12.4423C8.62272 12.3705 8.61702 12.2933 8.63108 12.2185L9.39822 9.69711L9.19822 9.75569L6.18822 10.7357C5.9908 10.8038 5.77444 10.7911 5.58632 10.7004C5.39821 10.6097 5.25357 10.4483 5.18394 10.2514L4.12108 6.9814C4.09409 6.88421 4.10468 6.78042 4.15074 6.69069C4.1968 6.60095 4.27495 6.53184 4.36965 6.49711V6.49997Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_98_2\">\n<rect width=\"20\" height=\"20\" fill=\"white\"/>\n</clipPath>\n</defs>\n</svg>\n\n\n      <p class=\"feature-text\" style=\"text-align:center!important\">Compagnie Française Importatrice</p>\n    </div>\n  </div>\n</div>\n\n<style>\n  .product-features-wrapper {\n    overflow-x: auto;\n    padding: 10px 0;\n  }\n\n  .product-features {\n    display: flex;\n    justify-content: space-between;\n    gap: 10px;\n    min-width: min-content;\n  }\n  \n  .feature-block {\n    flex: 1;\n    min-width: 120px;\n  background-color: #F5EEDD;\n    border-radius: 10px;\n    padding: 15px 10px;\n    text-align: center;\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n  }\n  \n  .feature-icon {\n    margin-bottom: 10px;\n  }\n  \n  .feature-text {\n    color: #333;\n    font-size: 14px;\n    font-weight: 500;\n    margin: 0;\n    line-height: 1.2;\n    text-align: center !important; \n  }\n  \n  @media (max-width: 600px) {\n    .feature-block {\n      min-width: 100px;\n      padding: 10px 5px;\n    }\n    \n    .feature-text {\n      font-size: 12px;\n    }\n    \n    .feature-icon {\n      width: 20px;\n      height: 20px;\n    }\n  }\n</style>"
+          }
+        },
         "liquid_7wQpnX": {
           "type": "liquid",
           "settings": {
             "liquid": ""
-          }
-        },
-        "image_Py3dbr": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/lnvqdlnjqvdjn.png",
-            "alignment": "center",
-            "max_width": 500
           }
         },
         "separator_Bd4pkp": {
@@ -629,102 +392,59 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#ce2d2d",
+            "atc_button_background": "#4e0858",
             "atc_button_text_color": "#fff8f8",
             "payment_button_background": "",
             "payment_button_text_color": ""
-          }
-        },
-        "image_NpAhFF": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2026-01-14_a_17.02.15.png",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "image_rB4Jye": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/lhdq.png",
-            "alignment": "center",
-            "max_width": 490
-          }
-        },
-        "liquid_GifXRY": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n.shipping-info-banner {\n  background-color: #6c292c;\n  padding: 10px 10px;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  font-family: Arial, sans-serif;\n  border-radius: 5px;\n  gap: 10px;\n}\n.truck-icon {\n  margin-right: 10px;\n}\n.shipping-text {\n  color: #ffffff;\n  font-size: 14px;\n  margin: 0;\n}\n</style>\n\n<script>\ndocument.addEventListener('DOMContentLoaded', function() {\n  fetch('https://ipapi.co/json/')\n    .then(response => response.json())\n    .then(data => {\n      const userCountry = data.country_code;\n      let shippingInfo = '';\n\n      if (userCountry === \"GB\") {\n        shippingInfo = \"Envoi depuis la France - Reception en 2-5 Jourss\";\n      } else if (userCountry === \"US\") {\n        shippingInfo = \"Envoi depuis la France - Reception en 2-5 Jours\";\n      } else if (userCountry === \"AU\") {\n        shippingInfo = \"Ships from Sydney - Delivery in 3-5 Days\";\n      } else if ([\"AT\", \"BE\", \"BG\",\"HR\",\"CY\",\"CZ\",\"DK\",\"EE\",\"FI\",\"FR\",\"DE\",\"GR\",\"HU\",\"IE\",\"IT\",\"LV\",\"LT\",\"LU\",\"MT\",\"NL\",\"PL\",\"PT\",\"RO\",\"SK\",\"SI\",\"ES\",\"SE\"].includes(userCountry)) {\n        shippingInfo = \"Envoi depuis la France - Reception en 2-5 Jours\";\n      } else {\n        shippingInfo = \"Envoi depuis la France - Reception en 2-5 Jours\";\n      }\n\n      document.getElementById('shipping-info').innerHTML = `\n        <div class=\"shipping-info-banner\">\n<svg width=\"25\" height=\"25\" viewBox=\"0 0 25 25\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15.125 7.25H20.375C21.3032 7.25 22.1934 7.61875 22.8498 8.27518C23.5063 8.93143 23.875 9.82179 23.875 10.75V17.75H15.125\" fill=\"black\" fill-opacity=\"0.34902\"/>\n<path d=\"M1.125 17.75H15.125V5.5C15.125 5.03589 14.9407 4.59071 14.6125 4.2625C14.2843 3.93429 13.8391 3.75 13.375 3.75H2.875C2.41089 3.75 1.96571 3.93446 1.6375 4.2625C1.30929 4.59071 1.125 5.03589 1.125 5.5V17.75Z\" fill=\"black\" fill-opacity=\"0.34902\"/>\n<path d=\"M6.375 21.25C4.68357 21.25 3.3125 19.8789 3.3125 18.1875C3.3125 16.4961 4.68357 15.125 6.375 15.125C8.06643 15.125 9.4375 16.4961 9.4375 18.1875C9.4375 19.8789 8.06643 21.25 6.375 21.25Z\" fill=\"white\"/>\n<path d=\"M15.125 7.25H20.375C21.3032 7.25 22.1934 7.61875 22.8498 8.27518C23.5063 8.93143 23.875 9.82179 23.875 10.75V17.75H21.25\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M2.875 17.75H1.125V5.5C1.125 5.03589 1.30946 4.59071 1.6375 4.2625C1.96571 3.93429 2.41089 3.75 2.875 3.75H13.375C13.8391 3.75 14.2843 3.93446 14.6125 4.2625C14.9407 4.59071 15.125 5.03589 15.125 5.5V17.75\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.25 17.75H9.875\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M6.375 21.25C4.68357 21.25 3.3125 19.8789 3.3125 18.1875C3.3125 16.4961 4.68357 15.125 6.375 15.125C8.06643 15.125 9.4375 16.4961 9.4375 18.1875C9.4375 19.8789 8.06643 21.25 6.375 21.25Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M18.1875 21.25C16.4961 21.25 15.125 19.8789 15.125 18.1875C15.125 16.4961 16.4961 15.125 18.1875 15.125C19.8789 15.125 21.25 16.4961 21.25 18.1875C21.25 19.8789 19.8789 21.25 18.1875 21.25Z\" fill=\"white\"/>\n<path d=\"M18.1875 21.25C16.4961 21.25 15.125 19.8789 15.125 18.1875C15.125 16.4961 16.4961 15.125 18.1875 15.125C19.8789 15.125 21.25 16.4961 21.25 18.1875C21.25 19.8789 19.8789 21.25 18.1875 21.25Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n\n\n          <p class=\"shipping-text\">${shippingInfo}</p>\n        </div>\n      `;\n    })\n    .catch(error => {\n      console.error('Error fetching geolocation data:', error);\n      document.getElementById('shipping-info').innerHTML = `\n        <div class=\"shipping-info-banner\">\n<svg width=\"25\" height=\"25\" viewBox=\"0 0 25 25\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15.125 7.25H20.375C21.3032 7.25 22.1934 7.61875 22.8498 8.27518C23.5063 8.93143 23.875 9.82179 23.875 10.75V17.75H15.125\" fill=\"black\" fill-opacity=\"0.34902\"/>\n<path d=\"M1.125 17.75H15.125V5.5C15.125 5.03589 14.9407 4.59071 14.6125 4.2625C14.2843 3.93429 13.8391 3.75 13.375 3.75H2.875C2.41089 3.75 1.96571 3.93446 1.6375 4.2625C1.30929 4.59071 1.125 5.03589 1.125 5.5V17.75Z\" fill=\"black\" fill-opacity=\"0.34902\"/>\n<path d=\"M6.375 21.25C4.68357 21.25 3.3125 19.8789 3.3125 18.1875C3.3125 16.4961 4.68357 15.125 6.375 15.125C8.06643 15.125 9.4375 16.4961 9.4375 18.1875C9.4375 19.8789 8.06643 21.25 6.375 21.25Z\" fill=\"white\"/>\n<path d=\"M15.125 7.25H20.375C21.3032 7.25 22.1934 7.61875 22.8498 8.27518C23.5063 8.93143 23.875 9.82179 23.875 10.75V17.75H21.25\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M2.875 17.75H1.125V5.5C1.125 5.03589 1.30946 4.59071 1.6375 4.2625C1.96571 3.93429 2.41089 3.75 2.875 3.75H13.375C13.8391 3.75 14.2843 3.93446 14.6125 4.2625C14.9407 4.59071 15.125 5.03589 15.125 5.5V17.75\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.25 17.75H9.875\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M6.375 21.25C4.68357 21.25 3.3125 19.8789 3.3125 18.1875C3.3125 16.4961 4.68357 15.125 6.375 15.125C8.06643 15.125 9.4375 16.4961 9.4375 18.1875C9.4375 19.8789 8.06643 21.25 6.375 21.25Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M18.1875 21.25C16.4961 21.25 15.125 19.8789 15.125 18.1875C15.125 16.4961 16.4961 15.125 18.1875 15.125C19.8789 15.125 21.25 16.4961 21.25 18.1875C21.25 19.8789 19.8789 21.25 18.1875 21.25Z\" fill=\"white\"/>\n<path d=\"M18.1875 21.25C16.4961 21.25 15.125 19.8789 15.125 18.1875C15.125 16.4961 16.4961 15.125 18.1875 15.125C19.8789 15.125 21.25 16.4961 21.25 18.1875C21.25 19.8789 19.8789 21.25 18.1875 21.25Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n\n          <p class=\"shipping-text\">Délais de livraison - Reception en 2-5 Jours</p>\n        </div>\n      `;\n    });\n});\n</script>\n\n<div id=\"shipping-info\">\n  <!-- The shipping info will be dynamically updated here -->\n  <div class=\"shipping-info-banner\">\n<svg width=\"25\" height=\"25\" viewBox=\"0 0 25 25\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15.125 7.25H20.375C21.3032 7.25 22.1934 7.61875 22.8498 8.27518C23.5063 8.93143 23.875 9.82179 23.875 10.75V17.75H15.125\" fill=\"black\" fill-opacity=\"0.34902\"/>\n<path d=\"M1.125 17.75H15.125V5.5C15.125 5.03589 14.9407 4.59071 14.6125 4.2625C14.2843 3.93429 13.8391 3.75 13.375 3.75H2.875C2.41089 3.75 1.96571 3.93446 1.6375 4.2625C1.30929 4.59071 1.125 5.03589 1.125 5.5V17.75Z\" fill=\"black\" fill-opacity=\"0.34902\"/>\n<path d=\"M6.375 21.25C4.68357 21.25 3.3125 19.8789 3.3125 18.1875C3.3125 16.4961 4.68357 15.125 6.375 15.125C8.06643 15.125 9.4375 16.4961 9.4375 18.1875C9.4375 19.8789 8.06643 21.25 6.375 21.25Z\" fill=\"white\"/>\n<path d=\"M15.125 7.25H20.375C21.3032 7.25 22.1934 7.61875 22.8498 8.27518C23.5063 8.93143 23.875 9.82179 23.875 10.75V17.75H21.25\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M2.875 17.75H1.125V5.5C1.125 5.03589 1.30946 4.59071 1.6375 4.2625C1.96571 3.93429 2.41089 3.75 2.875 3.75H13.375C13.8391 3.75 14.2843 3.93446 14.6125 4.2625C14.9407 4.59071 15.125 5.03589 15.125 5.5V17.75\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M14.25 17.75H9.875\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M6.375 21.25C4.68357 21.25 3.3125 19.8789 3.3125 18.1875C3.3125 16.4961 4.68357 15.125 6.375 15.125C8.06643 15.125 9.4375 16.4961 9.4375 18.1875C9.4375 19.8789 8.06643 21.25 6.375 21.25Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M18.1875 21.25C16.4961 21.25 15.125 19.8789 15.125 18.1875C15.125 16.4961 16.4961 15.125 18.1875 15.125C19.8789 15.125 21.25 16.4961 21.25 18.1875C21.25 19.8789 19.8789 21.25 18.1875 21.25Z\" fill=\"white\"/>\n<path d=\"M18.1875 21.25C16.4961 21.25 15.125 19.8789 15.125 18.1875C15.125 16.4961 16.4961 15.125 18.1875 15.125C19.8789 15.125 21.25 16.4961 21.25 18.1875C21.25 19.8789 19.8789 21.25 18.1875 21.25Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n\n\n    <p class=\"shipping-text\"></p>\n  </div>\n</div>\n\n\n\n\n<div class=\"product-features-wrapper\">\n  <div class=\"product-features\">\n    <div class=\"feature-block\">\n<svg width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"margin-bottom: 10px;\">\n<path d=\"M11.5546 20.9085C11.1977 21.0463 10.8023 21.0463 10.4454 20.9085C7.6644 19.8404 5.27274 17.9539 3.58634 15.4982C1.89994 13.0424 0.998126 10.1328 1 7.15373V2.53882C1 2.1307 1.16213 1.73929 1.45071 1.45071C1.7393 1.16213 2.1307 1 2.53882 1H19.4627C19.8706 1.00041 20.2616 1.16272 20.5498 1.45126C20.8381 1.7398 21 2.13097 21 2.53882V7.15373C21.002 10.133 20.1 13.0428 18.4133 15.4987C16.7266 17.9545 14.336 19.8409 11.5546 20.9085Z\" fill=\"black\" fill-opacity=\"0.34902\"/>\n<path d=\"M11.5546 20.9085C11.1977 21.0463 10.8023 21.0463 10.4454 20.9085C7.6644 19.8404 5.27274 17.9539 3.58634 15.4982C1.89994 13.0424 0.998126 10.1328 1 7.15373V2.53882C1 2.1307 1.16213 1.73929 1.45071 1.45071C1.7393 1.16213 2.1307 1 2.53882 1H19.4627C19.8706 1.00041 20.2616 1.16272 20.5498 1.45126C20.8381 1.7398 21 2.13097 21 2.53882V7.15373C21.002 10.133 20.1 13.0428 18.4133 15.4987C16.7266 17.9545 14.336 19.8409 11.5546 20.9085Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M15.6589 6.35181L9.45402 13.3323L6.35156 11.0055\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n\n\n\n      <p class=\"feature-text\" style=\"text-align:center!important\">Garantie 30 Jours</p>\n    </div>\n    \n    <div class=\"feature-block\">\n<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"margin-bottom: 10px;\">\n<g clip-path=\"url(#clip0_98_9)\">\n<path d=\"M4.11578 15.8473L0.714355 16.7573L3.86293 11.303L7.76007 14.5158L5.02864 19.2473L4.11578 15.8458V15.8473Z\" fill=\"white\"/>\n<path d=\"M15.8831 15.8473L19.2859 16.7587L16.1374 11.3044L12.2402 14.5173L14.9717 19.2487L15.8831 15.8473Z\" fill=\"white\"/>\n<path d=\"M16.1574 11.3386L19.286 16.7586L15.8831 15.8472L14.9717 19.2486L12.2603 14.5501\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M17.076 7.83146C17.076 9.7092 16.3301 11.51 15.0023 12.8378C13.6746 14.1655 11.8737 14.9115 9.99602 14.9115C8.11828 14.9115 6.31746 14.1655 4.9897 12.8378C3.66194 11.51 2.91602 9.7092 2.91602 7.83146C2.91602 5.95373 3.66194 4.15291 4.9897 2.82515C6.31746 1.49739 8.11828 0.751465 9.99602 0.751465C11.8737 0.751465 13.6746 1.49739 15.0023 2.82515C16.3301 4.15291 17.076 5.95373 17.076 7.83146Z\" fill=\"black\" fill-opacity=\"0.34902\"/>\n<path d=\"M17.076 7.83146C17.076 9.7092 16.3301 11.51 15.0023 12.8378C13.6746 14.1655 11.8737 14.9115 9.99602 14.9115C8.11828 14.9115 6.31746 14.1655 4.9897 12.8378C3.66194 11.51 2.91602 9.7092 2.91602 7.83146C2.91602 5.95373 3.66194 4.15291 4.9897 2.82515C6.31746 1.49739 8.11828 0.751465 9.99602 0.751465C11.8737 0.751465 13.6746 1.49739 15.0023 2.82515C16.3301 4.15291 17.076 5.95373 17.076 7.83146Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M10.2859 3.98718L11.2616 5.95004C11.2833 5.99956 11.3177 6.04244 11.3614 6.07431C11.4051 6.10619 11.4564 6.12591 11.5102 6.13147L13.6773 6.46004C13.7393 6.46797 13.7978 6.49343 13.8459 6.53343C13.8939 6.57342 13.9296 6.6263 13.9486 6.68585C13.9677 6.7454 13.9693 6.80915 13.9534 6.86961C13.9375 6.93007 13.9047 6.98473 13.8588 7.02719L12.2573 8.54576C12.2333 8.59134 12.2208 8.64209 12.2208 8.69361C12.2208 8.74514 12.2333 8.79589 12.2573 8.84147L12.5645 10.9958C12.5778 11.0582 12.5727 11.1231 12.5497 11.1827C12.5267 11.2423 12.4868 11.2938 12.435 11.3311C12.3832 11.3684 12.3216 11.3897 12.2578 11.3926C12.1941 11.3955 12.1308 11.3797 12.0759 11.3472L10.1473 10.3272C10.0975 10.3047 10.0434 10.2931 9.98875 10.2931C9.93408 10.2931 9.88003 10.3047 9.83018 10.3272L7.90161 11.3472C7.84672 11.3788 7.78385 11.3939 7.72058 11.3906C7.65732 11.3873 7.59635 11.3658 7.54502 11.3287C7.4937 11.2915 7.4542 11.2403 7.43129 11.1813C7.40838 11.1222 7.40304 11.0578 7.4159 10.9958L7.77876 8.84147C7.79449 8.79131 7.7975 8.73802 7.78753 8.6864C7.77755 8.63478 7.7549 8.58645 7.72161 8.54576L6.12161 7.01576C6.07865 6.97279 6.04845 6.91876 6.03435 6.85966C6.02026 6.80055 6.02283 6.7387 6.04178 6.68097C6.06072 6.62325 6.0953 6.5719 6.14168 6.53265C6.18805 6.49339 6.2444 6.46777 6.30447 6.45861L8.47161 6.1429C8.52539 6.13734 8.57672 6.11761 8.62039 6.08574C8.66406 6.05387 8.69849 6.01099 8.72018 5.96147L9.6959 4.00004C9.72187 3.94433 9.76295 3.89702 9.81447 3.86349C9.86599 3.82996 9.92588 3.81155 9.98733 3.81036C10.0488 3.80917 10.1094 3.82525 10.1621 3.85676C10.2149 3.88827 10.2578 3.93395 10.2859 3.98861V3.98718Z\" fill=\"white\"/>\n<path d=\"M10.2859 3.98718L11.2616 5.95004C11.2833 5.99956 11.3177 6.04244 11.3614 6.07431C11.4051 6.10619 11.4564 6.12591 11.5102 6.13147L13.6773 6.46004C13.7393 6.46797 13.7978 6.49343 13.8459 6.53343C13.8939 6.57342 13.9296 6.6263 13.9486 6.68585C13.9677 6.7454 13.9693 6.80915 13.9534 6.86961C13.9375 6.93007 13.9047 6.98473 13.8588 7.02719L12.2573 8.54576C12.2333 8.59134 12.2208 8.64209 12.2208 8.69361C12.2208 8.74514 12.2333 8.79589 12.2573 8.84147L12.5645 10.9958C12.5778 11.0582 12.5727 11.1231 12.5497 11.1827C12.5267 11.2423 12.4868 11.2938 12.435 11.3311C12.3832 11.3684 12.3216 11.3897 12.2578 11.3926C12.1941 11.3955 12.1308 11.3797 12.0759 11.3472L10.1473 10.3272C10.0975 10.3047 10.0434 10.2931 9.98875 10.2931C9.93408 10.2931 9.88003 10.3047 9.83018 10.3272L7.90161 11.3472C7.84672 11.3788 7.78385 11.3939 7.72058 11.3906C7.65732 11.3873 7.59635 11.3658 7.54502 11.3287C7.4937 11.2915 7.4542 11.2403 7.43129 11.1813C7.40838 11.1222 7.40304 11.0578 7.4159 10.9958L7.77876 8.84147C7.79449 8.79131 7.7975 8.73802 7.78753 8.6864C7.77755 8.63478 7.7549 8.58645 7.72161 8.54576L6.12161 7.01576C6.07865 6.97279 6.04845 6.91876 6.03435 6.85966C6.02026 6.80055 6.02283 6.7387 6.04178 6.68097C6.06072 6.62325 6.0953 6.5719 6.14168 6.53265C6.18805 6.49339 6.2444 6.46777 6.30447 6.45861L8.47161 6.1429C8.52539 6.13734 8.57672 6.11761 8.62039 6.08574C8.66406 6.05387 8.69849 6.01099 8.72018 5.96147L9.6959 4.00004C9.72187 3.94433 9.76295 3.89702 9.81447 3.86349C9.86599 3.82996 9.92588 3.81155 9.98733 3.81036C10.0488 3.80917 10.1094 3.82525 10.1621 3.85676C10.2149 3.88827 10.2578 3.93395 10.2859 3.98861V3.98718Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M3.84578 11.3342L0.714355 16.7571L4.11578 15.8457L5.02864 19.2485L7.74293 14.5457\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_98_9\">\n<rect width=\"20\" height=\"20\" fill=\"white\"/>\n</clipPath>\n</defs>\n</svg>\n\n\n\n      <p class=\"feature-text\" style=\"text-align:center!important\">Haute Couture<br></p>\n    </div>\n    \n    <div class=\"feature-block\">\n<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"margin-bottom: 10px;\">\n<g clip-path=\"url(#clip0_98_2)\">\n<path d=\"M10.5141 19.1901C10.1831 19.3178 9.81644 19.3178 9.48548 19.1901C6.90491 18.1987 4.68571 16.448 3.12094 14.1691C1.55616 11.8902 0.719416 9.19021 0.721194 6.42578V2.1415C0.721573 1.76287 0.87225 1.39987 1.14012 1.13227C1.40799 0.864669 1.77113 0.714355 2.14977 0.714355H17.8541C18.2329 0.714355 18.5963 0.864865 18.8642 1.13277C19.1321 1.40068 19.2826 1.76405 19.2826 2.14293V6.42578C19.2842 9.19054 18.447 11.8907 16.8817 14.1697C15.3164 16.4487 13.0952 18.1992 10.5141 19.1901Z\" fill=\"black\" fill-opacity=\"0.34902\"/>\n<path d=\"M4.36965 6.49997L5.54965 6.09711C5.64694 6.0575 5.75588 6.0576 5.8531 6.0974C5.95032 6.13719 6.02806 6.21351 6.06965 6.30997L6.93108 7.64426L11.6539 5.28283C12.0212 5.07233 12.4296 4.94362 12.8512 4.9055C13.2727 4.86738 13.6976 4.92074 14.0966 5.06195C14.4957 5.20315 14.8595 5.42886 15.1633 5.72365C15.4671 6.01843 15.7037 6.37534 15.8568 6.76997C15.8881 6.8708 15.8992 6.97683 15.8894 7.08195C15.8797 7.18708 15.8492 7.28924 15.7998 7.38257C15.7504 7.47589 15.6831 7.55853 15.6017 7.62575C15.5203 7.69297 15.4264 7.74344 15.3254 7.77426L12.5568 8.58569L12.2497 8.67997L11.1868 11.7914C11.1684 11.8605 11.1328 11.9239 11.0834 11.9756C11.0339 12.0273 10.9722 12.0657 10.9039 12.0871L9.19822 12.7143C9.12601 12.7382 9.0488 12.7429 8.97422 12.7278C8.89965 12.7128 8.83029 12.6785 8.77301 12.6284C8.71573 12.5784 8.67251 12.5142 8.64762 12.4423C8.62272 12.3705 8.61702 12.2933 8.63108 12.2185L9.39822 9.69711L9.19822 9.75569L6.18679 10.7357C5.98955 10.8034 5.77356 10.7905 5.58577 10.6998C5.39799 10.6091 5.25358 10.448 5.18394 10.2514L4.12108 6.9814C4.09409 6.88421 4.10468 6.78042 4.15074 6.69069C4.1968 6.60095 4.27495 6.53184 4.36965 6.49711V6.49997Z\" fill=\"white\"/>\n<path d=\"M10.5141 19.1901C10.1831 19.3178 9.81644 19.3178 9.48548 19.1901C6.90491 18.1987 4.68571 16.448 3.12094 14.1691C1.55616 11.8902 0.719416 9.19021 0.721194 6.42578V2.1415C0.721573 1.76287 0.87225 1.39987 1.14012 1.13227C1.40799 0.864669 1.77113 0.714355 2.14977 0.714355H17.8541C18.2329 0.714355 18.5963 0.864865 18.8642 1.13277C19.1321 1.40068 19.2826 1.76405 19.2826 2.14293V6.42578C19.2842 9.19054 18.447 11.8907 16.8817 14.1697C15.3164 16.4487 13.0952 18.1992 10.5141 19.1901Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<path d=\"M4.36965 6.49997L5.54965 6.09711C5.64694 6.0575 5.75588 6.0576 5.8531 6.0974C5.95032 6.13719 6.02806 6.21351 6.06965 6.30997L6.93108 7.64426L11.6539 5.28283C12.0212 5.07233 12.4296 4.94362 12.8512 4.9055C13.2727 4.86738 13.6976 4.92074 14.0966 5.06195C14.4957 5.20315 14.8595 5.42886 15.1633 5.72365C15.4671 6.01843 15.7037 6.37534 15.8568 6.76997C15.8881 6.8708 15.8992 6.97683 15.8894 7.08195C15.8797 7.18708 15.8492 7.28924 15.7998 7.38257C15.7504 7.47589 15.6831 7.55853 15.6017 7.62575C15.5203 7.69297 15.4264 7.74344 15.3254 7.77426L12.5568 8.58569L12.2497 8.67997L11.1868 11.7914C11.1684 11.8605 11.1328 11.9239 11.0834 11.9756C11.0339 12.0273 10.9722 12.0657 10.9039 12.0871L9.19822 12.7143C9.12601 12.7382 9.0488 12.7429 8.97422 12.7278C8.89965 12.7128 8.83029 12.6785 8.77301 12.6284C8.71573 12.5784 8.67251 12.5142 8.64762 12.4423C8.62272 12.3705 8.61702 12.2933 8.63108 12.2185L9.39822 9.69711L9.19822 9.75569L6.18822 10.7357C5.9908 10.8038 5.77444 10.7911 5.58632 10.7004C5.39821 10.6097 5.25357 10.4483 5.18394 10.2514L4.12108 6.9814C4.09409 6.88421 4.10468 6.78042 4.15074 6.69069C4.1968 6.60095 4.27495 6.53184 4.36965 6.49711V6.49997Z\" stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_98_2\">\n<rect width=\"20\" height=\"20\" fill=\"white\"/>\n</clipPath>\n</defs>\n</svg>\n\n\n      <p class=\"feature-text\" style=\"text-align:center!important\">Envoi<br>depuis l'UE</p>\n    </div>\n  </div>\n</div>\n\n<style>\n  .product-features-wrapper {\n    overflow-x: auto;\n    padding: 10px 0;\n  }\n\n  .product-features {\n    display: flex;\n    justify-content: space-between;\n    gap: 10px;\n    min-width: min-content;\n  }\n  \n  .feature-block {\n    flex: 1;\n    min-width: 120px;\n  background-color: #6c292c;\n    border-radius: 10px;\n    padding: 15px 10px;\n    text-align: center;\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n  }\n  \n  .feature-icon {\n    margin-bottom: 10px;\n  }\n  \n  .feature-text {\n    color: #ffffff;\n    font-size: 14px;\n    font-weight: 500;\n    margin: 0;\n    line-height: 1.2;\n    text-align: center !important; \n  }\n  \n  @media (max-width: 600px) {\n    .feature-block {\n      min-width: 100px;\n      padding: 10px 5px;\n    }\n    \n    .feature-text {\n      font-size: 12px;\n    }\n    \n    .feature-icon {\n      width: 20px;\n      height: 20px;\n    }\n  }\n</style>"
-          }
-        },
-        "image_DTkahG": {
-          "type": "image",
-          "settings": {
-            "alignment": "start",
-            "max_width": 150
-          }
-        },
-        "collapsible_text_fBhzjq": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Description",
-            "content": "<p>Notre chemise est conçue à partir d’un <strong>mélange textile innovant</strong> composé de polyester, fibre de bambou et élasthanne.</p><p>Ce mélange assure un <strong>confort optimal</strong>, une <strong>respirabilité maximale</strong>, et une <strong>élasticité inégalée</strong> pendant des années.</p>"
-          }
-        },
-        "collapsible_text_pJYPBx": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Instructions d'utilisation",
-            "content": "<p><strong>Lavage</strong> : En machine, jusqu'à 30°C.</p><p><strong>Couleurs</strong> : Laver avec des vêtements de couleurs similaires.</p><p><strong>Séchage</strong> : À l'air libre sur un étendoir ou au sèche-linge.</p>"
-          }
-        },
-        "collapsible_text_J9FGb3": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Délais de livraisons",
-            "content": "<p><strong>Nous offrons la livraison gratuite sous 2 a 3 semaines en France Métropolitaine, Belgique et Suisse.</strong></p>"
           }
         },
         "collapsible_text_9C3WQy": {
           "type": "collapsible_text",
           "settings": {
             "title": "Détails de garantie de remboursement 30 Jours",
-            "content": "<p>Dans le cas où vous n’êtes pas totalement convaincu par votre achat, <strong>vous avez 30 jours pour nous le retourner.</strong></p><p> Le remboursement est intégral, le processus est simple, et notre équipe reste à votre écoute à chaque étape.<br/><br/>Pour toute demande, Contactez-nous a l'adresse :<br/><strong>support@sovrano.fr</strong></p>"
+            "content": "<p><strong>Votre satisfaction est notre priorité</strong>. Si vous n’êtes pas totalement convaincu par votre achat, <strong>vous avez 30 jours pour nous le retourner – SANS JUSTIFICATION</strong>.</p><p> Le remboursement est intégral, le processus est simple, et notre équipe reste à votre écoute à chaque étape.<br/><br/>Pour toute demande, Contactez-nous a l'adresse :<br/><strong>contact@kynor.fr</strong></p>"
+          }
+        },
+        "collapsible_text_J9FGb3": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Délais de livraisons",
+            "content": "<p><strong>Nous offrons la livraison gratuite sous 3 à 5 jours ouvrés en France Métropolitaine et Belgique.</strong></p>"
+          }
+        },
+        "collapsible_text_fBhzjq": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Description",
+            "content": "<p><strong>Matière :</strong> 80 % nylon, 20 % élasthanne<br/><strong>Couleurs disponibles :</strong> Noir, Blanc, Gris<br/><strong>Type :</strong> Gilet de musculation gainant et énergisant</p><ul><li>Se sentir énergique et confiant</li><li>Favorise la perte de poids</li><li>Réduit la gynécomastie</li></ul>"
           }
         }
       },
       "block_order": [
-        "liquid_K9gqEz",
         "liquid_tbErjJ",
         "liquid_wgLzYt",
         "title",
-        "image_qjiRck",
-        "liquid_f4PUeC",
-        "liquid_4EM9dh",
-        "image_c6VGqb",
+        "image_peGFQJ",
+        "liquid_pXy6AW",
+        "liquid_wxmjUB",
         "image_e7RPeA",
         "liquid_inMHhX",
-        "liquid_nK6xRh",
         "kaching_bundles_app_block_V7TmiP",
+        "liquid_ziD8p8",
+        "image_M6BrMy",
         "image_hCaMca",
         "liquid_hfWtXk",
+        "liquid_6yDek7",
         "liquid_7wQpnX",
-        "image_Py3dbr",
         "separator_Bd4pkp",
         "buy_buttons_76Tegr",
-        "image_NpAhFF",
-        "image_rB4Jye",
-        "liquid_GifXRY",
-        "image_DTkahG",
-        "collapsible_text_fBhzjq",
-        "collapsible_text_pJYPBx",
+        "collapsible_text_9C3WQy",
         "collapsible_text_J9FGb3",
-        "collapsible_text_9C3WQy"
+        "collapsible_text_fBhzjq"
       ],
       "settings": {
         "full_width": false,
-        "product": "chemise-infroissable-a-coupe-ajustee",
+        "product": "premium-vibration-alarm-pro",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -740,22 +460,6 @@
         "input_text_color": ""
       }
     },
-    "1763244607b26be914": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
-    },
     "custom_liquid_HyfXhU": {
       "type": "custom-liquid",
       "disabled": true,
@@ -763,8 +467,34 @@
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": true,
-        "liquid": "<style>\n  .trustpilot-reviews-section {\n    display: flex;\n    justify-content: space-between;\n    padding: 20px;\n    background-color: #ffffff;\n    border-radius: 8px;\n    position: relative;\n  }\n\n  .trustpilot-summary {\n    flex-basis: 20%;\n    text-align: left;\n  }\n\n  .trustpilot-summary h2 {\n    font-size: 24px;\n    font-weight: bold;\n    margin-bottom: 10px;\n  }\n\n  .trustpilot-stars img {\n    width: 100px;\n    margin-bottom: 10px;\n  }\n\n  .trustpilot-logo {\n    width: 50px; /* Taille réduite */\n    margin-top: 10px;\n  }\n\n  .review-carousel {\n    display: flex;\n    flex-basis: 75%;\n    overflow: hidden;\n    position: relative;\n  }\n\n  .review-card {\n    width: 270px;\n    padding: 15px;\n    margin-right: 15px;\n    background-color: #f0f2f6;\n    border: 1px solid #eaeaea;\n    border-radius: 8px;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n    transition: transform 0.3s ease;\n    flex-shrink: 0;\n  }\n\n  .review-card:hover {\n    transform: scale(1.05);\n  }\n\n  .review-card img {\n    width: 70px;\n  }\n\n  .review-card p {\n    margin: 5px 0;\n    font-size: 14px;\n  }\n\n  .review-card strong {\n    font-weight: bold;\n  }\n\n  .nav-arrow {\n    position: absolute;\n    top: 50%;\n    transform: translateY(-50%);\n    background-color: #f6f1e6;\n    border: 2px solid #ddd;\n    border-radius: 50%;\n    width: 40px;\n    height: 40px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    cursor: pointer;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n  }\n\n  .nav-arrow:hover {\n    background-color: #f6f1e6;\n    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);\n  }\n\n  .arrow-left {\n    left: -20px; \n  }\n\n  .arrow-right {\n    right: -20px; \n  }\n\n  .nav-arrow::before {\n    content: '';\n    display: block;\n    border: solid #333;\n    border-width: 0 3px 3px 0;\n    padding: 5px;\n  }\n\n  .arrow-left::before {\n    transform: rotate(135deg);\n  }\n\n  .arrow-right::before {\n    transform: rotate(-45deg);\n  }\n\n  @media (max-width: 768px) {\n    .trustpilot-reviews-section {\n      flex-direction: column;\n      padding: 10px;\n    }\n\n    .trustpilot-summary {\n      flex-basis: 100%;\n      text-align: center; \n      margin-bottom: 20px;\n    }\n\n    .trustpilot-stars img {\n      width: 80px;\n      margin: 0 auto;\n    }\n\n    .trustpilot-logo {\n      width: 80px;\n      margin: 0 auto;\n    }\n\n    .review-carousel {\n      flex-basis: 100%;\n      overflow-x: auto;\n      padding-bottom: 10px;\n    }\n\n    .review-card {\n      min-width: 85%;\n      margin-right: 10px;\n    }\n\n    .nav-arrow {\n      display: none;\n    }\n  }\n</style>\n\n<div class=\"trustpilot-reviews-section\">\n  <div class=\"trustpilot-summary\">\n    <h2>Excellent !</h2>\n    <div class=\"trustpilot-stars\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n    </div>\n    <p>Basé sur plus de 15,939 avis</p>\n    <img class=\"trustpilot-logo\" src=\"https://companieslogo.com/img/orig/TRST.L_BIG-743be58a.png?t=1720244494\">\n  </div>\n\n  <div class=\"review-carousel\" id=\"review-carousel\">\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p>Pour les casanières comme moi 💕</p>\n      <p>Un vrai gain de confort à la maison, en hiver il fait froid et il y a pas mieux que mettre cette couette et boire son chocolat chaud au calme, Zéro regret !</p>\n      <p><strong>Chloé C. – Paris 12, France</strong> - 23/01/2025</p>\n    </div>\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p>Livraison rapide, excellente qualité</p>\n      <p>La commande a été livrée très rapidement et la qualité de La couette câline est vraiment top. Une mention spéciale pour le packaging super bien fait.</p>\n      <p><strong>Amandine C. – Lyon</strong> - 23/08/2024</p>\n    </div>\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p>Fait par des français pour des français</p>\n      <p>Chapeau ! Je comprends maintenant pourquoi elle fait autant parler d’elle. Bravo pour cette couette, elle mérite clairement son succès en France.</p>\n      <p><strong>Mathilde B., Neuilly-sur-Seine</strong> - 13/02/2025</p>\n    </div>\n  </div>\n\n  <button class=\"nav-arrow arrow-left\" onclick=\"scrollReviews(-1)\"></button>\n  <button class=\"nav-arrow arrow-right\" onclick=\"scrollReviews(1)\"></button>\n</div>\n\n<script>\n  const reviewCarousel = document.getElementById('review-carousel');\n\n  function scrollReviews(direction) {\n    const scrollAmount = 320;\n    reviewCarousel.scrollBy({ left: direction * scrollAmount, behavior: 'smooth' });\n  }\n\n  // Auto-scroll toutes les 3 secondes\n  let autoScrollInterval = setInterval(() => {\n    scrollReviews(1);\n  }, 90000);\n\n  // Stop auto-scroll quand l'utilisateur interagit\n  document.querySelectorAll('.nav-arrow').forEach(arrow => {\n    arrow.addEventListener('click', () => {\n      clearInterval(autoScrollInterval);\n    });\n  });\n</script>",
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  .trustpilot-reviews-section {\n    display: flex;\n    justify-content: space-between;\n    padding: 20px;\n    background-color: #fff0de;\n    border-radius: 8px;\n    position: relative;\n  }\n\n  .trustpilot-summary {\n    flex-basis: 20%;\n    text-align: left;\n  }\n\n  .trustpilot-summary h2 {\n    font-size: 24px;\n    font-weight: bold;\n    margin-bottom: 10px;\n  }\n\n  .trustpilot-stars img {\n    width: 100px;\n    margin-bottom: 10px;\n  }\n\n  .trustpilot-logo {\n    width: 50px; /* Taille réduite */\n    margin-top: 10px;\n  }\n\n  .review-carousel {\n    display: flex;\n    flex-basis: 75%;\n    overflow: hidden;\n    position: relative;\n  }\n\n  .review-card {\n    width: 270px;\n    padding: 15px;\n    margin-right: 15px;\n    background-color: #fbeedb;\n    border: 1px solid #eaeaea;\n    border-radius: 8px;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n    transition: transform 0.3s ease;\n    flex-shrink: 0;\n  }\n\n  .review-card:hover {\n    transform: scale(1.05);\n  }\n\n  .review-card img {\n    width: 70px;\n  }\n\n  .review-card p {\n    margin: 5px 0;\n    font-size: 14px;\n  }\n\n  .review-card strong {\n    font-weight: bold;\n  }\n\n  .nav-arrow {\n    position: absolute;\n    top: 50%;\n    transform: translateY(-50%);\n    background-color: #f6f1e6;\n    border: 2px solid #ddd;\n    border-radius: 50%;\n    width: 40px;\n    height: 40px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    cursor: pointer;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n  }\n\n  .nav-arrow:hover {\n    background-color: #f6f1e6;\n    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);\n  }\n\n  .arrow-left {\n    left: -20px; \n  }\n\n  .arrow-right {\n    right: -20px; \n  }\n\n  .nav-arrow::before {\n    content: '';\n    display: block;\n    border: solid #333;\n    border-width: 0 3px 3px 0;\n    padding: 5px;\n  }\n\n  .arrow-left::before {\n    transform: rotate(135deg);\n  }\n\n  .arrow-right::before {\n    transform: rotate(-45deg);\n  }\n\n  @media (max-width: 768px) {\n    .trustpilot-reviews-section {\n      flex-direction: column;\n      padding: 10px;\n    }\n\n    .trustpilot-summary {\n      flex-basis: 100%;\n      text-align: center; \n      margin-bottom: 20px;\n    }\n\n    .trustpilot-stars img {\n      width: 80px;\n      margin: 0 auto;\n    }\n\n    .trustpilot-logo {\n      width: 80px;\n      margin: 0 auto;\n    }\n\n    .review-carousel {\n      flex-basis: 100%;\n      overflow-x: auto;\n      padding-bottom: 10px;\n    }\n\n    .review-card {\n      min-width: 85%;\n      margin-right: 10px;\n    }\n\n    .nav-arrow {\n      display: none;\n    }\n  }\n</style>\n\n<div class=\"trustpilot-reviews-section\">\n  <div class=\"trustpilot-summary\">\n    <h2>Excellent !</h2>\n    <div class=\"trustpilot-stars\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n    </div>\n    <p>Basé sur plus de 13,450 avis</p>\n    <img class=\"trustpilot-logo\" src=\"https://companieslogo.com/img/orig/TRST.L_BIG-743be58a.png?t=1720244494\">\n  </div>\n\n  <div class=\"review-carousel\" id=\"review-carousel\">\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p></p>\n      <p>Ça fonctionne très bien et je ne l'utilise pratiquement plus juste 2 jours et les aboiements intempestifs c'est fini. Je ne suis absolument pas contre les aboiements mais un de mes chiens regarde la télé et aboie quand il y a des animaux même dans un dessin animé.</p>\n      <p><strong>Pascale C. – Paris, France</strong> - 23/01/2025</p>\n    </div>\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p>Livraison rapide, excellente qualité</p>\n      <p>La commande a été livrée très rapidement et la qualité de l'AlphaBar est vraiment top. Une mention spéciale pour le packaging super bien fait.</p>\n      <p><strong>Amanda R. – Los Angeles, CA</strong> - 23/08/2024</p>\n    </div>\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p>Leur produit est une vraie plus-value</p>\n      <p>Je comprends maintenant pourquoi elle fait autant parler d’elle. Bravo pour cette innovation, elle mérite clairement son succès ici à Miami.</p>\n      <p><strong>Mike S. – Brooklyn, NY</strong> - 13/02/2025</p>\n    </div>\n  </div>\n\n  <button class=\"nav-arrow arrow-left\" onclick=\"scrollReviews(-1)\"></button>\n  <button class=\"nav-arrow arrow-right\" onclick=\"scrollReviews(1)\"></button>\n</div>\n\n<script>\n  const reviewCarousel = document.getElementById('review-carousel');\n\n  function scrollReviews(direction) {\n    const scrollAmount = 320;\n    reviewCarousel.scrollBy({ left: direction * scrollAmount, behavior: 'smooth' });\n  }\n\n  // Auto-scroll toutes les 3 secondes\n  let autoScrollInterval = setInterval(() => {\n    scrollReviews(1);\n  }, 3000);\n\n  // Stop auto-scroll quand l'utilisateur interagit\n  document.querySelectorAll('.nav-arrow').forEach(arrow => {\n    arrow.addEventListener('click', () => {\n      clearInterval(autoScrollInterval);\n    });\n  });\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_aaQdgA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qgW6rW": {
+          "type": "heading",
+          "settings": {
+            "text": "+1000 Hommes inspirants ont été convaincus !",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_qgW6rW"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -820,22 +550,22 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que les chemises Sovrano sont vraiment infroissables ?",
-            "content": "<p>Oui, nos chemises sont conçues avec un tissu infroissable qui garde une tenue impeccable tout au long de la journée.<br/><br/>Cependant, comme pour tout vêtement, il peut arriver que de légers plis apparaissent lors du transport ou du rangement prolongé. Dans ce cas, un simple coup de repassage léger peut suffire à leur redonner toute leur allure.</p>"
+            "title": "Comment fonctionne l'Alpha Suit Pro de chez Kynor ?",
+            "content": "<p>Le débardeur Alpha Suit PRO est confectionné dans un tissu technique enrichi en minéraux naturels qui <strong>dynamisent l'énergie, la confiance en soi et la force</strong>. Activés par la chaleur corporelle, ces minéraux <strong>stimulent le métabolisme, optimisant ainsi la combustion des calories</strong>. Il <strong>favorise la perte de poids tout en améliorant la vitalité et la posture</strong>. Une utilisation régulière permet d'obtenir une silhouette plus fine et plus tonique, et un bien-être général accru.</p>"
           }
         },
         "item_eNKxzp": {
           "type": "item",
           "settings": {
-            "title": "Comment dois-je entretenir mes chemises Sovrano ?",
-            "content": "<p>Pour garder vos chemises en parfait état, lavez-les en machine jusqu'à 60°C avec des couleurs similaires.</p><p>Pour le séchage, vous pouvez utiliser un étendoir ou un sèche-linge.</p>"
+            "title": "Et si la taille ne convient pas une fois reçu ? ",
+            "content": "<p>Pas de problème. Si la taille ne vous convient pas, contactez-nous à l'<strong>adresse support@kynor.com </strong>et nous vous aiderons à procéder à un échange.</p>"
           }
         },
         "item_6fTDYH": {
           "type": "item",
           "settings": {
-            "title": "Quelle taille devrais-je choisir pour un ajustement optimal ?",
-            "content": "<p>Nous recommandons de choisir votre taille habituelle pour un ajustement confortable.</p><p>Si vous préférez une coupe plus ajustée, envisagez de prendre une taille en dessous.</p>"
+            "title": "Puis-je le porter toute la journée ?",
+            "content": "<p>Oui, <strong>absolument </strong>! <br/>Nous vous recommandons de le porter <strong>sous vos vêtements </strong>au quotidien ou <strong>pendant une activité physique</strong>, afin d'optimiser vos résultats.</p>"
           }
         },
         "item_8aMRmN": {
@@ -851,20 +581,6 @@
             "title": "Combien de temps prend l'expédition ?",
             "content": "<p>Nous proposons une expédition rapide, suivie et assurée dans le monde entier de 3 à 5 jours.</p>"
           }
-        },
-        "item_n4WBHx": {
-          "type": "item",
-          "settings": {
-            "title": "Quel est le tissu utilisé pour les chemises Sovrano ?",
-            "content": "<p>Nos chemises sont fabriquées à partir d'un mélange de haute qualité composé de trois fibres complémentaires :</p><p><strong>Polyester (75%)</strong> : <strong>Propriétés infroissables</strong> par mémoire de forme naturelle, <strong>résiste aux plis</strong>, <strong>sèche rapidement</strong> et <strong>conserve sa forme</strong> après lavages.</p><p><strong>Fibres de bambou - Viscose (21%)</strong> : <strong>Propriétés respirantes exceptionnelles</strong> avec micro-ventilation qui <strong>évacue l'humidité</strong>. <strong>Propriétés antibactériennes naturelles</strong> qui <strong>limitent les odeurs</strong> et procurent une <strong>sensation de fraîcheur durable</strong>.</p><p><strong>Spandex (4%)</strong> : <strong>Souplesse</strong> et <strong>extensibilité</strong> pour un <strong>confort optimal</strong>. <strong>Suit parfaitement vos mouvements</strong> tout en reprenant sa forme initiale, garantissant un <strong>ajustement impeccable</strong>.</p><h3></h3>"
-          }
-        },
-        "item_UqL6h9": {
-          "type": "item",
-          "settings": {
-            "title": "Les échanges sont-ils gratuits ?",
-            "content": "<p>Oui, Sovrano offre des échanges gratuits sous 30 jours si la taille ne vous correspond pas.</p>"
-          }
         }
       },
       "block_order": [
@@ -872,9 +588,7 @@
         "item_eNKxzp",
         "item_6fTDYH",
         "item_8aMRmN",
-        "item_TTkQqE",
-        "item_n4WBHx",
-        "item_UqL6h9"
+        "item_TTkQqE"
       ],
       "settings": {
         "full_width": false,
@@ -921,21 +635,18 @@
   },
   "order": [
     "image_with_text_overlay_ypzegc",
-    "rich_text_UiY4nV",
-    "video_kAyyE8",
     "logo_list_ziyRGK",
-    "rich_text_GaYXCf",
-    "image_with_text_overlay_GwYhDd",
     "rich_text_tnkaEn",
+    "rich_text_GaYXCf",
     "scrolling-text",
+    "image_with_text_overlay_GwYhDd",
     "rich_text_prXEkr",
     "custom_liquid_iQzBDy",
-    "custom_liquid_dxiqLP",
     "testimonial_pro_Qqrcjr",
     "multi_column_AMkhQy",
     "featured-product",
-    "1763244607b26be914",
     "custom_liquid_HyfXhU",
+    "rich_text_aaQdgA",
     "rich_text_3QaB4P",
     "faq",
     "contact_eb9WnF"
