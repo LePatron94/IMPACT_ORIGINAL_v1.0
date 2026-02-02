@@ -171,6 +171,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/BENEFICES_12312.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -395,8 +396,8 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#4e0858",
-            "atc_button_text_color": "#fff8f8",
+            "atc_button_background": "#d3cfff",
+            "atc_button_text_color": "#020101",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
