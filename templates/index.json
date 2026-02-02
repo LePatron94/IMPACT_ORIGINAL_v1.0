@@ -30,7 +30,7 @@
         "logo_7FTkiX": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Glamour-Logo_svg.png",
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_2_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -38,6 +38,7 @@
         "logo_WCRJAp": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/LOGO_IMS_2022_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -45,7 +46,7 @@
         "logo_7X9hqg": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
+            "logo": "shopify://shop_images/Logo_INSV1_1_-removebg-preview_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -53,6 +54,7 @@
         "logo_CBJAMJ": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
             "logo_width": 300,
             "link": ""
           }
