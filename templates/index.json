@@ -282,6 +282,26 @@
             "max_width": 150
           }
         },
+        "buy_box_selling_points_ehMdJE": {
+          "type": "shopify://apps/buy-box/blocks/selling-points/17b7c6ef-0c82-4743-acf4-050c34e5b233",
+          "settings": {
+            "sellingPoint_1_text": "Conçu pour les gros dormeurs, par des gros dormeurs.",
+            "sellingPoint_2_text": "Réveil garanti à 100 %, même pour les plus gros dormeurs.",
+            "sellingPoint_3_text": "Garantie de remboursement de 100 jours.",
+            "sellingPoint_4_text": "",
+            "sellingPoint_5_text": "",
+            "icon": "checkmark",
+            "icon_color": "#037e05",
+            "text_color": "#212121",
+            "icon_size": 16,
+            "text_size": 12,
+            "alignment": "start",
+            "row_spacing": 8,
+            "margin_top": 5,
+            "margin_bottom": 5,
+            "max-width": "44rem"
+          }
+        },
         "buy_box_testimonials_FLxFgi": {
           "type": "shopify://apps/buy-box/blocks/testimonials/17b7c6ef-0c82-4743-acf4-050c34e5b233",
           "settings": {
@@ -371,11 +391,11 @@
             "c": "44rem"
           }
         },
-        "collapsible_text_9C3WQy": {
+        "collapsible_text_fBhzjq": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Détails de garantie de remboursement 30 Jours",
-            "content": "<p><strong>Votre satisfaction est notre priorité</strong>. Si vous n’êtes pas totalement convaincu par votre achat, <strong>vous avez 30 jours pour nous le retourner – SANS JUSTIFICATION</strong>.</p><p> Le remboursement est intégral, le processus est simple, et notre équipe reste à votre écoute à chaque étape.<br/><br/>Pour toute demande, Contactez-nous a l'adresse :<br/><strong>contact@kynor.fr</strong></p>"
+            "title": "Description",
+            "content": "<p><strong>Matière :</strong> 80 % nylon, 20 % élasthanne<br/><strong>Couleurs disponibles :</strong> Noir, Blanc, Gris<br/><strong>Type :</strong> Gilet de musculation gainant et énergisant</p><ul><li>Se sentir énergique et confiant</li><li>Favorise la perte de poids</li><li>Réduit la gynécomastie</li></ul>"
           }
         },
         "collapsible_text_J9FGb3": {
@@ -385,11 +405,32 @@
             "content": "<p><strong>Nous offrons la livraison gratuite sous 3 à 5 jours ouvrés en France Métropolitaine et Belgique.</strong></p>"
           }
         },
-        "collapsible_text_fBhzjq": {
+        "collapsible_text_9C3WQy": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Description",
-            "content": "<p><strong>Matière :</strong> 80 % nylon, 20 % élasthanne<br/><strong>Couleurs disponibles :</strong> Noir, Blanc, Gris<br/><strong>Type :</strong> Gilet de musculation gainant et énergisant</p><ul><li>Se sentir énergique et confiant</li><li>Favorise la perte de poids</li><li>Réduit la gynécomastie</li></ul>"
+            "title": "Détails de garantie de remboursement 100 Jours",
+            "content": "<p><strong>Votre satisfaction est notre priorité</strong>. Si vous n’êtes pas totalement convaincu par votre achat, <strong>vous avez 30 jours pour nous le retourner – SANS JUSTIFICATION</strong>.</p><p> Le remboursement est intégral, le processus est simple, et notre équipe reste à votre écoute à chaque étape.<br/><br/>Pour toute demande, Contactez-nous a l'adresse :<br/><strong>contact@kynor.fr</strong></p>"
+          }
+        },
+        "buy_box_banner_wa474a": {
+          "type": "shopify://apps/buy-box/blocks/banner/17b7c6ef-0c82-4743-acf4-050c34e5b233",
+          "settings": {
+            "sb": true,
+            "i": "none",
+            "t": "🎉   <strong>Ce Bracelet vibratoire est un incontournable</strong>",
+            "d": "Saviez-vous que nos FitSleep PRO sont rarement retournés ? Le résultat est parfait – à vous de voir !",
+            "tt": "#000000",
+            "tc": "#000000",
+            "ci": "#000000",
+            "bc": "#f0f0f0",
+            "brc": "",
+            "is": 20,
+            "ts": 12,
+            "ds": 11,
+            "br": 20,
+            "mt": 0,
+            "mb": 0,
+            "mw": "44rem"
           }
         },
         "buy_box_divider_FqCkjw": {
@@ -408,8 +449,8 @@
         "buy_box_copy_discount_Tr3mEG": {
           "type": "shopify://apps/buy-box/blocks/copy-discount/17b7c6ef-0c82-4743-acf4-050c34e5b233",
           "settings": {
-            "m": "Économisez jusqu’à 70 % !",
-            "n": "BLACKFRIDAY",
+            "m": "Économisez 10 % !",
+            "n": "WELCOME10",
             "o": "Copié !",
             "d": "#ffffff",
             "e": "#000000",
@@ -423,47 +464,6 @@
             "a": 0,
             "b": 0,
             "c": "44rem"
-          }
-        },
-        "buy_box_selling_points_ehMdJE": {
-          "type": "shopify://apps/buy-box/blocks/selling-points/17b7c6ef-0c82-4743-acf4-050c34e5b233",
-          "settings": {
-            "sellingPoint_1_text": "Produits uniques, expériences inoubliables.",
-            "sellingPoint_2_text": "Qualité exceptionnelle, service inégalé.",
-            "sellingPoint_3_text": "Rejoignez dès aujourd’hui notre communauté de clients satisfaits.",
-            "sellingPoint_4_text": "",
-            "sellingPoint_5_text": "",
-            "icon": "checkmark",
-            "icon_color": "#037e05",
-            "text_color": "#212121",
-            "icon_size": 16,
-            "text_size": 12,
-            "alignment": "start",
-            "row_spacing": 8,
-            "margin_top": 5,
-            "margin_bottom": 5,
-            "max-width": "44rem"
-          }
-        },
-        "buy_box_banner_wa474a": {
-          "type": "shopify://apps/buy-box/blocks/banner/17b7c6ef-0c82-4743-acf4-050c34e5b233",
-          "settings": {
-            "sb": true,
-            "i": "none",
-            "t": "🎉 &nbsp <strong>Ce t-shirt est un incontournable</strong>",
-            "d": "Saviez-vous que nos t-shirts sont rarement retournés ? La coupe est parfaite – à vous de voir !",
-            "tt": "#000000",
-            "tc": "#000000",
-            "ci": "#000000",
-            "bc": "#f0f0f0",
-            "brc": "",
-            "is": 20,
-            "ts": 12,
-            "ds": 11,
-            "br": 20,
-            "mt": 0,
-            "mb": 0,
-            "mw": "44rem"
           }
         },
         "buy_box_tag_iL4efg": {
@@ -489,6 +489,7 @@
         "liquid_8iyw6q",
         "liquid_pXy6AW",
         "image_e7RPeA",
+        "buy_box_selling_points_ehMdJE",
         "buy_box_testimonials_FLxFgi",
         "liquid_inMHhX",
         "kaching_bundles_app_block_V7TmiP",
@@ -497,13 +498,12 @@
         "separator_Bd4pkp",
         "buy_buttons_76Tegr",
         "buy_box_trust_badges_qPGz6Q",
-        "collapsible_text_9C3WQy",
-        "collapsible_text_J9FGb3",
         "collapsible_text_fBhzjq",
+        "collapsible_text_J9FGb3",
+        "collapsible_text_9C3WQy",
+        "buy_box_banner_wa474a",
         "buy_box_divider_FqCkjw",
         "buy_box_copy_discount_Tr3mEG",
-        "buy_box_selling_points_ehMdJE",
-        "buy_box_banner_wa474a",
         "buy_box_tag_iL4efg"
       ],
       "settings": {
