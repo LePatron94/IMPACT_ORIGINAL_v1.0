@@ -42,7 +42,6 @@
         "image_deUHt9": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/lhdq.png",
             "alignment": "start",
             "max_width": 500
           }
@@ -51,9 +50,23 @@
           "type": "separator",
           "settings": {}
         },
-        "trustify_reviews_app_stars_block_a3VKXy": {
-          "type": "shopify://apps/trustify-reviews/blocks/app-stars-block/60d505af-e468-47cf-a184-a06ccd6703ac",
-          "settings": {}
+        "buy_box_trust_badges_cK9wWn": {
+          "type": "shopify://apps/buy-box/blocks/trust-badges/17b7c6ef-0c82-4743-acf4-050c34e5b233",
+          "settings": {
+            "i1": "delivery",
+            "t1": "<p>Livraison gratuite</p>",
+            "i2": "return",
+            "t2": "<p>Retours sous 30 jours</p>",
+            "i3": "guarantee",
+            "t3": "<p>Garantie 2 ans</p>",
+            "ic": "#000000",
+            "e": "#000000",
+            "d": 20,
+            "f": 12,
+            "a": 0,
+            "b": 0,
+            "c": "44rem"
+          }
         }
       },
       "block_order": [
@@ -63,7 +76,7 @@
         "buy_buttons",
         "image_deUHt9",
         "separator_gT6kwf",
-        "trustify_reviews_app_stars_block_a3VKXy"
+        "buy_box_trust_badges_cK9wWn"
       ],
       "settings": {
         "full_width": true,
@@ -114,7 +127,9 @@
             "product": "{{product}}",
             "title_text": "",
             "title_font_tag": "h2",
-            "section_background_color": ""
+            "section_background_color": "",
+            "desktop_width": "",
+            "mobile_width": ""
           }
         }
       },
@@ -169,15 +184,6 @@
     },
     "176307696553f814db": {
       "type": "apps",
-      "blocks": {
-        "trustify_reviews_app_product_block_NrWdWh": {
-          "type": "shopify://apps/trustify-reviews/blocks/app-product-block/60d505af-e468-47cf-a184-a06ccd6703ac",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "trustify_reviews_app_product_block_NrWdWh"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
