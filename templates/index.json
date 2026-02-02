@@ -596,22 +596,8 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Comment fonctionne l'Alpha Suit Pro de chez Kynor ?",
-            "content": "<p>Le débardeur Alpha Suit PRO est confectionné dans un tissu technique enrichi en minéraux naturels qui <strong>dynamisent l'énergie, la confiance en soi et la force</strong>. Activés par la chaleur corporelle, ces minéraux <strong>stimulent le métabolisme, optimisant ainsi la combustion des calories</strong>. Il <strong>favorise la perte de poids tout en améliorant la vitalité et la posture</strong>. Une utilisation régulière permet d'obtenir une silhouette plus fine et plus tonique, et un bien-être général accru.</p>"
-          }
-        },
-        "item_eNKxzp": {
-          "type": "item",
-          "settings": {
-            "title": "Et si la taille ne convient pas une fois reçu ? ",
-            "content": "<p>Pas de problème. Si la taille ne vous convient pas, contactez-nous à l'<strong>adresse support@kynor.com </strong>et nous vous aiderons à procéder à un échange.</p>"
-          }
-        },
-        "item_6fTDYH": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je le porter toute la journée ?",
-            "content": "<p>Oui, <strong>absolument </strong>! <br/>Nous vous recommandons de le porter <strong>sous vos vêtements </strong>au quotidien ou <strong>pendant une activité physique</strong>, afin d'optimiser vos résultats.</p>"
+            "title": "Je dors toujours quand l'alarme sonne, ceci va t-il me reveiller ?",
+            "content": "<p>Oui ! Les vibrations, surtout au poignet, sont <strong>bien plus efficaces que le son</strong> seul pour stimuler le cerveau et vous réveiller. </p><p>Ce réveil est spécialement conçu pour les gros dormeurs qui ont du mal avec les réveils sonores ou lumineux classiques. </p><p>La vibration, <strong>puissante et progressive</strong>, vous assure un réveil en douceur, même après un sommeil profond. </p><p>Testé par plus de 500 personnes au sommeil profond, 99 % d'entre elles ont déclaré se réveiller à l'heure lors d'un essai de 50 jours. Nombreuses sont les personnes qui ont trouvé dans cette solution <strong>la clé pour enfin se réveiller.…</strong></p>"
           }
         },
         "item_8aMRmN": {
@@ -631,8 +617,6 @@
       },
       "block_order": [
         "166442457738b23caf-0",
-        "item_eNKxzp",
-        "item_6fTDYH",
         "item_8aMRmN",
         "item_TTkQqE"
       ],
