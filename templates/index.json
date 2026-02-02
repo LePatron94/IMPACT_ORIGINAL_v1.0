@@ -282,6 +282,32 @@
             "max_width": 150
           }
         },
+        "buy_box_testimonials_FLxFgi": {
+          "type": "shopify://apps/buy-box/blocks/testimonials/17b7c6ef-0c82-4743-acf4-050c34e5b233",
+          "settings": {
+            "style": "classic",
+            "use_stock_images": true,
+            "a1": "Lisa Brown",
+            "c1": "<p>Ce produit est incroyable !</p>",
+            "a2": "Marc Johnson",
+            "c2": "<p>Qualité au top et expédition rapide !</p>",
+            "a3": "Luis Garcia",
+            "c3": "<p>La qualité du produit est remarquable.</p>",
+            "bgc": "#fafafa",
+            "bc": "#dadce0",
+            "sc": "#00b67a",
+            "tc": "#202124",
+            "is": 64,
+            "ns": 15,
+            "ss": 15,
+            "ts": 12,
+            "br": 4,
+            "ibr": 8,
+            "mt": 0,
+            "mb": 0,
+            "mw": "44rem"
+          }
+        },
         "liquid_inMHhX": {
           "type": "liquid",
           "settings": {
@@ -343,32 +369,6 @@
           "settings": {
             "title": "Description",
             "content": "<p><strong>Matière :</strong> 80 % nylon, 20 % élasthanne<br/><strong>Couleurs disponibles :</strong> Noir, Blanc, Gris<br/><strong>Type :</strong> Gilet de musculation gainant et énergisant</p><ul><li>Se sentir énergique et confiant</li><li>Favorise la perte de poids</li><li>Réduit la gynécomastie</li></ul>"
-          }
-        },
-        "buy_box_testimonials_FLxFgi": {
-          "type": "shopify://apps/buy-box/blocks/testimonials/17b7c6ef-0c82-4743-acf4-050c34e5b233",
-          "settings": {
-            "style": "classic",
-            "use_stock_images": true,
-            "a1": "Lisa Brown",
-            "c1": "<p>Ce produit est incroyable !</p>",
-            "a2": "Marc Johnson",
-            "c2": "<p>Qualité au top et expédition rapide !</p>",
-            "a3": "Luis Garcia",
-            "c3": "<p>La qualité du produit est remarquable.</p>",
-            "bgc": "#fafafa",
-            "bc": "#dadce0",
-            "sc": "#00b67a",
-            "tc": "#202124",
-            "is": 64,
-            "ns": 15,
-            "ss": 15,
-            "ts": 12,
-            "br": 4,
-            "ibr": 8,
-            "mt": 0,
-            "mb": 0,
-            "mw": "44rem"
           }
         },
         "buy_box_divider_FqCkjw": {
@@ -501,6 +501,7 @@
         "liquid_8iyw6q",
         "liquid_pXy6AW",
         "image_e7RPeA",
+        "buy_box_testimonials_FLxFgi",
         "liquid_inMHhX",
         "kaching_bundles_app_block_V7TmiP",
         "image_M6BrMy",
@@ -510,7 +511,6 @@
         "collapsible_text_9C3WQy",
         "collapsible_text_J9FGb3",
         "collapsible_text_fBhzjq",
-        "buy_box_testimonials_FLxFgi",
         "buy_box_divider_FqCkjw",
         "buy_box_copy_discount_Tr3mEG",
         "buy_box_discount_timer_HbXCLE",
