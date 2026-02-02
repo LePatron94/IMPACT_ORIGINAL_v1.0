@@ -353,6 +353,24 @@
             "payment_button_text_color": ""
           }
         },
+        "buy_box_trust_badges_qPGz6Q": {
+          "type": "shopify://apps/buy-box/blocks/trust-badges/17b7c6ef-0c82-4743-acf4-050c34e5b233",
+          "settings": {
+            "i1": "delivery",
+            "t1": "<p>Livraison gratuite</p>",
+            "i2": "return",
+            "t2": "<p>Retours sous 30 jours</p>",
+            "i3": "guarantee",
+            "t3": "<p>Garantie 2 ans</p>",
+            "ic": "#000000",
+            "e": "#000000",
+            "d": 20,
+            "f": 12,
+            "a": 0,
+            "b": 0,
+            "c": "44rem"
+          }
+        },
         "collapsible_text_9C3WQy": {
           "type": "collapsible_text",
           "settings": {
@@ -407,21 +425,6 @@
             "c": "44rem"
           }
         },
-        "buy_box_discount_timer_HbXCLE": {
-          "type": "shopify://apps/buy-box/blocks/discount-timer/17b7c6ef-0c82-4743-acf4-050c34e5b233",
-          "settings": {
-            "t": "Offre se termine dans : <b>%CT%</b>",
-            "st": "00:00",
-            "ct": "00:00",
-            "sd": "",
-            "ed": "",
-            "tc": "#bc2323",
-            "cc": "#bc2323",
-            "s": 15,
-            "margin_top": 0,
-            "margin_bottom": 0
-          }
-        },
         "buy_box_selling_points_ehMdJE": {
           "type": "shopify://apps/buy-box/blocks/selling-points/17b7c6ef-0c82-4743-acf4-050c34e5b233",
           "settings": {
@@ -463,24 +466,6 @@
             "mw": "44rem"
           }
         },
-        "buy_box_trust_badges_qPGz6Q": {
-          "type": "shopify://apps/buy-box/blocks/trust-badges/17b7c6ef-0c82-4743-acf4-050c34e5b233",
-          "settings": {
-            "i1": "delivery",
-            "t1": "<p>Livraison gratuite</p>",
-            "i2": "return",
-            "t2": "<p>Retours sous 30 jours</p>",
-            "i3": "guarantee",
-            "t3": "<p>Garantie 2 ans</p>",
-            "ic": "#000000",
-            "e": "#000000",
-            "d": 20,
-            "f": 12,
-            "a": 0,
-            "b": 0,
-            "c": "44rem"
-          }
-        },
         "buy_box_tag_iL4efg": {
           "type": "shopify://apps/buy-box/blocks/tag/17b7c6ef-0c82-4743-acf4-050c34e5b233",
           "settings": {
@@ -511,15 +496,14 @@
         "image_hCaMca",
         "separator_Bd4pkp",
         "buy_buttons_76Tegr",
+        "buy_box_trust_badges_qPGz6Q",
         "collapsible_text_9C3WQy",
         "collapsible_text_J9FGb3",
         "collapsible_text_fBhzjq",
         "buy_box_divider_FqCkjw",
         "buy_box_copy_discount_Tr3mEG",
-        "buy_box_discount_timer_HbXCLE",
         "buy_box_selling_points_ehMdJE",
         "buy_box_banner_wa474a",
-        "buy_box_trust_badges_qPGz6Q",
         "buy_box_tag_iL4efg"
       ],
       "settings": {
