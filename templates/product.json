@@ -50,22 +50,25 @@
           "type": "separator",
           "settings": {}
         },
-        "buy_box_trust_badges_cK9wWn": {
-          "type": "shopify://apps/buy-box/blocks/trust-badges/17b7c6ef-0c82-4743-acf4-050c34e5b233",
+        "buy_box_banner_Rimin3": {
+          "type": "shopify://apps/buy-box/blocks/banner/17b7c6ef-0c82-4743-acf4-050c34e5b233",
           "settings": {
-            "i1": "delivery",
-            "t1": "<p>Livraison gratuite</p>",
-            "i2": "return",
-            "t2": "<p>Retours sous 30 jours</p>",
-            "i3": "guarantee",
-            "t3": "<p>Garantie 2 ans</p>",
-            "ic": "#000000",
-            "e": "#000000",
-            "d": 20,
-            "f": 12,
-            "a": 0,
-            "b": 0,
-            "c": "44rem"
+            "sb": true,
+            "i": "none",
+            "t": "🎉 &nbsp <strong>Ce t-shirt est un incontournable</strong>",
+            "d": "Saviez-vous que nos t-shirts sont rarement retournés ? La coupe est parfaite – à vous de voir !",
+            "tt": "#000000",
+            "tc": "#000000",
+            "ci": "#000000",
+            "bc": "#f0f0f0",
+            "brc": "",
+            "is": 20,
+            "ts": 12,
+            "ds": 11,
+            "br": 20,
+            "mt": 0,
+            "mb": 0,
+            "mw": "44rem"
           }
         }
       },
@@ -76,7 +79,7 @@
         "buy_buttons",
         "image_deUHt9",
         "separator_gT6kwf",
-        "buy_box_trust_badges_cK9wWn"
+        "buy_box_banner_Rimin3"
       ],
       "settings": {
         "full_width": true,
