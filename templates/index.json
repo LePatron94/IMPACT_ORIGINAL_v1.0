@@ -16,7 +16,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Invisible_under_every_shirt._Available_in_three_timeless_shades.png",
+        "image": "shopify://shop_images/IMG_6310_3.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -38,7 +38,7 @@
         "logo_WCRJAp": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/LOGO_IMS_2022_1.png",
+            "logo": "shopify://shop_images/dljnqnds_3.png",
             "logo_width": 300,
             "link": ""
           }
@@ -46,7 +46,7 @@
         "logo_7X9hqg": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Logo_INSV1_1_-removebg-preview_1.png",
+            "logo": "shopify://shop_images/d_cbkd_2.png",
             "logo_width": 300,
             "link": ""
           }
@@ -54,7 +54,7 @@
         "logo_CBJAMJ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
+            "logo": "shopify://shop_images/logo-seo_1_2_2.png",
             "logo_width": 300,
             "link": ""
           }
@@ -171,25 +171,12 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/khbhbh.png",
+        "image": "shopify://shop_images/SECTION_BENEFFFFF.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "custom_liquid_gPzDnR": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<style>\n  .trustpilot-reviews-section {\n    display: flex;\n    justify-content: space-between;\n    padding: 20px;\n    background-color: #fffffff;\n    border-radius: 8px;\n    position: relative;\n  }\n\n  .trustpilot-summary {\n    flex-basis: 20%;\n    text-align: left;\n  }\n\n  .trustpilot-summary h2 {\n    font-size: 24px;\n    font-weight: bold;\n    margin-bottom: 10px;\n  }\n\n  .trustpilot-stars img {\n    width: 100px;\n    margin-bottom: 10px;\n  }\n\n  .trustpilot-logo {\n    width: 100px;\n    margin-top: 10px;\n  }\n\n  .review-carousel {\n    display: flex;\n    flex-basis: 75%;\n    overflow: hidden;\n    position: relative;\n  }\n\n  .review-card {\n    width: 270px;\n    padding: 15px;\n    margin-right: 15px;\n    background-color: #ffffff;\n    border: 1px solid #eaeaea;\n    border-radius: 8px;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n    transition: transform 0.3s ease;\n    flex-shrink: 0;\n  }\n\n  .review-card:hover {\n    transform: scale(1.05);\n  }\n\n  .review-card img {\n    width: 70px;\n  }\n\n  .review-card p {\n    margin: 5px 0;\n    font-size: 14px;\n  }\n\n  .review-card strong {\n    font-weight: bold;\n  }\n\n  .nav-arrow {\n    position: absolute;\n    top: 50%;\n    transform: translateY(-50%);\n    background-color: #fff;\n    border: 2px solid #ddd;\n    border-radius: 50%;\n    width: 40px;\n    height: 40px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    cursor: pointer;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n  }\n\n  .nav-arrow:hover {\n    background-color: #f0f0f0;\n    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);\n  }\n\n  .arrow-left {\n    left: -20px; \n  }\n\n  .arrow-right {\n    right: -20px; \n  }\n\n  .nav-arrow::before {\n    content: '';\n    display: block;\n    border: solid #333;\n    border-width: 0 3px 3px 0;\n    padding: 5px;\n  }\n\n  .arrow-left::before {\n    transform: rotate(135deg);\n  }\n\n  .arrow-right::before {\n    transform: rotate(-45deg);\n  }\n\n  @media (max-width: 768px) {\n    .trustpilot-reviews-section {\n      flex-direction: column;\n      padding: 10px;\n    }\n\n    .trustpilot-summary {\n      flex-basis: 100%;\n      text-align: center; \n      margin-bottom: 20px;\n    }\n\n    .trustpilot-stars img {\n      width: 80px;\n      margin: 0 auto;\n    }\n\n    .trustpilot-logo {\n      width: 80px;\n      margin-top: 5px;\n      margin: 0 auto; \n    }\n\n    .review-carousel {\n      flex-basis: 100%;\n      overflow-x: auto;\n      padding-bottom: 10px;\n    }\n\n    .review-card {\n      min-width: 85%;\n      margin-right: 10px;\n    }\n\n    .nav-arrow {\n      display: none;\n    }\n  }\n</style>\n\n<div class=\"trustpilot-reviews-section\">\n  <div class=\"trustpilot-summary\">\n    <h2>Excellent !</h2>\n    <div class=\"trustpilot-stars\">\n      <!-- Modifier Lien Image ici pour les étoiles -->\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n    </div>\n    <p>Basé sur plus de 457 avis</p>\n    <!-- Modifier Lien Image ici pour logo -->\n    <img src=\"https://companieslogo.com/img/orig/TRST.L_BIG-743be58a.png?t=1720244494\" alt=\"Trustpilot logo\" class=\"trustpilot-logo\">\n\n  </div>\n\n  <div class=\"review-carousel\" id=\"review-carousel\">\n     <!-- Modifier Avis ICI -->\n    <div class=\"review-card\">\n      <!-- Modifier Lien Image ici pour les étoiles -->\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p></p>\n      <p>Très content ! Le bracelet vaut vraiment le coup. Ils me permettent de me réveiller n'importe où en quelques secondes, sans réveiller ma femme. </p>\n      <p><strong>Antoine B. – Nantes, Loire-Atlantique</strong> - 23/01/2025</p>\n    </div>\n     <!-- Modifier Avis ICI -->\n    <div class=\"review-card\">\n      <!-- Modifier Lien Image ici pour les étoiles -->\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p></p>\n      <p>Produit incroyable ! On avait tout essayé pour réveiller mon fils. Parfois, il fallait plus de 20 ou 30 appels, et maintenant, un seul appel suffit pour qu'il soit déjà réveillé. Il m'a même réveillée en m'appelant aujourd'hui.</p>\n      <p><strong>Leila B. – Cergy, Val D'Oise</strong> - 23/08/2024</p>\n    </div>\n    <!-- Modifier Avis ICI -->\n    <div class=\"review-card\">\n      <!-- Modifier Lien Image ici pour les étoiles -->\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p></p>\n      <p>Honnêtement, le produit fonctionne très bien. La configuration et la compréhension des différentes alarmes sont un peu déroutantes car l'affichage n'est pas des plus clairs, mais il me réveille efficacement.</p>\n      <p><strong>Laeticia S. – Brunoy, Essonne</strong> - 13/02/2025</p>\n    </div>\n     <!-- Si vous voulez rajouter des Avis c'est ICI -->\n  </div>\n\n  <!-- Flèches de navigation -->\n  <button class=\"nav-arrow arrow-left\" onclick=\"scrollReviews(-1)\"></button>\n  <button class=\"nav-arrow arrow-right\" onclick=\"scrollReviews(1)\"></button>\n</div>\n\n<script>\n  const reviewCarousel = document.getElementById('review-carousel');\n\n  function scrollReviews(direction) {\n    const scrollAmount = 320; \n    reviewCarousel.scrollBy({ left: direction * scrollAmount, behavior: 'smooth' });\n  }\n</script>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "rich_text_prXEkr": {
@@ -241,22 +228,6 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
-        "buy_box_star_rating_bVDJTX": {
-          "type": "shopify://apps/buy-box/blocks/star-rating/17b7c6ef-0c82-4743-acf4-050c34e5b233",
-          "settings": {
-            "rating": 4.7,
-            "text": "<strong>4.8 Excellent</strong> - Plus de 3500 avis positifs",
-            "link": "",
-            "star_color": "#000000",
-            "star_background_color": "#eaeaea",
-            "text_color": "#000000",
-            "star_size": 16,
-            "font_size": 14,
-            "margin_top": 0,
-            "margin_bottom": 0,
-            "max-width": "44rem"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -280,55 +251,6 @@
           "settings": {
             "alignment": "start",
             "max_width": 150
-          }
-        },
-        "buy_box_selling_points_ehMdJE": {
-          "type": "shopify://apps/buy-box/blocks/selling-points/17b7c6ef-0c82-4743-acf4-050c34e5b233",
-          "settings": {
-            "sellingPoint_1_text": "Réveille toi sans réveiller ta femme (ou ton mari) avec toi",
-            "sellingPoint_2_text": "Réveil garanti à 100 %, même pour les plus gros dormeurs.",
-            "sellingPoint_3_text": "Garantie de remboursement de 100 jours.",
-            "sellingPoint_4_text": "",
-            "sellingPoint_5_text": "",
-            "icon": "checkmark",
-            "icon_color": "#037e05",
-            "text_color": "#212121",
-            "icon_size": 16,
-            "text_size": 12,
-            "alignment": "start",
-            "row_spacing": 8,
-            "margin_top": 5,
-            "margin_bottom": 5,
-            "max-width": "44rem"
-          }
-        },
-        "buy_box_testimonials_FLxFgi": {
-          "type": "shopify://apps/buy-box/blocks/testimonials/17b7c6ef-0c82-4743-acf4-050c34e5b233",
-          "settings": {
-            "style": "classic",
-            "use_stock_images": false,
-            "ci1": "shopify://shop_images/307309373_10159932922392980_7013320482962577741_n.jpg",
-            "a1": "Christophe B.",
-            "c1": "<p>Je l'ai acheté pour éviter de réveiller ma femme, et je suis très satisfait du résultat, achetez-le les yeux fermés !</p>",
-            "ci2": "shopify://shop_images/495053799_1156298303176464_5370252151395275633_n.jpg",
-            "a2": "Camille L.",
-            "c2": "<p>Qualité au top et expédition rapide ! Je recommande pour chaque femme qui n'arrive pas a se lever et repousse ses réveils.</p>",
-            "ci3": "shopify://shop_images/501314967_10162622019109754_1807483360339156466_n.jpg",
-            "a3": "Luis Garcia",
-            "c3": "<p>La qualité du produit est remarquable. Dès le lendemain de sa reception, je me suis direct levé, n'attendez pas pour l'acheter !</p>",
-            "bgc": "#fafafa",
-            "bc": "#dadce0",
-            "sc": "#00b67a",
-            "tc": "#202124",
-            "is": 64,
-            "ns": 15,
-            "ss": 15,
-            "ts": 12,
-            "br": 4,
-            "ibr": 8,
-            "mt": 0,
-            "mb": 0,
-            "mw": "44rem"
           }
         },
         "liquid_inMHhX": {
@@ -380,24 +302,6 @@
             "max_width": 150
           }
         },
-        "buy_box_trust_badges_qPGz6Q": {
-          "type": "shopify://apps/buy-box/blocks/trust-badges/17b7c6ef-0c82-4743-acf4-050c34e5b233",
-          "settings": {
-            "i1": "delivery",
-            "t1": "<p>Livraison gratuite</p>",
-            "i2": "return",
-            "t2": "<p>Retours sous 30 jours</p>",
-            "i3": "guarantee",
-            "t3": "<p>Garantie 2 ans</p>",
-            "ic": "#000000",
-            "e": "#000000",
-            "d": 20,
-            "f": 12,
-            "a": 0,
-            "b": 0,
-            "c": "44rem"
-          }
-        },
         "collapsible_text_fBhzjq": {
           "type": "collapsible_text",
           "settings": {
@@ -437,67 +341,16 @@
             "br": 20,
             "mt": 0,
             "mb": 0,
+            "al": "left",
             "mw": "44rem"
-          }
-        },
-        "buy_box_divider_FqCkjw": {
-          "type": "shopify://apps/buy-box/blocks/divider/17b7c6ef-0c82-4743-acf4-050c34e5b233",
-          "settings": {
-            "text": "Plus que quelques-uns !",
-            "divider_color": "#aaaaaa",
-            "text_color": "#000000",
-            "font_size": 16,
-            "divider_size": 2,
-            "top_margin": 0,
-            "bottom_margin": 0,
-            "max-width": "44rem"
-          }
-        },
-        "buy_box_copy_discount_Tr3mEG": {
-          "type": "shopify://apps/buy-box/blocks/copy-discount/17b7c6ef-0c82-4743-acf4-050c34e5b233",
-          "settings": {
-            "m": "Économisez 10 % !",
-            "n": "WELCOME10",
-            "o": "Copié !",
-            "d": "#ffffff",
-            "e": "#000000",
-            "f": "#ffffff",
-            "h": "#000000",
-            "g": "#ffffff",
-            "i": "#ffffff",
-            "j": 12,
-            "k": 0,
-            "l": 0,
-            "a": 0,
-            "b": 0,
-            "c": "44rem"
-          }
-        },
-        "buy_box_tag_iL4efg": {
-          "type": "shopify://apps/buy-box/blocks/tag/17b7c6ef-0c82-4743-acf4-050c34e5b233",
-          "settings": {
-            "pm": "normal",
-            "ax": "d",
-            "ap": 50,
-            "txt": "Vous économisez %SA%",
-            "tc": "#ffffff",
-            "bg": "#008000",
-            "bc": "#008000",
-            "is": 13,
-            "br": 6,
-            "mt": 0,
-            "mb": -10
           }
         }
       },
       "block_order": [
-        "buy_box_star_rating_bVDJTX",
         "title",
         "liquid_8iyw6q",
         "liquid_pXy6AW",
         "image_e7RPeA",
-        "buy_box_selling_points_ehMdJE",
-        "buy_box_testimonials_FLxFgi",
         "liquid_inMHhX",
         "kaching_bundles_app_block_V7TmiP",
         "image_M6BrMy",
@@ -505,14 +358,10 @@
         "separator_Bd4pkp",
         "buy_buttons_76Tegr",
         "image_nD7UnA",
-        "buy_box_trust_badges_qPGz6Q",
         "collapsible_text_fBhzjq",
         "collapsible_text_J9FGb3",
         "collapsible_text_9C3WQy",
-        "buy_box_banner_wa474a",
-        "buy_box_divider_FqCkjw",
-        "buy_box_copy_discount_Tr3mEG",
-        "buy_box_tag_iL4efg"
+        "buy_box_banner_wa474a"
       ],
       "settings": {
         "full_width": false,
@@ -670,7 +519,6 @@
     "rich_text_GaYXCf",
     "scrolling-text",
     "image_with_text_overlay_GwYhDd",
-    "custom_liquid_gPzDnR",
     "rich_text_prXEkr",
     "custom_liquid_iQzBDy",
     "testimonial_pro_Qqrcjr",
