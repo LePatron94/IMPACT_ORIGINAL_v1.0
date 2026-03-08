@@ -445,8 +445,50 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Je dors toujours quand l'alarme sonne, ceci va t-il me reveiller ?",
-            "content": "<p>Oui ! Les vibrations, surtout au poignet, sont <strong>bien plus efficaces que le son</strong> seul pour stimuler le cerveau et vous réveiller. </p><p>Ce réveil est spécialement conçu pour les gros dormeurs qui ont du mal avec les réveils sonores ou lumineux classiques. </p><p>La vibration, <strong>puissante et progressive</strong>, vous assure un réveil en douceur, même après un sommeil profond. </p><p>Testé par plus de 500 personnes au sommeil profond, 99 % d'entre elles ont déclaré se réveiller à l'heure lors d'un essai de 50 jours. Nombreuses sont les personnes qui ont trouvé dans cette solution <strong>la clé pour enfin se réveiller.…</strong></p>"
+            "title": "L’oreiller est-il ferme ou moelleux ?",
+            "content": "<p>L’oreiller Orthopédo V2 a été conçu pour offrir un équilibre idéal entre fermeté et confort. Sa mousse à mémoire de forme haute densité garantit un maintien optimal des cervicales, tout en épousant naturellement les contours de la tête et du cou pour un accueil moelleux.</p>"
+          }
+        },
+        "item_AnpB99": {
+          "type": "item",
+          "settings": {
+            "title": "Est-il adapté à toutes les positions de sommeil ?",
+            "content": "<p>Oui. Que vous dormiez sur le dos, le côté ou même sur le ventre, l’oreiller Orthopédo V2 s’ajuste à votre position grâce à sa conception ergonomique. Il permet un alignement optimal de la colonne vertébrale dans toutes les postures.</p>"
+          }
+        },
+        "item_pTa7kH": {
+          "type": "item",
+          "settings": {
+            "title": "L’oreiller est-il compatible avec les masques nasaux et l’apnée du sommeil ?",
+            "content": "<p>Oui. L’oreiller Orthopédo V2 est parfaitement adapté aux personnes portant un masque nasal ou concernées par l’apnée du sommeil légère à modérée. Sa forme ergonomique favorise un bon alignement des voies respiratoires, ce qui contribue à une respiration fluide tout au long de la nuit.</p>"
+          }
+        },
+        "item_whxbiK": {
+          "type": "item",
+          "settings": {
+            "title": "L’oreiller est-il efficace contre les ronflements ?",
+            "content": "<p>Totalement testé et approuvré. L’oreiller Orthopédo V2 favorise un bon alignement de la tête, du cou et des voies respiratoires, ce qui peut réduire considérablement les ronflements liés à une mauvaise posture durant la nuit.</p>"
+          }
+        },
+        "item_XWW4DQ": {
+          "type": "item",
+          "settings": {
+            "title": "Comment l’oreiller agit-il sur les douleurs cervicales ?",
+            "content": "<p>L’oreiller Orthopédo 2.0 soutient la courbure naturelle des cervicales et aligne la colonne vertébrale durant le sommeil. Il permet ainsi de réduire les tensions musculaires et de prévenir les douleurs liées aux mauvaises postures nocturnes.</p>"
+          }
+        },
+        "item_UEDWTA": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps faut-il pour s’habituer à l’oreiller ?",
+            "content": "<p>La plupart des utilisateurs s’habituent en quelques nuits. Une période d’adaptation de 3 à 7 jours est normale afin que le corps s’ajuste au nouvel alignement cervical offert par l’oreiller.</p>"
+          }
+        },
+        "item_e6DNPN": {
+          "type": "item",
+          "settings": {
+            "title": "En combien de temps peut-on constater une amélioration ?",
+            "content": "<p>Les premiers effets se ressentent souvent dès la première nuit : sommeil plus profond, diminution des tensions cervicales, réveil plus léger. Une amélioration notable est généralement observée au bout d’une à deux semaines d’utilisation.</p>"
           }
         },
         "item_8aMRmN": {
@@ -466,6 +508,12 @@
       },
       "block_order": [
         "166442457738b23caf-0",
+        "item_AnpB99",
+        "item_pTa7kH",
+        "item_whxbiK",
+        "item_XWW4DQ",
+        "item_UEDWTA",
+        "item_e6DNPN",
         "item_8aMRmN",
         "item_TTkQqE"
       ],
