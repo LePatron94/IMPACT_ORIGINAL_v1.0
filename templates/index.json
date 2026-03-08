@@ -505,6 +505,13 @@
             "content": "<p>Non. L’oreiller est compressé pour l’expédition, mais il reprend sa forme initiale en quelques minutes. Il suffit de le laisser à l’air libre (hors housse) dès l’ouverture, et il retrouve sa densité optimale sans problème.</p>"
           }
         },
+        "item_K7zRn8": {
+          "type": "item",
+          "settings": {
+            "title": "Améliore-t-il vraiment la qualité de mon sommeil ?",
+            "content": "<p>En favorisant un bon alignement postural et une respiration plus fluide, il contribue à un endormissement plus rapide, une diminution des micro-réveils et un sommeil globalement plus réparateur.</p>"
+          }
+        },
         "item_TTkQqE": {
           "type": "item",
           "settings": {
@@ -523,6 +530,7 @@
         "item_e6DNPN",
         "item_8aMRmN",
         "item_ipJipA",
+        "item_K7zRn8",
         "item_TTkQqE"
       ],
       "settings": {
