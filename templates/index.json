@@ -498,6 +498,13 @@
             "content": "<p>Oui, nous offrons une garantie satisfait ou remboursé de 30 jours. Contactez-nous par e-mail ou laissez-nous un message sur la page « Contactez-nous ».</p>"
           }
         },
+        "item_ipJipA": {
+          "type": "item",
+          "settings": {
+            "title": "Y a-t-il un risque que l’oreiller reste plat à la réception ?",
+            "content": "<p>Non. L’oreiller est compressé pour l’expédition, mais il reprend sa forme initiale en quelques minutes. Il suffit de le laisser à l’air libre (hors housse) dès l’ouverture, et il retrouve sa densité optimale sans problème.</p>"
+          }
+        },
         "item_TTkQqE": {
           "type": "item",
           "settings": {
@@ -515,6 +522,7 @@
         "item_UEDWTA",
         "item_e6DNPN",
         "item_8aMRmN",
+        "item_ipJipA",
         "item_TTkQqE"
       ],
       "settings": {
