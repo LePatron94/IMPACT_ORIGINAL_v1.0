@@ -17,18 +17,34 @@
         "message_KQRq4K": {
           "type": "message",
           "settings": {
-            "text": "WELCOME10 - 10% de réduction jusqu'à minuit",
+            "text": "PROCHAIN RÉAPPROVISIONNEMENT EN JUILLET 2026",
+            "url": ""
+          }
+        },
+        "message_xegXTL": {
+          "type": "message",
+          "settings": {
+            "text": "STOCKS TRÈS FAIBLES",
+            "url": ""
+          }
+        },
+        "message_rQ3fjz": {
+          "type": "message",
+          "settings": {
+            "text": "SATISFAIT OU REMBOURSÉ",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message_KQRq4K"
+        "message_KQRq4K",
+        "message_xegXTL",
+        "message_rQ3fjz"
       ],
       "settings": {
         "enable_sticky": false,
         "text_size": "text-base",
-        "navigation_mode": "arrows",
+        "navigation_mode": "scrolling",
         "scrolling_speed": 14,
         "background": "#000000",
         "background_gradient": "",
