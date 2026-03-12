@@ -313,6 +313,42 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_BAVxXm": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "\"Merci pour la rapidité de livraison\"",
+            "heading_tag": "h4",
+            "content": "<p>Oreiller très confortable, j'étais sceptique mais je dois avouer que je dors bien mieux.<br/><br/><strong>Eric Nzapahoyoro, 37 ans – Lyon (69)</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_mmzCxW": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "\"Un changement dans mon sommeil\"",
+            "heading_tag": "h4",
+            "content": "<p>Bien reçu et adopté directement, on ressent un réel repos et un maintient efficace ! Merci Orthopédo<br/><br/><strong>Justin Desfossez, 58 ans – Ivry-sur-Seine (94)</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_RhnAW6": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "\"J'ai du en racheter un\"",
+            "heading_tag": "h4",
+            "content": "<p>J'ai adoré, meilleur sommeil depuis un moment. Dommage mon chien a fait caca dessus, obligé de prendre un nouvel oreiller et une nouvelle housse hahahaha<br/><br/><strong>Claudine Gervais, 49 ans – Vaux-en-Velin (69)</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
@@ -320,7 +356,10 @@
         "item_4CG8nz",
         "item_8eU4j3",
         "item_UnTi7X",
-        "item_jKryca"
+        "item_jKryca",
+        "item_BAVxXm",
+        "item_mmzCxW",
+        "item_RhnAW6"
       ],
       "name": "Multi-column",
       "settings": {
