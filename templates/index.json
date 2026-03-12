@@ -257,6 +257,7 @@
         "item_tg83yK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ZxFOUjFKp_mid_1.webp",
             "column_size": "3",
             "title": "\"Une réelle découverte ! Je suis conquise\"",
             "heading_tag": "h4",
@@ -269,6 +270,7 @@
         "item_4CG8nz": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/X0fYb_B4L_mid_1.webp",
             "column_size": "3",
             "title": "\"La matière est tellement incroyable...\"",
             "heading_tag": "h4",
@@ -281,6 +283,7 @@
         "item_8eU4j3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/CgpkvvRv7_mid_1.webp",
             "column_size": "3",
             "title": "\"Depuis que je l'ai je n'ai plus aucun maux aux cervicales”",
             "heading_tag": "h4",
@@ -293,6 +296,7 @@
         "item_UnTi7X": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/JHZuWrVSO_mid_1.webp",
             "column_size": "3",
             "title": "“Merci je passe des super nuits”",
             "heading_tag": "h4",
@@ -305,6 +309,7 @@
         "item_jKryca": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/tPy9Qgnwb_mid_2.jpg",
             "column_size": "3",
             "title": "\"Je recommande fortement.\"",
             "heading_tag": "h4",
@@ -317,6 +322,7 @@
         "item_BAVxXm": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/cYaZ8KCE-_mid_1.webp",
             "column_size": "3",
             "title": "\"Merci pour la rapidité de livraison\"",
             "heading_tag": "h4",
@@ -329,6 +335,7 @@
         "item_mmzCxW": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/q_Tif7Roe_mid_1.webp",
             "column_size": "3",
             "title": "\"Un changement dans mon sommeil\"",
             "heading_tag": "h4",
@@ -341,6 +348,7 @@
         "item_RhnAW6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ANRGIQEYZ_mid_1.webp",
             "column_size": "3",
             "title": "\"J'ai du en racheter un\"",
             "heading_tag": "h4",
