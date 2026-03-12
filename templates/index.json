@@ -179,6 +179,32 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_mihemB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_fczH87": {
+          "type": "heading",
+          "settings": {
+            "text": "Vous en parlez mieux que nous :",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_fczH87"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_prXEkr": {
       "type": "rich-text",
       "blocks": {
@@ -224,6 +250,91 @@
       "type": "testimonial-pro",
       "name": "SS - Testimonial #8",
       "settings": {}
+    },
+    "multi_column_CrGHPL": {
+      "type": "multi-column",
+      "blocks": {
+        "item_tg83yK": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "\"Une réelle découverte ! Je suis conquise\"",
+            "heading_tag": "h4",
+            "content": "<p>La matière, l’ergonomie.. tout est penser avec précision. Cet oreiller semble être fait pour moi, j’en ai également acheter un pour mon papa j’ai déjà hâte de le lui offrir : pour moi c’est désormais un indispensable … je ne me vois pas revenir à des oreillers classiques<br/><br/><strong>Adèle Marchand, 29 ans – Lille (59)</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_4CG8nz": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "\"La matière est tellement incroyable...\"",
+            "heading_tag": "h4",
+            "content": "<p>Super confortable, belle couleur et la housse de grande qualité ! C'est validé pour moi !<br/><br/><strong>Jean Pierre Termis, 47 ans – Marseille (13)</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8eU4j3": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "\"Depuis que je l'ai je n'ai plus aucun maux aux cervicales”",
+            "heading_tag": "h4",
+            "content": "<p>Et c'est vrai que le coussin entre les cuisses et un sous la tête est super agréable et ne gêne pas pour la nuit j'adore. Je le recommande pour les personnes qui dorment sur le côté.<br/></p><p><strong>Louise Françoise, 28 ans – Lyon (69)</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_UnTi7X": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "“Merci je passe des super nuits”",
+            "heading_tag": "h4",
+            "content": "<p>Bonjour, Ça fait une semaine que j’ai reçu mon oreiller et je suis 100 % satisfaite, je le recommande, je dors beaucoup mieux, je n’ai plus mal dans les cervicales et dans le dos, c’est vraiment super .</p><p><em><br/></em><strong>Sophie Bojidarovic, 42 ans – Grenoble (38)</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jKryca": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "\"Je recommande fortement.\"",
+            "heading_tag": "h4",
+            "content": "<p>Cela doit faire deux semaines maintenant que j'ai l'oreiller Orthopédo 2.0. Je suis à 100% satisfaite de mon achat. Je recommande fortement.</p><p><strong>Claire Grenier, 26 ans – Paris (75)</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_tg83yK",
+        "item_4CG8nz",
+        "item_8eU4j3",
+        "item_UnTi7X",
+        "item_jKryca"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     },
     "featured-product": {
       "type": "featured-product",
@@ -552,9 +663,11 @@
     "rich_text_GaYXCf",
     "scrolling-text",
     "image_with_text_overlay_GwYhDd",
+    "rich_text_mihemB",
     "rich_text_prXEkr",
     "custom_liquid_iQzBDy",
     "testimonial_pro_Qqrcjr",
+    "multi_column_CrGHPL",
     "featured-product",
     "custom_liquid_HyfXhU",
     "rich_text_3QaB4P",
