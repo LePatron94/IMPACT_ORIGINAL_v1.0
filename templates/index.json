@@ -171,6 +171,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/SECTION_BENEFFFFF_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -333,7 +334,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "premium-vibration-alarm-pro",
+        "product": "oreiller-2-0",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
