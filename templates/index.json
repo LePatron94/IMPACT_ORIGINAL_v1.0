@@ -16,7 +16,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/IMG_6310_4.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -30,7 +29,6 @@
         "logo_7FTkiX": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-seo_1_2_2.png",
             "logo_width": 300,
             "link": ""
           }
@@ -38,7 +36,6 @@
         "logo_WCRJAp": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1_5.png",
             "logo_width": 300,
             "link": ""
           }
@@ -46,7 +43,6 @@
         "logo_7X9hqg": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/dljnqnds_3.png",
             "logo_width": 300,
             "link": ""
           }
@@ -54,7 +50,6 @@
         "logo_CBJAMJ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/d_cbkd_2.png",
             "logo_width": 300,
             "link": ""
           }
@@ -171,7 +166,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/SECTION_BENEFFFFF_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -249,7 +243,136 @@
     "testimonial_pro_Qqrcjr": {
       "type": "testimonial-pro",
       "name": "SS - Testimonial #8",
-      "settings": {}
+      "settings": {
+        "heading": "Our customers tell it better than we do!",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_size_mobile": 24,
+        "heading_height": 130,
+        "heading_align": "center",
+        "rating_text": "Excellent",
+        "rating_text_custom": false,
+        "rating_text_font": "josefin_sans_n4",
+        "rating_text_size": 24,
+        "rating_text_size_mobile": 20,
+        "rating_text_height": 130,
+        "rating_text_mt": 16,
+        "rating": 4.7,
+        "rating_hide": false,
+        "rating_text_hide": false,
+        "rating_align": "center",
+        "stars_count": 5,
+        "stars_size": 28,
+        "stars_size_mobile": 24,
+        "stars_align": "center",
+        "text": "<p>based on <strong>1 067</strong> reviews</p>",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 20,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "text_align": "center",
+        "text_mt": 16,
+        "slider_width": 80,
+        "slider_view": 3,
+        "slider_view_mobile": 1.2,
+        "slider_gap": 20,
+        "slider_gap_mobile": 20,
+        "slider_mt": 36,
+        "card_padding_vertical": 32,
+        "card_padding_vertical_mobile": 24,
+        "card_padding_horizontal": 40,
+        "card_padding_horizontal_mobile": 24,
+        "card_radius": 16,
+        "card_border_thickness": 0,
+        "card_shadow": true,
+        "card_heading_custom": false,
+        "card_heading_font": "josefin_sans_n4",
+        "card_heading_size": 24,
+        "card_heading_size_mobile": 20,
+        "card_heading_height": 130,
+        "card_heading_align": "center",
+        "card_heading_mt": 16,
+        "card_text_custom": false,
+        "card_text_font": "josefin_sans_n4",
+        "card_text_size": 14,
+        "card_text_size_mobile": 14,
+        "card_text_height": 150,
+        "card_text_align": "center",
+        "card_text_mt": 16,
+        "card_text_more": "View More",
+        "card_text_less": "View Less",
+        "card_count_words": 20,
+        "card_author_date_text_custom": false,
+        "card_author_date_text_font": "josefin_sans_n4",
+        "card_author_date_text_size": 16,
+        "card_author_date_text_size_mobile": 16,
+        "card_author_date_text_height": 130,
+        "card_author_date_text_align": "center",
+        "card_author_date_text_mt": 16,
+        "arrow_size": 50,
+        "arrow_size_mobile": 50,
+        "arrow_icon_size": 28,
+        "arrow_icon_size_mobile": 28,
+        "arrow_border_thickness": 0,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "dots_size": 12,
+        "dots_size_mobile": 12,
+        "dots_show_desktop": false,
+        "dots_show_mobile": false,
+        "button": "View All",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 16,
+        "button_size_mobile": 14,
+        "button_height": 100,
+        "button_align": "center",
+        "button_mt": 16,
+        "button_padding_vertical": 20,
+        "button_padding_horizontal": 16,
+        "button_radius": 8,
+        "button_border_thickness": 0,
+        "button_color": "#ffffff",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#000000",
+        "button_bg_hover_color": "#000000",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "card_bg_color": "#ffffff",
+        "card_border_color": "#000000",
+        "card_shadow_color": "#00b67a",
+        "card_heading_color": "#000000",
+        "card_text_color": "#000000",
+        "card_author_date_text_color": "#000000",
+        "arrow_color": "#000000",
+        "arrow_hover_color": "#000000",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#ffffff",
+        "arrow_border_hover_color": "#ffffff",
+        "dots_color": "#000000",
+        "heading_color": "#000000",
+        "rating_text_color": "#000000",
+        "stars_bg_color": "#00b67a",
+        "stars_color": "#ffffff",
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "linear-gradient(180deg, rgba(206, 239, 199, 1), rgba(255, 255, 255, 1) 100%)",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
     },
     "multi_column_CrGHPL": {
       "type": "multi-column",
@@ -257,7 +380,6 @@
         "item_tg83yK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ZxFOUjFKp_mid_1.webp",
             "column_size": "3",
             "title": "\"Une réelle découverte ! Je suis conquise\"",
             "heading_tag": "h4",
@@ -270,7 +392,6 @@
         "item_4CG8nz": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/X0fYb_B4L_mid_1.webp",
             "column_size": "3",
             "title": "\"La matière est tellement incroyable...\"",
             "heading_tag": "h4",
@@ -283,7 +404,6 @@
         "item_8eU4j3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/CgpkvvRv7_mid_1.webp",
             "column_size": "3",
             "title": "\"Depuis que je l'ai je n'ai plus aucun maux aux cervicales”",
             "heading_tag": "h4",
@@ -296,7 +416,6 @@
         "item_UnTi7X": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/JHZuWrVSO_mid_1.webp",
             "column_size": "3",
             "title": "“Merci je passe des super nuits”",
             "heading_tag": "h4",
@@ -309,7 +428,6 @@
         "item_jKryca": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/tPy9Qgnwb_mid_2.jpg",
             "column_size": "3",
             "title": "\"Je recommande fortement.\"",
             "heading_tag": "h4",
@@ -322,7 +440,6 @@
         "item_BAVxXm": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/cYaZ8KCE-_mid_1.webp",
             "column_size": "3",
             "title": "\"Merci pour la rapidité de livraison\"",
             "heading_tag": "h4",
@@ -335,7 +452,6 @@
         "item_mmzCxW": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/q_Tif7Roe_mid_1.webp",
             "column_size": "3",
             "title": "\"Un changement dans mon sommeil\"",
             "heading_tag": "h4",
@@ -348,7 +464,6 @@
         "item_RhnAW6": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ANRGIQEYZ_mid_1.webp",
             "column_size": "3",
             "title": "\"J'ai du en racheter un\"",
             "heading_tag": "h4",
@@ -534,7 +649,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "oreiller-2-0",
+        "product": "foundation-dryskin",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -712,7 +827,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/2_273a37d5-fa25-4dd5-9622-ab4398ed5f31.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
