@@ -445,6 +445,7 @@
         },
         "rt_deadline": {
           "type": "rt_deadline",
+          "disabled": true,
           "settings": {
             "title": "Black Friday · Prix VIP en ligne",
             "text": "Notre plus grosse offre de l'année, jusqu'au 30 novembre.",
