@@ -17,13 +17,13 @@
         "customer-support": {
           "type": "item",
           "settings": {
-            "icon": "picto-customer-support",
+            "icon": "picto-box",
             "mobile_icon_width": 48,
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Service client 7J/7",
+            "title": "Suivi de colis par e-mail",
             "content": ""
           }
         },
@@ -75,7 +75,7 @@
       ],
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "title": "",
         "heading_tag": "h6",
         "text_alignment": "center",
@@ -100,8 +100,8 @@
         "links": {
           "type": "links",
           "settings": {
-            "menu": "footer",
-            "show_menu_title": true
+            "menu": "orthopedo-menu",
+            "show_menu_title": false
           }
         }
       },
@@ -124,4 +124,3 @@
     "footer"
   ]
 }
-

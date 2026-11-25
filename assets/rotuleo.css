@@ -156,3 +156,34 @@ body { -webkit-font-smoothing: antialiased; }
 .rt-benefits__media img { aspect-ratio: 16 / 10; object-fit: cover; }
 
 .shopify-section--testimonials .section-header { text-align: center; justify-items: center; margin-inline: auto; }
+
+/* ---------- Offres Kaching (aux couleurs Rotuleo) ---------- */
+.kaching-bundles__block {
+  --bar-border-radius: 14px !important;
+  --bar-background-color: #ffffff !important;
+  --bar-selected-background-color: #ffffff !important;
+  --bar-border-color: #c9d3df !important;
+  --bar-selected-border-color: #0d2e57 !important;
+  --block-title-color: #0d2e57 !important;
+  --block-block-title-color: #46566c !important;
+  --bar-title-color: #0d2e57 !important;
+  --bar-title-font-size: 18px !important;
+  --bar-subtitle-color: #46566c !important;
+  --bar-subtitle-font-size: 13px !important;
+  --bar-price-color: #0d2e57 !important;
+  --bar-full-price-color: #6b7a8f !important;
+  --bar-label-background-color: #0d2e57 !important;
+  --bar-label-color: #ffffff !important;
+  --bar-label-border-top-radius: 10px !important;
+  --bar-most-popular-background-color: #0d2e57 !important;
+  --bar-most-popular-color: #ffffff !important;
+}
+.kaching-bundles, .kaching-bundles * { font-family: var(--text-font-family); }
+.kaching-bundles__bar-title { line-height: 1.2; }
+.kaching-bundles__bar--selected .kaching-bundles__bar-container { box-shadow: 0 0 0 1px #0d2e57; }
+.kaching-bundles .kaching-bundles__free-gift { background-color: #eef2f7 !important; }
+.kaching-bundles .kaching-bundles__free-gift__text { color: #46566c !important; font-weight: 600; }
+.kaching-bundles .kaching-bundles__free-gift__full-price { color: #6b7a8f !important; }
+.kaching-bundles .kaching-bundles__bar--selected .kaching-bundles__free-gift { background-color: #e7f6f9 !important; }
+.kaching-bundles .kaching-bundles__bar--selected .kaching-bundles__free-gift__text { color: #0d2e57 !important; }
+.kaching-bundles .kaching-bundles__bar--selected .kaching-bundles__free-gift__full-price { color: #0a7a8e !important; }
