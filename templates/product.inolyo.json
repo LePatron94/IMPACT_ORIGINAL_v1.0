@@ -383,6 +383,68 @@
         "lazy": true
       }
     },
+    "multi_column_MeMNhe": {
+      "type": "multi-column",
+      "blocks": {
+        "item_NbURb4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/rotuleo-sangle-11.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_EpAawP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/rotuleo-lp-anti-glisse.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9k6Ncy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/rotuleo-lp-portez-la.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_NbURb4",
+        "item_EpAawP",
+        "item_9k6Ncy"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -801,6 +863,7 @@
     "compare",
     "reviews",
     "testimonial_pro_HQXyYz",
+    "multi_column_MeMNhe",
     "main",
     "steps",
     "mt_force",
