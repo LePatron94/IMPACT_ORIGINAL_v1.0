@@ -192,89 +192,6 @@
         "text_color": ""
       }
     },
-    "reviews": {
-      "type": "testimonials",
-      "blocks": {
-        "t1": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Monique D. · 68 ans, arthrose du genou",
-            "title": "Je remarche normalement",
-            "content": "<p>Je boitais en marchant, les grosses genouillères étaient trop encombrantes. Cette petite sangle se met en 30 secondes et je remarche normalement. Un vrai soulagement au quotidien.</p>"
-          }
-        },
-        "t2": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Fbastien · Vélo & randonnée",
-            "title": "Aucune douleur sur 75 km",
-            "content": "<p>Je n'y croyais pas après avoir essayé une grande partie des genouillères du marché… Je rentre d'une sortie vélo de 75 km : aucune douleur et la sangle s'est fait oublier.</p>"
-          }
-        },
-        "t3": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Françoise · Marche au quotidien",
-            "title": "Juste incroyable",
-            "content": "<p>Je l'ai achetée sans trop y croire car mon genou est très abîmé. Plus aucune douleur à la marche, et surtout dans les descentes d'escaliers !</p>"
-          }
-        },
-        "t4": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Bernard · Rotules sensibles",
-            "title": "Soulage énormément",
-            "content": "<p>Très bien, soulage énormément, très pratique à mettre en place, glisse très peu. Je suis très content.</p>"
-          }
-        },
-        "t5": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Guillaume · Course à pied",
-            "title": "Efficace dès la première sortie",
-            "content": "<p>Reçue et testée sur une sortie de 8,7 km : je constate une efficacité car je n'ai eu aucune douleur au genou.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "t1",
-        "t2",
-        "t3",
-        "t4",
-        "t5"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": false,
-        "subheading": "Noté 4,7/5 par nos clients",
-        "title": "Ils ont choisi Rotuleo",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "#e8f5f8",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "#0d2e57",
-        "heading_gradient": "",
-        "testimonial_card_background": "#ffffff",
-        "testimonial_card_text_color": "#111111"
-      }
-    },
     "testimonial_pro_HQXyYz": {
       "type": "testimonial-pro",
       "name": "SS - Testimonial #8",
@@ -902,7 +819,6 @@
     "rich_text_bQzKXD",
     "image_with_text_overlay_LGfxMp",
     "compare",
-    "reviews",
     "testimonial_pro_HQXyYz",
     "multi_column_MeMNhe",
     "main",
