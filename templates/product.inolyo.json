@@ -85,62 +85,21 @@
         "logo_item_border": "#ffffff"
       }
     },
-    "benefits": {
-      "type": "rt-benefits",
-      "blocks": {
-        "b1": {
-          "type": "benefit",
-          "settings": {
-            "title": "Aborder les escaliers sereinement"
-          }
-        },
-        "b2": {
-          "type": "benefit",
-          "settings": {
-            "title": "Reprendre ses activités favorites délaissées"
-          }
-        },
-        "b3": {
-          "type": "benefit",
-          "settings": {
-            "title": "Ne plus subir ses déplacements"
-          }
-        },
-        "b4": {
-          "type": "benefit",
-          "settings": {
-            "title": "Retrouver le plaisir de sortir l'esprit libre"
-          }
-        },
-        "b5": {
-          "type": "benefit",
-          "settings": {
-            "title": "Profiter pleinement d'une randonnée"
-          }
-        },
-        "b6": {
-          "type": "benefit",
-          "settings": {
-            "title": "100% Made in France"
-          }
-        }
-      },
-      "block_order": [
-        "b1",
-        "b2",
-        "b3",
-        "b4",
-        "b5",
-        "b6"
-      ],
+    "image_with_text_overlay_LGfxMp": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
-        "title": "Pourquoi choisir la Sangle Anti-Douleur de ROTULEO ?",
-        "content": "",
-        "image": "shopify://shop_images/rotuleo-sangle-12.webp",
         "full_width": true,
-        "background": "#e8f5f8",
-        "background_gradient": "",
-        "text_color": ""
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/hf_20261125_010713_ffe61cbf-dd93-423a-9b69-4708c17b0e54.png",
+        "mobile_image": "shopify://shop_images/hf_20261125_010713_7cae739f-cf95-4a5c-a1ba-9133e86e7510.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "compare": {
@@ -704,7 +663,7 @@
     "image_with_text_overlay_HgfVY6",
     "hero",
     "logos",
-    "benefits",
+    "image_with_text_overlay_LGfxMp",
     "compare",
     "reviews",
     "main",
