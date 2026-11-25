@@ -187,8 +187,7 @@
         "heading_color": "",
         "heading_gradient": "",
         "logo_item_background": "#ffffff",
-        "logo_item_border": "#ffffff",
-        "monochrome_logos": true
+        "logo_item_border": "#ffffff"
       }
     },
     "benefits": {
@@ -268,7 +267,7 @@
     "mt_genouillere": {
       "type": "rt-media-text",
       "settings": {
-        "image": "shopify://shop_images/rotuleo-v2-genouillere.webp",
+        "image": "shopify://shop_images/rotuleo-lp-genouillere.webp",
         "video_url": "",
         "poster": "",
         "media_position": "end",
@@ -446,7 +445,7 @@
     "mt_10h": {
       "type": "rt-media-text",
       "settings": {
-        "image": "shopify://shop_images/rotuleo-sangle-08.webp",
+        "image": "shopify://shop_images/rotuleo-lp-portez-la.webp",
         "video_url": "",
         "poster": "",
         "media_position": "end",
@@ -492,7 +491,7 @@
       "settings": {
         "title": "Comment la porter",
         "content": "<p>10 secondes, c'est fait.</p>",
-        "image": "shopify://shop_images/rotuleo-v2-piste.webp",
+        "image": "shopify://shop_images/rotuleo-sangle-09.webp",
         "button_label": "",
         "full_width": true,
         "background": "#e8f5f8",
