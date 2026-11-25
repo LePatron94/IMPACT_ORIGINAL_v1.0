@@ -404,6 +404,7 @@
         },
         "subtitle": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Soulagez vos douleurs du genou définitivement avec notre sangle.</p>"
           }
