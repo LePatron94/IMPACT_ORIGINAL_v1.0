@@ -108,7 +108,7 @@
           "type": "text",
           "settings": {
             "title": "Service client",
-            "content": "<p><a href=\"/pages/contact\">Nous contacter</a><br>contactabu.ahmed@gmail.com<br>Du lundi au dimanche, 9 h – 19 h<br>Réponse sous 24 h</p>",
+            "content": "<p><a href=\"/pages/contact\">Nous contacter</a><br/>contact@rotuleo.com<br/>Du lundi au dimanche, 9 h – 19 h<br/>Réponse sous 24 h</p>",
             "enable_follow_on_shop": false
           }
         },
