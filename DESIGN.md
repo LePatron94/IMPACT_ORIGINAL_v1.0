@@ -49,5 +49,11 @@ La précision, pas la pression : une interface aussi ciblée que le produit — 
 Quasi aucune : pas d'animation d'apparition des titres, pas de transition de page. Seules animations : défilement de la barre d'annonce et compte à rebours de l'offre.
 
 ## Structure de la page produit (playbook ECC)
-1 Hero promesse (image lifestyle, titre bénéfice, sous-titre promesse, sans bouton) · 2 Vu sur (logos en couleur) · 3 Bénéfices · 4 Comparatif (contraste, remplace l'avant/après) · 5 Avis clients · 6 Bloc d'achat = SEUL bouton d'achat de la page · 7 Mode d'emploi puis arguments (force, genouillère, anti-glisse, 10 h) · garantie · 9 FAQ · 10 Contact · 11 Pied de page (liens légaux + SAV).
+1 Hero promesse (image lifestyle, titre bénéfice, sous-titre promesse, sans bouton) · 2 Vu sur (logos monochromes, même encre) · 3 Bénéfices · 4 Comparatif (contraste, remplace l'avant/après) · 5 Avis clients · 6 Bloc d'achat = SEUL bouton d'achat de la page · 7 Mode d'emploi puis arguments (force, genouillère, anti-glisse, 10 h) · garantie · 9 FAQ · 10 Contact · 11 Pied de page (liens légaux + SAV).
 Règle : aucun bouton d'achat hors du bloc d'achat (barre fixe désactivée).
+
+## Imagery
+- Visuels produit et bannières : fond blanc ou turquoise clair (#E8F5F8), textes en marine (#0D2E57), accents (surlignage, icônes) en turquoise (#1BB0C9). Jamais de rouge, de fond gris foncé ni de couleurs vives hors palette (ex. baskets roses, piste rouge).
+- Photos lifestyle : lumière naturelle, tons neutres ou froids ; tenues sombres/marine plutôt que couleurs flashy.
+- Une image = un usage : pas la même photo dans deux sections de la page.
+- Logos « Vu sur » : monochromes (niveaux de gris) pour ne pas concurrencer la palette.

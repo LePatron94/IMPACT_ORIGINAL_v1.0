@@ -1,3 +1,8 @@
+{%- if section.settings.monochrome_logos -%}
+  {%- style -%}
+    #shopify-section-{{ section.id }} .logo-list--mono .logo-list__image { filter: grayscale(1) contrast(1.35); opacity: 0.9; }
+  {%- endstyle -%}
+{%- endif -%}
 {%- if section.blocks.size > 0 -%}
   {%- render 'section-spacing-collapsing' -%}
 
@@ -41,7 +46,7 @@
         {{- section.settings.content -}}
       </div>
 
-      <reveal-items class="logo-list {% unless section.settings.stack_mobile %}scroll-area bleed sm:unbleed{% endunless %}">
+      <reveal-items class="logo-list {% unless section.settings.stack_mobile %}scroll-area bleed sm:unbleed{% endunless %}{% if section.settings.monochrome_logos %} logo-list--mono{% endif %}">
         {%- for block in section.blocks -%}
           {%- capture block_content -%}
             {%- if block.settings.logo != blank -%}
@@ -169,6 +174,13 @@
       "type": "color",
       "id": "logo_item_border",
       "label": "Logo border"
+    },
+    {
+      "type": "checkbox",
+      "id": "monochrome_logos",
+      "label": "Logos monochromes",
+      "info": "Affiche les logos en niveaux de gris pour une liste homogène.",
+      "default": false
     }
   ],
   "blocks": [
