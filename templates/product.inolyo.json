@@ -70,7 +70,7 @@
             "icon_1": "picto-lock",
             "text_1": "Paiement sécurisé",
             "icon_2": "picto-truck",
-            "text_2": "Expédié sous 48 h",
+            "text_2": "Livraison offerte en France",
             "icon_3": "picto-return",
             "text_3": "Satisfait ou remboursé 60 jours",
             "show_payment_icons": true,
@@ -104,11 +104,18 @@
             "title": "Livraison & suivi",
             "content": "<p><strong>Expédiée sous 48 h.</strong> Suivez votre colis à chaque étape : numéro de suivi envoyé par e-mail dès l'envoi.</p>"
           }
+        },
+        "subtitle": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Le soulagement ciblé, juste sous la rotule : discrète, ajustable, prête en 10 secondes.</p>"
+          }
         }
       },
       "block_order": [
         "rt_proof",
         "title",
+        "subtitle",
         "rt_points",
         "rt_deadline",
         "kaching",
@@ -121,7 +128,7 @@
       ],
       "settings": {
         "full_width": true,
-        "show_fixed_add_to_cart": true,
+        "show_fixed_add_to_cart": false,
         "desktop_media_width": 50,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -236,7 +243,7 @@
         "content": "",
         "image": "shopify://shop_images/rotuleo-sangle-12.webp",
         "full_width": true,
-        "background": "#ffffff",
+        "background": "#e8f5f8",
         "background_gradient": "",
         "text_color": ""
       }
@@ -347,13 +354,13 @@
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "#ffffff",
+        "background": "#e8f5f8",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "#0d2e57",
         "heading_gradient": "",
-        "testimonial_card_background": "#f4f6f9",
-        "testimonial_card_text_color": "#0f2440"
+        "testimonial_card_background": "#ffffff",
+        "testimonial_card_text_color": "#111111"
       }
     },
     "compare": {
@@ -412,7 +419,7 @@
         "content": "<p>La précision, pas la pression.</p>",
         "us_label": "Rotuleo",
         "them_label": "Genouillère classique",
-        "button_label": "Acheter maintenant",
+        "button_label": "",
         "full_width": true,
         "background": "",
         "background_gradient": "",
@@ -485,9 +492,9 @@
         "title": "Comment la porter",
         "content": "<p>10 secondes, c'est fait.</p>",
         "image": "shopify://shop_images/rotuleo-sangle-09.webp",
-        "button_label": "Acheter maintenant",
+        "button_label": "",
         "full_width": true,
-        "background": "#ffffff",
+        "background": "#e8f5f8",
         "background_gradient": "",
         "text_color": ""
       }
@@ -617,13 +624,13 @@
         "full_width": true,
         "subheading": "",
         "title": "Questions fréquentes",
-        "content": "<p>Une autre question ? Notre équipe vous répond.</p>",
+        "content": "",
         "support_hours": "",
         "answer_time": "",
-        "button_text": "Nous contacter",
-        "button_url": "/pages/contact",
+        "button_text": "",
+        "button_url": "",
         "text_position": "start",
-        "background": "",
+        "background": "#e8f5f8",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "#0d2e57",
@@ -633,20 +640,84 @@
         "accordion_background": "#ffffff",
         "accordion_text_color": "#0f2440"
       }
+    },
+    "hero": {
+      "type": "rt-hero",
+      "blocks": {
+        "h1": {
+          "type": "point",
+          "settings": {
+            "text": "Satisfait ou remboursé 60 jours"
+          }
+        },
+        "h2": {
+          "type": "point",
+          "settings": {
+            "text": "Livraison offerte en France"
+          }
+        },
+        "h3": {
+          "type": "point",
+          "settings": {
+            "text": "Expédié sous 48 h"
+          }
+        },
+        "h4": {
+          "type": "point",
+          "settings": {
+            "text": "Taille unique ajustable"
+          }
+        }
+      },
+      "block_order": [
+        "h1",
+        "h2",
+        "h3",
+        "h4"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/rotuleo-lp-portez-la.webp",
+        "image_focus": "object-position: center 35%",
+        "rating_text": "4,7/5 · 202 avis vérifiés",
+        "title": "Enfin, <strong>le soulagement</strong> que vos genoux attendaient.",
+        "subtitle": "<p>L’orthèse rotulienne qui cible le point exact sous la rotule. Montez les escaliers, marchez et randonnez à nouveau l’esprit libre.</p>"
+      }
+    },
+    "contact": {
+      "type": "contact",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Une question ? Écrivez-nous",
+        "content": "<p>Une vraie équipe vous répond sous 24 h, du lundi au dimanche.</p>",
+        "text_position": "center",
+        "contact_form_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "#0d2e57",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "#0d2e57",
+        "button_text_color": "#ffffff"
+      }
     }
   },
   "order": [
-    "main",
+    "hero",
     "logos",
     "benefits",
+    "compare",
+    "reviews",
+    "main",
+    "steps",
     "mt_force",
     "mt_genouillere",
-    "reviews",
-    "compare",
     "mt_glisse",
     "mt_10h",
-    "steps",
     "guarantee",
-    "faq"
+    "faq",
+    "contact"
   ]
 }

@@ -124,7 +124,6 @@ body { -webkit-font-smoothing: antialiased; }
 .rt-steps__cta .button { width: 100%; }
 
 /* ---------- Sections natives ---------- */
-.shopify-section--logo-list .logo-list img { filter: grayscale(1); opacity: .7; }
 
 @media screen and (min-width: 1000px) {
   .rt-benefits { grid-template-columns: 1fr minmax(300px, 400px) 1fr; grid-template-areas: "a media b"; gap: 28px; align-items: center; }
@@ -190,3 +189,62 @@ body { -webkit-font-smoothing: antialiased; }
 
 /* Barre d'achat fixe mobile : même couleur d'action que le bouton principal */
 .product-quick-add buy-buttons .button { --button-background: 27 176 201; --button-text-color: 13 46 87; }
+
+/* =====================================================================
+   v3 — Texte noir, site lumineux, structure ECC
+   ===================================================================== */
+:root {
+  --rt-ink: #111111;
+  --rt-ink-2: #1f2329;
+  --rt-card: #ffffff;
+  --rt-tint: #e8f5f8;
+}
+.text-subdued { color: rgb(var(--text-color) / .88); opacity: 1; }
+.rt-points li, .rt-mt__text, .rt-step__text, .rt-head__sub, .rt-proof, .rt-cmp__table tbody th, .rt-cmp__table thead th { color: var(--rt-ink); }
+.rt-proof__score { color: var(--rt-ink); }
+.rt-proof__rating { cursor: pointer; }
+
+/* Logos en couleur */
+.shopify-section--logo-list .logo-list__image { filter: none; opacity: 1; }
+.shopify-section--logo-list .h2 { color: var(--rt-navy); }
+
+/* Cartes blanches sur bandes turquoise clair */
+.rt-benefit, .rt-step { background: var(--rt-card); box-shadow: 0 1px 0 rgb(13 46 87 / .06); }
+.rt-benefit .rt-ico--check, .rt-points .rt-ico--check { color: var(--rt-teal-ink); }
+
+/* Offres Kaching : cadeaux plus vivants */
+.kaching-bundles .kaching-bundles__free-gift { background-color: #f3f8fa !important; }
+.kaching-bundles .kaching-bundles__free-gift__text { color: #1f2329 !important; }
+.kaching-bundles .kaching-bundles__bar--selected .kaching-bundles__free-gift { background-color: var(--rt-tint) !important; }
+.kaching-bundles .kaching-bundles__bar-subtitle { color: #1f2329 !important; }
+
+/* Sous-titre bénéfice sous le titre produit */
+.product-info__text .prose, .product-info__text { font-size: 1.0625rem; color: var(--rt-ink); }
+
+/* ---------- Hero promesse ---------- */
+.rt-hero { display: grid; background: var(--rt-navy); color: #fff; }
+.rt-hero__media { position: relative; aspect-ratio: 1 / 1; overflow: hidden; }
+.rt-hero__media img, .rt-hero__media svg { display: block; width: 100%; height: 100%; object-fit: cover; }
+.rt-hero__media::after { content: ""; position: absolute; inset: auto 0 0 0; height: 30%; background: linear-gradient(to top, var(--rt-navy), rgb(13 46 87 / 0)); }
+.rt-hero__content { display: flex; align-items: center; padding: 4px 20px 32px; margin-top: -40px; position: relative; z-index: 1; }
+.rt-hero__inner { max-width: 560px; }
+.rt-hero__rating { display: flex; align-items: center; gap: 8px; margin: 0 0 10px; font-size: .9375rem; font-weight: 600; }
+.rt-hero__title { margin: 0; font-size: clamp(2rem, 1.4rem + 2.6vw, 3.5rem); line-height: 1.04; letter-spacing: -.02em; color: #fff; text-wrap: balance; }
+.rt-hero__title strong { color: var(--rt-teal); font-weight: inherit; }
+.rt-hero__sub { margin-top: 14px; font-size: 1.0625rem; line-height: 1.55; color: #fff; }
+.rt-hero__sub p { margin: 0; }
+.rt-hero__points { list-style: none; margin: 20px 0 0; padding: 0; display: grid; gap: 10px; }
+.rt-hero__points li { display: flex; align-items: center; gap: 10px; font-weight: 600; font-size: 1rem; }
+.rt-hero__points .rt-ico--check { color: var(--rt-teal); }
+
+@media screen and (min-width: 1000px) {
+  .rt-hero { grid-template-columns: 1fr 1.05fr; min-height: 620px; }
+  .rt-hero__media { order: 2; aspect-ratio: auto; height: 100%; min-height: 620px; }
+  .rt-hero__media::after { inset: 0 auto 0 0; width: 22%; height: 100%; background: linear-gradient(to right, var(--rt-navy), rgb(13 46 87 / 0)); }
+  .rt-hero__content { margin: 0; padding: 64px clamp(32px, 5vw, 96px); justify-content: flex-end; }
+  .rt-hero__points { grid-template-columns: 1fr 1fr; gap: 12px 24px; }
+}
+.rt-proof a.rt-proof__rating { display: flex; align-items: center; gap: 8px; color: inherit; text-decoration: none; }
+.rt-proof a.rt-proof__rating .rt-proof__score { text-decoration: underline; text-underline-offset: 3px; }
+.rt-hero__title { font-family: var(--heading-font-family); font-weight: var(--heading-font-weight); }
+.rt-benefits__media img { mix-blend-mode: multiply; }

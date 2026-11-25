@@ -49,7 +49,7 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Expédié sous 48 h",
+            "title": "Livraison offerte en France",
             "content": ""
           }
         },
@@ -103,11 +103,29 @@
             "menu": "orthopedo-menu",
             "show_menu_title": false
           }
+        },
+        "sav": {
+          "type": "text",
+          "settings": {
+            "title": "Service client",
+            "content": "<p><a href=\"/pages/contact\">Nous contacter</a><br>contactabu.ahmed@gmail.com<br>Du lundi au dimanche, 9 h – 19 h<br>Réponse sous 24 h</p>",
+            "enable_follow_on_shop": false
+          }
+        },
+        "legal": {
+          "type": "text",
+          "settings": {
+            "title": "Informations légales",
+            "content": "<p><a href=\"/policies/terms-of-sale\">Conditions générales de vente</a><br><a href=\"/policies/legal-notice\">Mentions légales</a><br><a href=\"/policies/privacy-policy\">Politique de confidentialité</a><br><a href=\"/policies/refund-policy\">Retours et remboursement</a><br><a href=\"/policies/shipping-policy\">Livraison</a></p>",
+            "enable_follow_on_shop": false
+          }
         }
       },
       "block_order": [
         "newsletter",
-        "links"
+        "links",
+        "sav",
+        "legal"
       ],
       "settings": {
         "show_social_media": true,

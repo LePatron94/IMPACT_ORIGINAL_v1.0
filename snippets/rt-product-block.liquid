@@ -4,10 +4,10 @@
     <div class="rt-proof" {{ block.shopify_attributes }}>
       <span id="rt-acheter" class="rt-anchor"></span>
       {%- if block.settings.rating_text != blank -%}
-        <p class="rt-proof__rating">
+        <a href="#avis" class="rt-proof__rating" onclick="var s=document.querySelector(&#39;.shopify-section--testimonials&#39;);if(s){event.preventDefault();s.scrollIntoView({behavior:&#39;smooth&#39;});}">
           <span class="rt-stars">{%- for i in (1..5) -%}{%- render 'rt-icon', name: 'star' -%}{%- endfor -%}</span>
           <span class="rt-proof__score">{{ block.settings.rating_text | escape }}</span>
-        </p>
+        </a>
       {%- endif -%}
       {%- if block.settings.proof_text != blank -%}
         <p class="rt-proof__people">
