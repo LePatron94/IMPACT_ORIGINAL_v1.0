@@ -177,6 +177,7 @@
         "r4",
         "r5"
       ],
+      "disabled": true,
       "settings": {
         "title": "Rotuleo ou genouillère classique ?",
         "content": "<p>La précision, pas la pression.</p>",
@@ -393,9 +394,9 @@
         "full_width": true,
         "show_fixed_add_to_cart": false,
         "desktop_media_width": 50,
-        "desktop_media_layout": "carousel_thumbnails_left",
+        "desktop_media_layout": "carousel_thumbnails_bottom",
         "mobile_media_size": "expanded",
-        "mobile_carousel_control": "dots",
+        "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": false,
         "enable_video_looping": true,
         "enable_image_zoom": true,
