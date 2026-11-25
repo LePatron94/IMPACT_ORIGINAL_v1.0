@@ -256,3 +256,7 @@ body { -webkit-font-smoothing: antialiased; }
 /* Alignement preuve sociale : l ancre invisible ne decale plus la ligne des etoiles */
 .rt-proof { position: relative; }
 .rt-proof > .rt-anchor { position: absolute; top: 0; left: 0; }
+/* Badge stock limite : marges reduites (8px au lieu de 24px) */
+.product-info > .product-info__liquid:has(.red-div) { margin-block: 8px !important; }
+.product-info > :has(+ .product-info__liquid .red-div) { margin-bottom: 8px !important; }
+.product-info > .product-info__liquid:has(.red-div) + * { margin-top: 8px !important; }
