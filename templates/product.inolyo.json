@@ -9,8 +9,25 @@
  */
 {
   "sections": {
+    "image_with_text_overlay_HgfVY6": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Gemini_Generated_Image_llt1rellt1rellt1.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "hero": {
       "type": "rt-hero",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/rotuleo-lp-portez-la.webp",
         "image_focus": "object-position: center 35%",
@@ -104,7 +121,7 @@
         "b6": {
           "type": "benefit",
           "settings": {
-            "title": "C'est vous qui décidez, plus votre genou"
+            "title": "100% Made in France"
           }
         }
       },
@@ -684,6 +701,7 @@
     }
   },
   "order": [
+    "image_with_text_overlay_HgfVY6",
     "hero",
     "logos",
     "benefits",
