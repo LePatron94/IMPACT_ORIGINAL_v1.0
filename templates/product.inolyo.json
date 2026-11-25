@@ -386,6 +386,19 @@
     "multi_column_MeMNhe": {
       "type": "multi-column",
       "blocks": {
+        "item_FyJxaP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/rotuleo-hero-escalier.png",
+            "column_size": "3",
+            "title": "Martin D. · 61 ans",
+            "heading_tag": "h4",
+            "content": "<p>Je l'ai achetée sans trop y croire car mon genou est très abîmé. Plus aucune douleur à la marche, et surtout dans les descentes d'escaliers !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_NbURb4": {
           "type": "item",
           "settings": {
@@ -427,6 +440,7 @@
         }
       },
       "block_order": [
+        "item_FyJxaP",
         "item_NbURb4",
         "item_EpAawP",
         "item_9k6Ncy"
