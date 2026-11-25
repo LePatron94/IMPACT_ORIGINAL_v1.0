@@ -86,32 +86,6 @@
         "logo_item_border": "#ffffff"
       }
     },
-    "rich_text_bQzKXD": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Cmzxrm": {
-          "type": "heading",
-          "settings": {
-            "text": "Pourquoi choisir notre Sangle de précision ?",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_Cmzxrm"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "image_with_text_overlay_LGfxMp": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -120,8 +94,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/hf_20261125_023118_080bb7ad-6dce-44b2-887e-00f7624db91e.png",
-        "mobile_image": "shopify://shop_images/hf_20261125_023118_cd0341a9-8f0b-40a7-aead-e691558d4839.png",
+        "image": "shopify://shop_images/Gemini_Generated_Image_st10rtst10rtst10_1.jpg",
+        "mobile_image": "shopify://shop_images/Gemini_Generated_Image_st10rtst10rtst10_1_a8d0ac19-bb4c-4ea3-bd10-2ed1140261e0.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -219,7 +193,7 @@
         "stars_size": 28,
         "stars_size_mobile": 24,
         "stars_align": "center",
-        "text": "<p><strong>basé sur +25 000 clients</strong></p>",
+        "text": "<p><strong>basé sur +20 000 clients</strong></p>",
         "text_custom": false,
         "text_font": "josefin_sans_n4",
         "text_size": 20,
@@ -413,7 +387,7 @@
             "avatar_1": "shopify://shop_images/orthopedo-avatar-1.webp",
             "avatar_2": "shopify://shop_images/orthopedo-avatar-2.webp",
             "avatar_3": "shopify://shop_images/orthopedo-avatar-3.webp",
-            "proof_text": "Martin et +25 000 autres clients"
+            "proof_text": "Martin et +20 000 autres clients"
           }
         },
         "title": {
@@ -819,7 +793,6 @@
     "image_with_text_overlay_HgfVY6",
     "hero",
     "logos",
-    "rich_text_bQzKXD",
     "image_with_text_overlay_LGfxMp",
     "compare",
     "testimonial_pro_HQXyYz",
