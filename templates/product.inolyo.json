@@ -466,6 +466,7 @@
     },
     "mt_genouillere": {
       "type": "rt-media-text",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/rotuleo-lp-genouillere.webp",
         "video_url": "",
@@ -481,6 +482,7 @@
     },
     "mt_glisse": {
       "type": "rt-media-text",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/rotuleo-lp-anti-glisse.webp",
         "video_url": "",
@@ -496,6 +498,7 @@
     },
     "mt_10h": {
       "type": "rt-media-text",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/rotuleo-lp-portez-la.webp",
         "video_url": "",
