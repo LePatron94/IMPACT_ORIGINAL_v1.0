@@ -248,3 +248,8 @@ body { -webkit-font-smoothing: antialiased; }
 .rt-proof a.rt-proof__rating .rt-proof__score { text-decoration: underline; text-underline-offset: 3px; }
 .rt-hero__title { font-family: var(--heading-font-family); font-weight: var(--heading-font-weight); }
 .rt-benefits__media img { mix-blend-mode: multiply; }
+@media screen and (max-width: 699px) {
+  .shopify-section--text-with-icons .text-with-icons__list { display: grid; grid-template-columns: 1fr 1fr; gap: 28px 12px; overflow: visible; margin-inline: 0; padding-inline: 0; }
+  .shopify-section--text-with-icons .text-with-icons__item { width: auto; }
+  .shopify-section--text-with-icons .text-with-icons__item svg { width: 34px; height: 34px; }
+}
