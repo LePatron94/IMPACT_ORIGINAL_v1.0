@@ -9,139 +9,14 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "main-product",
-      "blocks": {
-        "rt_proof": {
-          "type": "rt_proof",
-          "settings": {
-            "rating_text": "4,7/5 · 202 avis vérifiés",
-            "avatar_1": "shopify://shop_images/orthopedo-avatar-1.webp",
-            "avatar_2": "shopify://shop_images/orthopedo-avatar-2.webp",
-            "avatar_3": "shopify://shop_images/orthopedo-avatar-3.webp",
-            "proof_text": "Martin et +15 000 autres clients"
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h3"
-          }
-        },
-        "rt_points": {
-          "type": "rt_points",
-          "settings": {
-            "point_1": "<strong>Ajustable</strong> selon votre confort",
-            "point_2": "<strong>Légère</strong>, sans envelopper tout le genou",
-            "point_3": "<strong>Discrète</strong> sous un pantalon",
-            "point_4": "<strong>Facile</strong> à mettre et à retirer",
-            "point_5": ""
-          }
-        },
-        "rt_deadline": {
-          "type": "rt_deadline",
-          "settings": {
-            "title": "Black Friday · Prix VIP en ligne",
-            "text": "Notre plus grosse offre de l'année, jusqu'au 30 novembre.",
-            "end_date": "2026-11-30T23:59:59+01:00"
-          }
-        },
-        "kaching": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{product}}",
-            "manual_deal_block_id": ""
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": false,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "rt_trust": {
-          "type": "rt_trust",
-          "settings": {
-            "icon_1": "picto-lock",
-            "text_1": "Paiement sécurisé",
-            "icon_2": "picto-truck",
-            "text_2": "Livraison offerte en France",
-            "icon_3": "picto-return",
-            "text_3": "Satisfait ou remboursé 60 jours",
-            "show_payment_icons": true,
-            "payment_types": "visa,master,cartes_bancaires,paypal,apple_pay,google_pay"
-          }
-        },
-        "acc_garantie": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Garantie satisfait ou remboursé 60 jours",
-            "content": "<p>Si vous n'êtes pas convaincu après l'avoir essayée, vous êtes <strong>remboursé intégralement</strong> — <strong>sans justification, sans formulaire, sans prise de tête.</strong> À ce prix-là, votre seul vrai risque, c'est de regretter de ne pas l'avoir commandée plus tôt.</p>"
-          }
-        },
-        "acc_materiaux": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Matériaux & qualité",
-            "content": "<p>Coussinet en silicone de qualité médicale. Sangle en tissu aéré et respirant. Réglage ajustable pour un maintien sur mesure. Pensée pour tenir, s'adapter et durer.</p>"
-          }
-        },
-        "acc_confort": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Confort & maintien",
-            "content": "<p>Matériaux premium respirants qui gardent la peau au frais pendant l'effort. Le coussinet silicone antidérapant verrouille l'orthèse en place — elle ne s'enroule pas, ne glisse pas, même en sport intense. Coupe ajustable adaptée à la plupart des tours de genou.</p>"
-          }
-        },
-        "acc_livraison": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Livraison & suivi",
-            "content": "<p><strong>Expédiée sous 48 h.</strong> Suivez votre colis à chaque étape : numéro de suivi envoyé par e-mail dès l'envoi.</p>"
-          }
-        },
-        "subtitle": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Le soulagement ciblé, juste sous la rotule : discrète, ajustable, prête en 10 secondes.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "rt_proof",
-        "title",
-        "subtitle",
-        "rt_points",
-        "rt_deadline",
-        "kaching",
-        "buy_buttons",
-        "rt_trust",
-        "acc_garantie",
-        "acc_materiaux",
-        "acc_confort",
-        "acc_livraison"
-      ],
+    "hero": {
+      "type": "rt-hero",
       "settings": {
-        "full_width": true,
-        "show_fixed_add_to_cart": false,
-        "desktop_media_width": 50,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "dots",
-        "enable_video_autoplay": false,
-        "enable_video_looping": true,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
+        "image": "shopify://shop_images/rotuleo-lp-portez-la.webp",
+        "image_focus": "object-position: center 35%",
+        "rating_text": "4,7/5 · 202 avis vérifiés",
+        "title": "Enfin, <strong>le soulagement</strong> que vos genoux attendaient.",
+        "subtitle": "<p>Grâce a sa technologie orthopédique qui cible le point exact sous la rotule.</p>"
       }
     },
     "logos": {
@@ -151,21 +26,24 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/TS-small_1.png",
-            "logo_width": 110
+            "logo_width": 110,
+            "link": ""
           }
         },
         "l2": {
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Logo_Le-Magazine-de-la-Sante.png",
-            "logo_width": 130
+            "logo_width": 130,
+            "link": ""
           }
         },
         "l3": {
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/bienetre-et-sante_logo_2025.png",
-            "logo_width": 130
+            "logo_width": 130,
+            "link": ""
           }
         }
       },
@@ -248,31 +126,62 @@
         "text_color": ""
       }
     },
-    "mt_force": {
-      "type": "rt-media-text",
+    "compare": {
+      "type": "rt-comparison",
+      "blocks": {
+        "r1": {
+          "type": "row",
+          "settings": {
+            "label": "Cible le point exact sous la rotule",
+            "us": "yes",
+            "them": "no"
+          }
+        },
+        "r2": {
+          "type": "row",
+          "settings": {
+            "label": "Reste en place pendant l'effort",
+            "us": "yes",
+            "them": "no"
+          }
+        },
+        "r3": {
+          "type": "row",
+          "settings": {
+            "label": "Respirante, se porte toute la journée",
+            "us": "yes",
+            "them": "no"
+          }
+        },
+        "r4": {
+          "type": "row",
+          "settings": {
+            "label": "Discrète sous un pantalon",
+            "us": "yes",
+            "them": "no"
+          }
+        },
+        "r5": {
+          "type": "row",
+          "settings": {
+            "label": "Taille unique ajustable, sans guide des tailles",
+            "us": "yes",
+            "them": "no"
+          }
+        }
+      },
+      "block_order": [
+        "r1",
+        "r2",
+        "r3",
+        "r4",
+        "r5"
+      ],
       "settings": {
-        "image": "",
-        "video_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3EgpMZiNzIU12050mHQXC0SvigJ/hf_20261117_221530_00c5c92f-9f00-4dfe-a9b4-a44444bd5c15.mp4",
-        "poster": "shopify://shop_images/rotuleo-sangle-05.webp",
-        "media_position": "start",
-        "title": "Votre genou n'est pas le problème. C'est l'endroit où va la force.",
-        "content": "<p>À chaque pas, à chaque marche d'escalier, à chaque fois que vous vous relevez d'une chaise, votre corps fait passer une force énorme par <strong>un seul point minuscule, juste sous votre rotule</strong>.</p><p>Un seul point. <strong>De la taille d'une pièce d'un euro.</strong></p><p>Les genouillères classiques enveloppent toute l'articulation. <strong>Elles étalent la pression partout — elles ne la ciblent nulle part.</strong></p>",
-        "button_label": "",
-        "full_width": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "mt_genouillere": {
-      "type": "rt-media-text",
-      "settings": {
-        "image": "shopify://shop_images/rotuleo-lp-genouillere.webp",
-        "video_url": "",
-        "poster": "",
-        "media_position": "end",
-        "title": "Ce n'est pas une genouillère. C'est plus petit. Et c'est voulu.",
-        "content": "<p>Une genouillère enveloppe toute l'articulation dans du néoprène en espérant que ça suffise. C'est comme <strong>mettre un pansement sur tout le bras alors qu'on s'est coupé un seul doigt.</strong></p><p>L'orthèse rotulienne Rotuleo fait une seule chose. <strong>Elle applique une pression sur le point exact où la force se concentre, et la redirige.</strong></p><p>Imaginez une porte qui frotte et coince. Vous pouvez huiler les gonds, poncer le bord, forcer pour la fermer à chaque fois. Ou vous pouvez <strong>redresser le cadre</strong> — et la porte s'ouvre sans le moindre effort.</p><p><strong>Rotuleo redresse le cadre.</strong></p>",
+        "title": "Rotuleo ou genouillère classique ?",
+        "content": "<p>La précision, pas la pression.</p>",
+        "us_label": "Rotuleo",
+        "them_label": "Genouillère classique",
         "button_label": "",
         "full_width": true,
         "background": "",
@@ -363,99 +272,139 @@
         "testimonial_card_text_color": "#111111"
       }
     },
-    "compare": {
-      "type": "rt-comparison",
+    "main": {
+      "type": "main-product",
       "blocks": {
-        "r1": {
-          "type": "row",
+        "rt_proof": {
+          "type": "rt_proof",
           "settings": {
-            "label": "Cible le point exact sous la rotule",
-            "us": "yes",
-            "them": "no"
+            "rating_text": "4,7/5 · 202 avis vérifiés",
+            "avatar_1": "shopify://shop_images/orthopedo-avatar-1.webp",
+            "avatar_2": "shopify://shop_images/orthopedo-avatar-2.webp",
+            "avatar_3": "shopify://shop_images/orthopedo-avatar-3.webp",
+            "proof_text": "Martin et +15 000 autres clients"
           }
         },
-        "r2": {
-          "type": "row",
+        "title": {
+          "type": "title",
           "settings": {
-            "label": "Reste en place pendant l'effort",
-            "us": "yes",
-            "them": "no"
+            "heading_tag": "h3"
           }
         },
-        "r3": {
-          "type": "row",
+        "subtitle": {
+          "type": "text",
           "settings": {
-            "label": "Respirante, se porte toute la journée",
-            "us": "yes",
-            "them": "no"
+            "text": "<p>Le soulagement ciblé, juste sous la rotule : discrète, ajustable, prête en 10 secondes.</p>"
           }
         },
-        "r4": {
-          "type": "row",
+        "rt_points": {
+          "type": "rt_points",
           "settings": {
-            "label": "Discrète sous un pantalon",
-            "us": "yes",
-            "them": "no"
+            "point_1": "<strong>Ajustable</strong> selon votre confort",
+            "point_2": "<strong>Légère</strong>, sans envelopper tout le genou",
+            "point_3": "<strong>Discrète</strong> sous un pantalon",
+            "point_4": "<strong>Facile</strong> à mettre et à retirer",
+            "point_5": ""
           }
         },
-        "r5": {
-          "type": "row",
+        "rt_deadline": {
+          "type": "rt_deadline",
           "settings": {
-            "label": "Taille unique ajustable, sans guide des tailles",
-            "us": "yes",
-            "them": "no"
+            "title": "Black Friday · Prix VIP en ligne",
+            "text": "Notre plus grosse offre de l'année, jusqu'au 30 novembre.",
+            "end_date": "2026-11-30T23:59:59+01:00"
+          }
+        },
+        "kaching": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{product}}",
+            "manual_deal_block_id": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "rt_trust": {
+          "type": "rt_trust",
+          "settings": {
+            "icon_1": "picto-lock",
+            "text_1": "Paiement sécurisé",
+            "icon_2": "picto-truck",
+            "text_2": "Livraison offerte en France",
+            "icon_3": "picto-return",
+            "text_3": "Satisfait ou remboursé 60 jours",
+            "show_payment_icons": true,
+            "payment_types": "visa,master,cartes_bancaires,paypal,apple_pay,google_pay"
+          }
+        },
+        "acc_garantie": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Garantie satisfait ou remboursé 60 jours",
+            "content": "<p>Si vous n'êtes pas convaincu après l'avoir essayée, vous êtes <strong>remboursé intégralement</strong> — <strong>sans justification, sans formulaire, sans prise de tête.</strong> À ce prix-là, votre seul vrai risque, c'est de regretter de ne pas l'avoir commandée plus tôt.</p>"
+          }
+        },
+        "acc_materiaux": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Matériaux & qualité",
+            "content": "<p>Coussinet en silicone de qualité médicale. Sangle en tissu aéré et respirant. Réglage ajustable pour un maintien sur mesure. Pensée pour tenir, s'adapter et durer.</p>"
+          }
+        },
+        "acc_confort": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Confort & maintien",
+            "content": "<p>Matériaux premium respirants qui gardent la peau au frais pendant l'effort. Le coussinet silicone antidérapant verrouille l'orthèse en place — elle ne s'enroule pas, ne glisse pas, même en sport intense. Coupe ajustable adaptée à la plupart des tours de genou.</p>"
+          }
+        },
+        "acc_livraison": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Livraison & suivi",
+            "content": "<p><strong>Expédiée sous 48 h.</strong> Suivez votre colis à chaque étape : numéro de suivi envoyé par e-mail dès l'envoi.</p>"
           }
         }
       },
       "block_order": [
-        "r1",
-        "r2",
-        "r3",
-        "r4",
-        "r5"
+        "rt_proof",
+        "title",
+        "subtitle",
+        "rt_points",
+        "rt_deadline",
+        "kaching",
+        "buy_buttons",
+        "rt_trust",
+        "acc_garantie",
+        "acc_materiaux",
+        "acc_confort",
+        "acc_livraison"
       ],
       "settings": {
-        "title": "Rotuleo ou genouillère classique ?",
-        "content": "<p>La précision, pas la pression.</p>",
-        "us_label": "Rotuleo",
-        "them_label": "Genouillère classique",
-        "button_label": "",
         "full_width": true,
+        "show_fixed_add_to_cart": false,
+        "desktop_media_width": 50,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
         "background": "",
         "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "mt_glisse": {
-      "type": "rt-media-text",
-      "settings": {
-        "image": "shopify://shop_images/rotuleo-lp-anti-glisse.webp",
-        "video_url": "",
-        "poster": "",
-        "media_position": "start",
-        "title": "Elle reste exactement où vous la posez.",
-        "content": "<p>Le reproche n°1 fait à toutes les orthèses de genou du marché : <strong>elles glissent</strong>.</p><p>En fente. En course. Pendant une simple marche jusqu'au boulanger. Vous passez <strong>plus de temps à la réajuster qu'à la porter</strong>.</p><p>Le coussinet silicone Rotuleo accroche directement à la peau et <strong>se verrouille en place</strong>. Charlotte a porté la sienne sur un 10 km complet. Emma a porté la sienne pendant quatre jours de randonnée sur sentiers boueux.</p><p><strong>Elle n'a pas bougé d'un millimètre.</strong></p>",
-        "button_label": "",
-        "full_width": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "mt_10h": {
-      "type": "rt-media-text",
-      "settings": {
-        "image": "shopify://shop_images/rotuleo-lp-portez-la.webp",
-        "video_url": "",
-        "poster": "",
-        "media_position": "end",
-        "title": "Portez-la 10 heures. Oubliez qu'elle est là.",
-        "content": "<p>La plupart des supports de genou <strong>transforment votre jambe en sauna</strong> en moins de 30 minutes. « J'ai acheté une genouillère et je l'ai retirée au bout d'une heure parce que ma jambe dégoulinait. » Ça vous parle ?</p><p>Rotuleo utilise un tissu aéré qui laisse circuler l'air. <strong>Pas de transpiration. Pas de démangeaisons. Pas d'irritation.</strong></p><p>Portez-la sous un pantalon. Sous un legging. Sous une chaussette de sport. <strong>Personne ne verra qu'elle est là. Mais votre genou, lui, le sentira.</strong></p>",
-        "button_label": "",
-        "full_width": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
       }
     },
     "steps": {
@@ -495,6 +444,66 @@
         "button_label": "",
         "full_width": true,
         "background": "#e8f5f8",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "mt_force": {
+      "type": "rt-media-text",
+      "settings": {
+        "video_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3EgpMZiNzIU12050mHQXC0SvigJ/hf_20261117_221530_00c5c92f-9f00-4dfe-a9b4-a44444bd5c15.mp4",
+        "poster": "shopify://shop_images/rotuleo-sangle-05.webp",
+        "media_position": "start",
+        "title": "Votre genou n'est pas le problème. C'est l'endroit où va la force.",
+        "content": "<p>À chaque pas, à chaque marche d'escalier, à chaque fois que vous vous relevez d'une chaise, votre corps fait passer une force énorme par <strong>un seul point minuscule, juste sous votre rotule</strong>.</p><p>Un seul point. <strong>De la taille d'une pièce d'un euro.</strong></p><p>Les genouillères classiques enveloppent toute l'articulation. <strong>Elles étalent la pression partout — elles ne la ciblent nulle part.</strong></p>",
+        "button_label": "",
+        "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "mt_genouillere": {
+      "type": "rt-media-text",
+      "settings": {
+        "image": "shopify://shop_images/rotuleo-lp-genouillere.webp",
+        "video_url": "",
+        "media_position": "end",
+        "title": "Ce n'est pas une genouillère. C'est plus petit. Et c'est voulu.",
+        "content": "<p>Une genouillère enveloppe toute l'articulation dans du néoprène en espérant que ça suffise. C'est comme <strong>mettre un pansement sur tout le bras alors qu'on s'est coupé un seul doigt.</strong></p><p>L'orthèse rotulienne Rotuleo fait une seule chose. <strong>Elle applique une pression sur le point exact où la force se concentre, et la redirige.</strong></p><p>Imaginez une porte qui frotte et coince. Vous pouvez huiler les gonds, poncer le bord, forcer pour la fermer à chaque fois. Ou vous pouvez <strong>redresser le cadre</strong> — et la porte s'ouvre sans le moindre effort.</p><p><strong>Rotuleo redresse le cadre.</strong></p>",
+        "button_label": "",
+        "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "mt_glisse": {
+      "type": "rt-media-text",
+      "settings": {
+        "image": "shopify://shop_images/rotuleo-lp-anti-glisse.webp",
+        "video_url": "",
+        "media_position": "start",
+        "title": "Elle reste exactement où vous la posez.",
+        "content": "<p>Le reproche n°1 fait à toutes les orthèses de genou du marché : <strong>elles glissent</strong>.</p><p>En fente. En course. Pendant une simple marche jusqu'au boulanger. Vous passez <strong>plus de temps à la réajuster qu'à la porter</strong>.</p><p>Le coussinet silicone Rotuleo accroche directement à la peau et <strong>se verrouille en place</strong>. Charlotte a porté la sienne sur un 10 km complet. Emma a porté la sienne pendant quatre jours de randonnée sur sentiers boueux.</p><p><strong>Elle n'a pas bougé d'un millimètre.</strong></p>",
+        "button_label": "",
+        "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "mt_10h": {
+      "type": "rt-media-text",
+      "settings": {
+        "image": "shopify://shop_images/rotuleo-lp-portez-la.webp",
+        "video_url": "",
+        "media_position": "end",
+        "title": "Portez-la 10 heures. Oubliez qu'elle est là.",
+        "content": "<p>La plupart des supports de genou <strong>transforment votre jambe en sauna</strong> en moins de 30 minutes. « J'ai acheté une genouillère et je l'ai retirée au bout d'une heure parce que ma jambe dégoulinait. » Ça vous parle ?</p><p>Rotuleo utilise un tissu aéré qui laisse circuler l'air. <strong>Pas de transpiration. Pas de démangeaisons. Pas d'irritation.</strong></p><p>Portez-la sous un pantalon. Sous un legging. Sous une chaussette de sport. <strong>Personne ne verra qu'elle est là. Mais votre genou, lui, le sentira.</strong></p>",
+        "button_label": "",
+        "full_width": true,
+        "background": "",
         "background_gradient": "",
         "text_color": ""
       }
@@ -625,6 +634,7 @@
         "subheading": "",
         "title": "Questions fréquentes",
         "content": "",
+        "team_avatar_width": 160,
         "support_hours": "",
         "answer_time": "",
         "button_text": "",
@@ -639,48 +649,6 @@
         "button_text_color": "#ffffff",
         "accordion_background": "#ffffff",
         "accordion_text_color": "#0f2440"
-      }
-    },
-    "hero": {
-      "type": "rt-hero",
-      "blocks": {
-        "h1": {
-          "type": "point",
-          "settings": {
-            "text": "Satisfait ou remboursé 60 jours"
-          }
-        },
-        "h2": {
-          "type": "point",
-          "settings": {
-            "text": "Livraison offerte en France"
-          }
-        },
-        "h3": {
-          "type": "point",
-          "settings": {
-            "text": "Expédié sous 48 h"
-          }
-        },
-        "h4": {
-          "type": "point",
-          "settings": {
-            "text": "Taille unique ajustable"
-          }
-        }
-      },
-      "block_order": [
-        "h1",
-        "h2",
-        "h3",
-        "h4"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/rotuleo-lp-portez-la.webp",
-        "image_focus": "object-position: center 35%",
-        "rating_text": "4,7/5 · 202 avis vérifiés",
-        "title": "Enfin, <strong>le soulagement</strong> que vos genoux attendaient.",
-        "subtitle": "<p>L’orthèse rotulienne qui cible le point exact sous la rotule. Montez les escaliers, marchez et randonnez à nouveau l’esprit libre.</p>"
       }
     },
     "contact": {
