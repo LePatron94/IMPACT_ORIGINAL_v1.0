@@ -1096,6 +1096,226 @@ quick buy information in a template, that will be extracted in JS, but ensure it
           "default": "start"
         }
       ]
+    },
+    {
+      "type": "rt_proof",
+      "name": "Rotuleo – Avis & clients",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "text",
+          "id": "rating_text",
+          "label": "Note affichée",
+          "default": "4,7/5 · 202 avis vérifiés"
+        },
+        {
+          "type": "image_picker",
+          "id": "avatar_1",
+          "label": "Avatar 1"
+        },
+        {
+          "type": "image_picker",
+          "id": "avatar_2",
+          "label": "Avatar 2"
+        },
+        {
+          "type": "image_picker",
+          "id": "avatar_3",
+          "label": "Avatar 3"
+        },
+        {
+          "type": "text",
+          "id": "proof_text",
+          "label": "Preuve sociale",
+          "default": "Martin et +15 000 autres clients"
+        }
+      ]
+    },
+    {
+      "type": "rt_points",
+      "name": "Rotuleo – Points clés",
+      "settings": [
+        {
+          "type": "inline_richtext",
+          "id": "point_1",
+          "label": "Point 1"
+        },
+        {
+          "type": "inline_richtext",
+          "id": "point_2",
+          "label": "Point 2"
+        },
+        {
+          "type": "inline_richtext",
+          "id": "point_3",
+          "label": "Point 3"
+        },
+        {
+          "type": "inline_richtext",
+          "id": "point_4",
+          "label": "Point 4"
+        },
+        {
+          "type": "inline_richtext",
+          "id": "point_5",
+          "label": "Point 5"
+        }
+      ]
+    },
+    {
+      "type": "rt_deadline",
+      "name": "Rotuleo – Offre limitée",
+      "settings": [
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Titre",
+          "default": "Black Friday · Prix VIP en ligne"
+        },
+        {
+          "type": "text",
+          "id": "text",
+          "label": "Texte"
+        },
+        {
+          "type": "text",
+          "id": "end_date",
+          "label": "Date de fin de l'offre",
+          "info": "Format : 2026-11-30T23:59:59+01:00. Le bloc disparaît automatiquement après cette date."
+        }
+      ]
+    },
+    {
+      "type": "rt_trust",
+      "name": "Rotuleo – Réassurance",
+      "settings": [
+        {
+          "type": "select",
+          "id": "icon_1",
+          "label": "Icône 1",
+          "default": "picto-lock",
+          "options": [
+            {
+              "value": "picto-lock",
+              "label": "Cadenas"
+            },
+            {
+              "value": "picto-truck",
+              "label": "Camion"
+            },
+            {
+              "value": "picto-return",
+              "label": "Retour"
+            },
+            {
+              "value": "picto-shield",
+              "label": "Bouclier"
+            },
+            {
+              "value": "picto-customer-support",
+              "label": "Service client"
+            },
+            {
+              "value": "picto-box",
+              "label": "Colis"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "text_1",
+          "label": "Texte 1",
+          "default": "Paiement sécurisé"
+        },
+        {
+          "type": "select",
+          "id": "icon_2",
+          "label": "Icône 2",
+          "default": "picto-truck",
+          "options": [
+            {
+              "value": "picto-lock",
+              "label": "Cadenas"
+            },
+            {
+              "value": "picto-truck",
+              "label": "Camion"
+            },
+            {
+              "value": "picto-return",
+              "label": "Retour"
+            },
+            {
+              "value": "picto-shield",
+              "label": "Bouclier"
+            },
+            {
+              "value": "picto-customer-support",
+              "label": "Service client"
+            },
+            {
+              "value": "picto-box",
+              "label": "Colis"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "text_2",
+          "label": "Texte 2",
+          "default": "Expédié sous 48 h"
+        },
+        {
+          "type": "select",
+          "id": "icon_3",
+          "label": "Icône 3",
+          "default": "picto-return",
+          "options": [
+            {
+              "value": "picto-lock",
+              "label": "Cadenas"
+            },
+            {
+              "value": "picto-truck",
+              "label": "Camion"
+            },
+            {
+              "value": "picto-return",
+              "label": "Retour"
+            },
+            {
+              "value": "picto-shield",
+              "label": "Bouclier"
+            },
+            {
+              "value": "picto-customer-support",
+              "label": "Service client"
+            },
+            {
+              "value": "picto-box",
+              "label": "Colis"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "text_3",
+          "label": "Texte 3",
+          "default": "Satisfait ou remboursé 60 jours"
+        },
+        {
+          "type": "checkbox",
+          "id": "show_payment_icons",
+          "label": "Afficher les moyens de paiement",
+          "default": true
+        },
+        {
+          "type": "text",
+          "id": "payment_types",
+          "label": "Moyens de paiement affichés",
+          "default": "visa,master,cartes_bancaires,paypal,apple_pay,google_pay"
+        }
+      ]
     }
   ],
   "settings": [
@@ -1154,7 +1374,7 @@ quick buy information in a template, that will be extracted in JS, but ensure it
       "default": "carousel_thumbnails_left"
     },
     {
-      "type":"select",
+      "type": "select",
       "id": "mobile_media_size",
       "label": "Mobile media size",
       "options": [

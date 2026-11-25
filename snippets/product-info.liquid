@@ -338,6 +338,9 @@
             {%- render 'icon' with 'share' -%} {{- 'general.social.share' | t -}}
           </button>
         </div>
+      {%- when 'rt_proof', 'rt_points', 'rt_deadline', 'rt_trust' -%}
+        {%- render 'rt-product-block', block: block, product: product -%}
+
     {%- endcase -%}
   {%- endfor -%}
 

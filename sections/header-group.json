@@ -17,21 +17,21 @@
         "message_KQRq4K": {
           "type": "message",
           "settings": {
-            "text": "PROCHAIN RÉAPPROVISIONNEMENT EN JUILLET 2026",
+            "text": "BLACK FRIDAY : PRIX VIP JUSQU’AU 30 NOVEMBRE",
             "url": ""
           }
         },
         "message_xegXTL": {
           "type": "message",
           "settings": {
-            "text": "STOCKS TRÈS FAIBLES",
+            "text": "EXPÉDIÉ SOUS 48 H",
             "url": ""
           }
         },
         "message_rQ3fjz": {
           "type": "message",
           "settings": {
-            "text": "SATISFAIT OU REMBOURSÉ",
+            "text": "SATISFAIT OU REMBOURSÉ 60 JOURS",
             "url": ""
           }
         }
@@ -46,7 +46,7 @@
         "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 14,
-        "background": "#000000",
+        "background": "#0d2e57",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -56,9 +56,9 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": true,
-        "logo": "shopify://shop_images/lhhlhil_1.png",
-        "logo_max_width": 235,
-        "logo_mobile_max_width": 170,
+        "logo": "shopify://shop_images/Capture_d_ecran_2026-11-21_a_21.01.32.png",
+        "logo_max_width": 210,
+        "logo_mobile_max_width": 150,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
@@ -70,7 +70,7 @@
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": false,
-        "transparent_header_text_color": "#4e0858",
+        "transparent_header_text_color": "#0d2e57",
         "reduce_padding": true,
         "background_opacity": 100,
         "background_blur_radius": 0
@@ -82,3 +82,4 @@
     "header"
   ]
 }
+

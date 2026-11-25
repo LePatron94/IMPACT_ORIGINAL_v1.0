@@ -1,0 +1,58 @@
+{%- render 'section-spacing-collapsing' -%}
+
+<div {% render 'section-properties' %}>
+  {%- if section.settings.title != blank or section.settings.content != blank -%}
+    <div class="rt-head">
+      {%- if section.settings.title != blank -%}<h2 class="h2">{{ section.settings.title | escape }}</h2>{%- endif -%}
+      {%- if section.settings.content != blank -%}<div class="rt-head__sub">{{ section.settings.content }}</div>{%- endif -%}
+    </div>
+  {%- endif -%}
+
+  {%- assign half = section.blocks.size | plus: 1 | divided_by: 2 -%}
+  <div class="rt-benefits">
+    <ul class="rt-benefits__col rt-benefits__col--a" role="list">
+      {%- for block in section.blocks limit: half -%}
+        <li class="rt-benefit" {{ block.shopify_attributes }}>{%- render 'rt-icon', name: 'check' -%}<span>{{ block.settings.title | escape }}</span></li>
+      {%- endfor -%}
+    </ul>
+
+    {%- if section.settings.image != blank -%}
+      <div class="rt-benefits__media">
+        {{- section.settings.image | image_url: width: 900 | image_tag: loading: 'lazy', sizes: '(max-width: 699px) 80vw, 400px', widths: '300,400,600,800,900' -}}
+      </div>
+    {%- endif -%}
+
+    <ul class="rt-benefits__col rt-benefits__col--b" role="list">
+      {%- for block in section.blocks offset: half -%}
+        <li class="rt-benefit" {{ block.shopify_attributes }}>{%- render 'rt-icon', name: 'check' -%}<span>{{ block.settings.title | escape }}</span></li>
+      {%- endfor -%}
+    </ul>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Rotuleo – Bénéfices",
+  "class": "shopify-section--rt-benefits",
+  "settings": [
+    { "type": "text", "id": "title", "label": "Titre", "default": "Ce que vous allez retrouver" },
+    { "type": "richtext", "id": "content", "label": "Texte" },
+    { "type": "image_picker", "id": "image", "label": "Image produit (au centre)" },
+    { "type": "checkbox", "id": "full_width", "label": "Pleine largeur", "default": true },
+    { "type": "color", "id": "background", "label": "Fond" },
+    { "type": "color_background", "id": "background_gradient", "label": "Dégradé de fond" },
+    { "type": "color", "id": "text_color", "label": "Texte" }
+  ],
+  "blocks": [
+    {
+      "type": "benefit",
+      "name": "Bénéfice",
+      "settings": [
+        { "type": "text", "id": "title", "label": "Bénéfice", "default": "Aborder les escaliers sereinement" }
+      ]
+    }
+  ],
+  "presets": [{ "name": "Rotuleo – Bénéfices", "blocks": [{ "type": "benefit" }, { "type": "benefit" }] }]
+}
+{% endschema %}
+

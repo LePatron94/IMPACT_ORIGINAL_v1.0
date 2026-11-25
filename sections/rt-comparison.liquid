@@ -1,0 +1,71 @@
+{%- render 'section-spacing-collapsing' -%}
+
+<div {% render 'section-properties' %}>
+  {%- if section.settings.title != blank or section.settings.content != blank -%}
+    <div class="rt-head">
+      {%- if section.settings.title != blank -%}<h2 class="h2">{{ section.settings.title | escape }}</h2>{%- endif -%}
+      {%- if section.settings.content != blank -%}<div class="rt-head__sub">{{ section.settings.content }}</div>{%- endif -%}
+    </div>
+  {%- endif -%}
+
+  <div class="rt-cmp">
+    <table class="rt-cmp__table">
+      <colgroup><col><col><col></colgroup>
+      <thead>
+        <tr>
+          <td></td>
+          <th scope="col" class="rt-cmp__us">{{ section.settings.us_label | escape }}</th>
+          <th scope="col">{{ section.settings.them_label | escape }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {%- for block in section.blocks -%}
+          <tr {{ block.shopify_attributes }}>
+            <th scope="row">{{ block.settings.label | escape }}</th>
+            <td class="rt-cmp__us">
+              {%- if block.settings.us == 'yes' -%}{%- render 'rt-icon', name: 'check', inner: '#0d2e57' -%}<span class="sr-only">Oui</span>{%- else -%}{%- render 'rt-icon', name: 'x' -%}<span class="sr-only">Non</span>{%- endif -%}
+            </td>
+            <td>
+              {%- if block.settings.them == 'yes' -%}{%- render 'rt-icon', name: 'check' -%}<span class="sr-only">Oui</span>{%- else -%}{%- render 'rt-icon', name: 'x' -%}<span class="sr-only">Non</span>{%- endif -%}
+            </td>
+          </tr>
+        {%- endfor -%}
+      </tbody>
+    </table>
+
+    {%- if section.settings.button_label != blank -%}
+      <div class="rt-cmp__cta"><a href="#rt-acheter" class="button rt-cta">{{ section.settings.button_label | escape }}</a></div>
+    {%- endif -%}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Rotuleo – Comparatif",
+  "class": "shopify-section--rt-comparison",
+  "settings": [
+    { "type": "text", "id": "title", "label": "Titre", "default": "Rotuleo ou genouillère classique ?" },
+    { "type": "richtext", "id": "content", "label": "Texte" },
+    { "type": "text", "id": "us_label", "label": "Colonne mise en avant", "default": "Rotuleo" },
+    { "type": "text", "id": "them_label", "label": "Colonne comparée", "default": "Genouillère classique" },
+    { "type": "text", "id": "button_label", "label": "Bouton (vers l'offre)", "default": "Acheter maintenant" },
+    { "type": "checkbox", "id": "full_width", "label": "Pleine largeur", "default": true },
+    { "type": "color", "id": "background", "label": "Fond" },
+    { "type": "color_background", "id": "background_gradient", "label": "Dégradé de fond" },
+    { "type": "color", "id": "text_color", "label": "Texte" }
+  ],
+  "blocks": [
+    {
+      "type": "row",
+      "name": "Ligne",
+      "settings": [
+        { "type": "text", "id": "label", "label": "Critère", "default": "Critère" },
+        { "type": "select", "id": "us", "label": "Rotuleo", "default": "yes", "options": [ { "value": "yes", "label": "Oui" }, { "value": "no", "label": "Non" } ] },
+        { "type": "select", "id": "them", "label": "Comparé", "default": "no", "options": [ { "value": "yes", "label": "Oui" }, { "value": "no", "label": "Non" } ] }
+      ]
+    }
+  ],
+  "presets": [{ "name": "Rotuleo – Comparatif", "blocks": [{ "type": "row" }, { "type": "row" }, { "type": "row" }] }]
+}
+{% endschema %}
+

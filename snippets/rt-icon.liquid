@@ -1,0 +1,11 @@
+{%- comment -%}Rotuleo : icônes (check / x / star). Paramètres : name, inner (couleur du tracé){%- endcomment -%}
+{%- assign inner = inner | default: '#ffffff' -%}
+{%- case name -%}
+  {%- when 'check' -%}
+    <svg class="rt-ico rt-ico--check" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="12" fill="currentColor"/><path d="M7 12.4l3.3 3.3L17.2 8.8" fill="none" stroke="{{ inner }}" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  {%- when 'x' -%}
+    <svg class="rt-ico rt-ico--x" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="12" fill="currentColor"/><path d="M8.6 8.6l6.8 6.8M15.4 8.6l-6.8 6.8" fill="none" stroke="{{ inner }}" stroke-width="2.4" stroke-linecap="round"/></svg>
+  {%- when 'star' -%}
+    <svg viewBox="0 0 20 20" width="16" height="16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M10 1.5l2.6 5.4 5.9.8-4.3 4.1 1 5.8L10 14.8l-5.2 2.8 1-5.8L1.5 7.7l5.9-.8z"/></svg>
+{%- endcase -%}
+

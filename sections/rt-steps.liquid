@@ -1,0 +1,65 @@
+{%- render 'section-spacing-collapsing' -%}
+
+<div {% render 'section-properties' %}>
+  {%- if section.settings.title != blank or section.settings.content != blank -%}
+    <div class="rt-head">
+      {%- if section.settings.title != blank -%}<h2 class="h2">{{ section.settings.title | escape }}</h2>{%- endif -%}
+      {%- if section.settings.content != blank -%}<div class="rt-head__sub">{{ section.settings.content }}</div>{%- endif -%}
+    </div>
+  {%- endif -%}
+
+  <div class="rt-steps">
+    {%- if section.settings.image != blank -%}
+      <div class="rt-steps__media">
+        {%- assign alt = section.settings.image.alt | default: section.settings.title -%}
+        {{- section.settings.image | image_url: width: 1200 | image_tag: loading: 'lazy', alt: alt, sizes: '(max-width: 999px) 100vw, 50vw', widths: '400,600,800,1000,1200' -}}
+      </div>
+    {%- endif -%}
+
+    <div>
+      <ol class="rt-steps__list" role="list">
+        {%- for block in section.blocks -%}
+          <li class="rt-step" {{ block.shopify_attributes }}>
+            <span class="rt-step__num" aria-hidden="true">{{ forloop.index }}</span>
+            <div>
+              <p class="rt-step__title">{{ block.settings.title | escape }}</p>
+              {%- if block.settings.text != blank -%}<p class="rt-step__text">{{ block.settings.text }}</p>{%- endif -%}
+            </div>
+          </li>
+        {%- endfor -%}
+      </ol>
+      {%- if section.settings.button_label != blank -%}
+        <div class="rt-steps__cta"><a href="#rt-acheter" class="button rt-cta">{{ section.settings.button_label | escape }}</a></div>
+      {%- endif -%}
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Rotuleo – Mode d'emploi",
+  "class": "shopify-section--rt-steps",
+  "settings": [
+    { "type": "text", "id": "title", "label": "Titre", "default": "Comment la porter" },
+    { "type": "richtext", "id": "content", "label": "Texte" },
+    { "type": "image_picker", "id": "image", "label": "Image" },
+    { "type": "text", "id": "button_label", "label": "Bouton (vers l'offre)", "default": "Acheter maintenant" },
+    { "type": "checkbox", "id": "full_width", "label": "Pleine largeur", "default": true },
+    { "type": "color", "id": "background", "label": "Fond" },
+    { "type": "color_background", "id": "background_gradient", "label": "Dégradé de fond" },
+    { "type": "color", "id": "text_color", "label": "Texte" }
+  ],
+  "blocks": [
+    {
+      "type": "step",
+      "name": "Étape",
+      "settings": [
+        { "type": "text", "id": "title", "label": "Titre", "default": "Étape" },
+        { "type": "inline_richtext", "id": "text", "label": "Texte" }
+      ]
+    }
+  ],
+  "presets": [{ "name": "Rotuleo – Mode d'emploi", "blocks": [{ "type": "step" }, { "type": "step" }, { "type": "step" }] }]
+}
+{% endschema %}
+

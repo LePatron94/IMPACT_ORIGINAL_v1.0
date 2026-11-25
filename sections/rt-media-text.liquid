@@ -1,0 +1,44 @@
+{%- render 'section-spacing-collapsing' -%}
+
+<div {% render 'section-properties' %}>
+  <div class="rt-mt {% if section.settings.media_position == 'end' %}rt-mt--reverse{% endif %}">
+    <div class="rt-mt__media">
+      {%- if section.settings.video_url != blank -%}
+        <video src="{{ section.settings.video_url | escape }}" {% if section.settings.poster != blank %}poster="{{ section.settings.poster | image_url: width: 1000 }}"{% endif %} autoplay muted loop playsinline preload="metadata" aria-hidden="true"></video>
+      {%- elsif section.settings.image != blank -%}
+        {%- assign alt = section.settings.image.alt | default: section.settings.title -%}
+        {{- section.settings.image | image_url: width: 1400 | image_tag: loading: 'lazy', alt: alt, sizes: '(max-width: 999px) 100vw, 50vw', widths: '400,600,800,1000,1200,1400' -}}
+      {%- else -%}
+        {{- 'image' | placeholder_svg_tag -}}
+      {%- endif -%}
+    </div>
+
+    <div class="rt-mt__content">
+      {%- if section.settings.title != blank -%}<h2 class="h3 rt-mt__title">{{ section.settings.title | escape }}</h2>{%- endif -%}
+      {%- if section.settings.content != blank -%}<div class="rt-mt__text">{{ section.settings.content }}</div>{%- endif -%}
+      {%- if section.settings.button_label != blank -%}<a href="#rt-acheter" class="button rt-cta">{{ section.settings.button_label | escape }}</a>{%- endif -%}
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Rotuleo – Média + texte",
+  "class": "shopify-section--rt-media-text",
+  "settings": [
+    { "type": "image_picker", "id": "image", "label": "Image" },
+    { "type": "text", "id": "video_url", "label": "Vidéo (lien MP4)", "info": "Si renseignée, la vidéo remplace l'image (lecture auto, sans son)." },
+    { "type": "image_picker", "id": "poster", "label": "Image d'attente de la vidéo" },
+    { "type": "select", "id": "media_position", "label": "Position du média (ordinateur)", "default": "start", "options": [ { "value": "start", "label": "À gauche" }, { "value": "end", "label": "À droite" } ] },
+    { "type": "text", "id": "title", "label": "Titre", "default": "Titre de la section" },
+    { "type": "richtext", "id": "content", "label": "Texte", "default": "<p>Votre texte ici.</p>" },
+    { "type": "text", "id": "button_label", "label": "Bouton (vers l'offre)", "info": "Laisser vide pour masquer." },
+    { "type": "checkbox", "id": "full_width", "label": "Pleine largeur", "default": true },
+    { "type": "color", "id": "background", "label": "Fond" },
+    { "type": "color_background", "id": "background_gradient", "label": "Dégradé de fond" },
+    { "type": "color", "id": "text_color", "label": "Texte" }
+  ],
+  "presets": [{ "name": "Rotuleo – Média + texte" }]
+}
+{% endschema %}
+

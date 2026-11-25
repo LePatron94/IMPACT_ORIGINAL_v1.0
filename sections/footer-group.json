@@ -17,7 +17,7 @@
         "customer-support": {
           "type": "item",
           "settings": {
-            "icon": "picto-operator",
+            "icon": "picto-customer-support",
             "mobile_icon_width": 48,
             "icon_width": 24,
             "icon_background_type": "none",
@@ -30,39 +30,39 @@
         "payment": {
           "type": "item",
           "settings": {
-            "icon": "picto-happy",
+            "icon": "picto-return",
             "mobile_icon_width": 48,
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Satisfait ou 100% remboursé",
+            "title": "Satisfait ou remboursé 60 jours",
             "content": ""
           }
         },
         "free-shipping": {
           "type": "item",
           "settings": {
-            "icon": "picto-box",
+            "icon": "picto-truck",
             "mobile_icon_width": 48,
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Livraison Gratuite",
+            "title": "Expédié sous 48 h",
             "content": ""
           }
         },
         "discount": {
           "type": "item",
           "settings": {
-            "icon": "picto-credit-card",
+            "icon": "picto-lock",
             "mobile_icon_width": 48,
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Paiement 100% sécurisé",
+            "title": "Paiement 100 % sécurisé",
             "content": ""
           }
         }
@@ -80,9 +80,9 @@
         "heading_tag": "h6",
         "text_alignment": "center",
         "icon_spacing": "small",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#0d2e57"
       }
     },
     "footer": {
@@ -124,3 +124,4 @@
     "footer"
   ]
 }
+
