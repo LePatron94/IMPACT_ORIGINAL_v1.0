@@ -435,6 +435,7 @@
         },
         "rt_points": {
           "type": "rt_points",
+          "disabled": true,
           "settings": {
             "point_1": "<strong>Ajustable</strong> selon votre confort",
             "point_2": "<strong>Légère</strong>, sans envelopper tout le genou",
